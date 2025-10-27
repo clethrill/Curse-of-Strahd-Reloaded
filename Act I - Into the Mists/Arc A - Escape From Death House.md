@@ -386,6 +386,8 @@ If the armor is thrown down to the first floor and the players do not reveal the
 
 A creature that is pushed over the edge of the balcony falls two stories, or twenty feet, and takes 2d6 bludgeoning damage. That creature must succeed on a DC 15 Dexterity (Acrobatics) check or land prone.
 
+![[AnimatedArmor.png]]
+
 > [!combat]- **Balancing the Animated Armor**
 > This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -435,6 +437,10 @@ See **Elisabeth's Amber Shard** in [[#Ritual Chamber]] below for more informatio
 <span class="citation"><em>This scene takes place in Appendix B: Area 13.</em></span>
 
 This room is as described in <span class="citation">Bathroom (p. 215)</span>.
+
+<div class="description">
+<p>This dark room contains a wooden tub with clawed feet, a small iron stove with a kettle resting atop it, and a barrel under a spigot in the east wall. A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the plumbing no longer works.</p>
+</div>
 ### Storage Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 14.</em></span>
 
@@ -445,6 +451,8 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 </div>
 
 When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+
+![[BroomOfAnimatedAttack.png]]
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
@@ -520,6 +528,11 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
 
 This room is largely as described in **Children’s Room** (p. 215-16).
+
+<div class="description">
+<p>This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the cradles contains a stuffed doll that you also recognise.
+</p>
+</div>
 
 ![[Rose and Thorn.png]]
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -741,6 +754,8 @@ If the players disturb the grick, read:
 <p>It lets out a high-pitched, gurgling squeal as it hurls itself forward, writhing, tendon-like tentacles lashing toward your face.</p>
 </div>
 
+![[Grick.png]]
+
 > [!combat]- **Balancing the Grick**
 > This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -760,6 +775,8 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
 
 ![[Ghoulish Encounter Map.png]]
+
+![[Ghoul.png]]
 
 > [!combat]- **Balancing the Ghouls**
 > Due to the choke point, this is a series of three consecutive **mild** combat encounters against a party of five 2nd-level players, each of which will consume approximately 15% of the party's total maximum hit points (for a total of 45% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter(s) as follows:
@@ -820,6 +837,8 @@ The shadows gain the following additional feature:
 
 ***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
 
+![[Shadow.png]]
+
 > [!combat]- **Balancing the Shadows**
 > This combat encounter is a **crushing** encounter against a party of five 2nd-level players, and will consume approximately 131% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -857,6 +876,8 @@ This room is largely as described in <span class="citation">Cult Leaders’ Quar
 The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
 
 Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
+
+![[Boneless.png]]
 
 > [!combat]- **Balancing the Boneless**
 > This combat encounter is a **mild** encounter against a party of five 2nd-level players, and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
@@ -1084,6 +1105,8 @@ Instead, as the players escape the crumbling Death House, they face two addition
 The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
 
 If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+
+![[Poltergeist.png]]
 
 > [!combat]- **Balancing the Poltergeist**
 > This combat encounter is a **bruising** encounter against a party of five 2nd-level players, and will consume approximately 28% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
