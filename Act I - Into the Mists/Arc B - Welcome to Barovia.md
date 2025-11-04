@@ -16,14 +16,32 @@ The following morning, Ismark asks the players to help bring their father’s re
 The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
 This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
+
+<div class="description">
+<p>Black pools of water stand like dark mirrors in and around the muddy roadway. Giant trees loom on both sides of the road, their branches clawing at the mist.
+</p><p>After 40 minutes travelling...</p>
+</div>
+
 # B2. Gates of Barovia
 <span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
 
 This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
 
 The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
+
+<div class="description">
+<p>The fog spills out of the forest to swallow up the road behind you. Ahead, juitting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeks at their feet. They greet you only with silence.</p>
+</div>
+
+The gates automatically open and close for the players screeching as the hinges move.
 # B3. Svalich Woods
 <span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
+
+<div class="description">
+<p>Soon you find yourself between towering trees, whose tops are lost in heavy gray mist, block out all but a death-gray light. The tree trunks are unnaturally close to one another, and the woods have the silence of a forgotten grave, yet exude the feeling of an unvoiced scream.</p>
+<p>Ester (char with highest wisdom) you catch the scent of death on the air</p>
+<p>(if following the scent) The foul scent leads you to a human corpse half-buried in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy cloth have been torn and raked by brambles and thorns</p>
+</div>
 
 This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
@@ -148,6 +166,10 @@ As the players and Ismark pass through the village streets, read:
 </div>
 
 Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+
+<div class="description">
+<p>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.</p>
+</div>
 
 The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
 ![[Ismark the Great.png]]

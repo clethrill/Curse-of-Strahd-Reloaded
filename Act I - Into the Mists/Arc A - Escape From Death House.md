@@ -49,18 +49,18 @@ When the players have finished introducing themselves, read:
 
 One by one, the players’ relics then react as follows, in the following order.
 
-* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
+* ***==Stone Crest.==*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
 * ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
+* ***==Dragon's Scale.==*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
 * ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
 * ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
+* ***==Wolf's Tooth.==*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
 * ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
 * ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
 * ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
 * ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
+* ***==Raven's Feather.==*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
+* ***==Wanderer's Scarf.==*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
 
 If the players give chase, read:
 
@@ -527,7 +527,7 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 ### Children’s Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+This room is largely as described in **Children’s Room** (p. 215-16). The key to this room is in the music box in the Spare Bedroom.
 
 <div class="description">
 <p>This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the cradles contains a stuffed doll that you also recognise.
@@ -602,6 +602,13 @@ A player inspecting the remains feels a cold breath on their shoulder and the un
 <span class="citation"><em>This scene takes place in Appendix B: Area 19.</em></span>
 
 This room is as described in <span class="citation">Spare Bedroom (p. 215)</span>.
+
+<div class="description">
+<p>
+You find a cob-filled mostly empty bedroom.
+</p>
+</div>
+
 ### Secret Stairs
 <span class="citation"><em>This scene takes place in Appendix B: Area 21.</em></span>
 
@@ -705,6 +712,7 @@ If the players toss an object down the well and then turn away, they hear loud s
 
 Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
+Treasure: A. 11gp 60sp, B. 3 moss agates worth 10gp each, C. black leather eyepatch with a carnelian worth 50gp sewn into it, D. Ivory hairbrush with silver bristles worth 25gp, E. 110gp and Drashas Journal as noted above.
 
 ### Hidden Spiked Pit
 <span class="citation"><em>This scene takes place in Appendix B: Area 26.</em></span>
@@ -845,6 +853,8 @@ The shadows gain the following additional feature:
 > * ***Three Players.*** Reduce the number of shadows to three.
 > * ***Four Players.*** Reduce the number of shadows to four.
 > * ***Six Players.*** Increase the number of shadows to six.
+
+Treasure: Orb is worth 25gp and can be used as an arcane focus
 ### Hidden Trapdoor
 <span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
 
@@ -887,6 +897,10 @@ Folded inside the foot locker, on top of its other contents, is a **boneless** (
 > * ***Six Players.*** Increase the boneless’ hit points to 31. Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.
 
 No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
+
+Treasure: In footlocker under the boneless. Cloak of Protection, 4x Potions of Healing, Chain Shirt, Alchemist's Fire, Bullseye Lantern, Thieve's Tools, Spellbook with a yellow leather cover containing the following spells:
+1st: Disguise Self, Identify, Mage Armor, Magic Missile, Protection from Evil and Good
+2nd: Darkvision, Hold Person, Invisibility, Magic Weapon
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
@@ -911,6 +925,7 @@ This room is largely as described in <span class="citation">Prison (p. 219)</spa
 <p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
 </div>
 
+Tresure: Skeleton has a gold ring worth 25gp
 ### Portcullis
 <span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
 
