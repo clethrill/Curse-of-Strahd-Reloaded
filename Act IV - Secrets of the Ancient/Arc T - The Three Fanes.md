@@ -669,7 +669,7 @@ The golden figure is the spirit of Sergei von Zarovich (use the statistics of a 
 >
 > Sergei fears what Strahd has become—but, more importantly, loathes himself for his failure to see the darkness growing in Strahd’s heart, as well as his own failure to protect Tatyana from Strahd’s assault. He blames himself for Strahd’s fall from grace and for Tatyana’s death at Strahd’s hands; had he not taunted Strahd with their romance, or even departed his position as Moste High Priest of the Morninglord’s Church, Sergei believes, all this tragedy may have been avoided.
 >
-> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
+> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Mayor Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
 >
 > Today, Sergei generally conceals himself near the border of the Deep Ethereal, so as to avoid the watchful eyes of Strahd’s **nightmare** and ghostly servants. However, he occasionally dares to visit Marina’s Monument, where he pays his respects to the woman he failed to save, and the woman his actions condemned. Sergei dreads the day that he might encounter Tatyana’s soul again—and hopes fervently that day will never come.
 ### Sergei’s Surprise
@@ -720,13 +720,13 @@ Upon returning to the Material Plane, Sergei is willing to share the following i
 
 * He is Sergei von Zarovich, the younger brother of Strahd von Zarovich.
 * The monument, which is called Marina’s Monument, was erected by Strahd three-and-a-half centuries ago, shortly after the destruction of Berez in a terrible flood. 
-* Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local burgomaster. 
-* Marina was slain by her father, Burgomaster Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
+* Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local mayor. 
+* Marina was slain by her father, Mayor Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
 
 The players can convince Sergei to elaborate on his role in Marina’s death by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players point out that he clearly feels guilty for her death. The check succeeds automatically if Ireena assists the players in doing so. On a success, a miserable Sergei can share the following additional information:
 
-* When Strahd paid his first nocturnal visit to Marina, Sergei immediately feared for her life. When Strahd departed, Sergei visited the dreams of Burgomaster Ulrich and Brother Grigor, whispering to them that Marina had been preyed upon by the lord of the land, and that her life was in grave danger. (“I had hoped," Sergei says, swallowing, “that they would do what I could not, and take her away to safety.")
-* The following morning, Burgomaster Ulrich and Brother Grigor inspected Marina’s neck and found the marks of Strahd’s fangs upon her neck. Rather than spirit her away, as Sergei had hoped, a mournful Ulrich and stoic Grigor killed her instead, intent on keeping Strahd from claiming her soul as a vampire. (“I had meant to save her," Sergei says bitterly. “But instead, I had killed her once again.")
+* When Strahd paid his first nocturnal visit to Marina, Sergei immediately feared for her life. When Strahd departed, Sergei visited the dreams of Mayor Ulrich and Brother Grigor, whispering to them that Marina had been preyed upon by the lord of the land, and that her life was in grave danger. (“I had hoped," Sergei says, swallowing, “that they would do what I could not, and take her away to safety.")
+* The following morning, Mayor Ulrich and Brother Grigor inspected Marina’s neck and found the marks of Strahd’s fangs upon her neck. Rather than spirit her away, as Sergei had hoped, a mournful Ulrich and stoic Grigor killed her instead, intent on keeping Strahd from claiming her soul as a vampire. (“I had meant to save her," Sergei says bitterly. “But instead, I had killed her once again.")
 
 If the players ask Sergei how he could have killed Marina “again," mention Tatyana, or ask how he died, Sergei winces and begs the players not to “open old wounds." If the players persist, Sergei sighs, and can share the following additional information if asked:
 
@@ -746,7 +746,7 @@ If the players ask Sergei how he could have killed Marina “again," mention Tat
 If prompted to continue, Sergei can also share the following information:
 
 * After Tatyana’s death, Sergei withdrew to the realm of spirits, too fearful of what his brother had become, and too ashamed of his own failures, to return to the Material Plane. “I searched long for Tatyana’s spirit in the Ethereal Plane," Sergei mourns. “Eventually, I gave up the search—but perhaps I gave up too soon.")
-* Forty years after Tatyana’s death, Sergei learned that Strahd had discovered a new woman to prey upon: Marina Ulrich, the daughter of Berez’s burgomaster. “She was like Tatyana come to life again," Sergei recalls wistfully. “Her face, her voice—even her eyes matched Tatyana’s perfectly."
+* Forty years after Tatyana’s death, Sergei learned that Strahd had discovered a new woman to prey upon: Marina Ulrich, the daughter of Berez’s mayor. “She was like Tatyana come to life again," Sergei recalls wistfully. “Her face, her voice—even her eyes matched Tatyana’s perfectly."
 * Both Strahd and Sergei came to believe that Marina *was* Tatyana born anew—but where Strahd sought to conquer what he had once lost, Sergei wanted only to rescue the woman he had once failed to save. (“These Mists entrap our souls," Sergei shares. “Bereft of any place to receive us, and without any place to draw new souls from, I have seen many old spirits drawn into newborn infants, reincarnated through the centuries to live again through fresh eyes.")
 
 If confronted or pressed, Sergei can reluctantly share the following additional information:
@@ -903,7 +903,7 @@ Two ten-foot-wide passages lead from this chamber, whose walls are flush with th
 * One to the south, which leads to [[#T3i. Garden]].
 * One to the north, which leads to [[#T3k. Baba Lysaga’s Hut]].
 
-In addition, when the players first move across the mansion, the **ghost** of Burgomaster Lazlo Ulrich appears before them. When he does so, read:
+In addition, when the players first move across the mansion, the **ghost** of Mayor Lazlo Ulrich appears before them. When he does so, read:
 
 <div class="description">
 <p>The fog stirs—then forms into a silhouette: a giant of a man with a thick, drooping mustache, his shadow dark against the mist. As his form resolves, so too do his features: his face and torso are mutilated, with his entrails hanging out like frayed rope.</p>
@@ -911,7 +911,7 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 </div>
 
 > [!lore]+ **Lazlo’s Fall**
-> When Burgomaster Lazlo Ulrich saw the marks on Marina’s neck and confirmed what his dreams had told him—that Strahd had visited his daughter, Marina, in the night—Lazlo felt fear strike deep in his heart. For an instant, he considered fleeing with Marina from the village—to Vallaki’s high walls, or to Krezk to the west—or even confronting the Devil himself, suicide that he knew it to be. 
+> When Mayor Lazlo Ulrich saw the marks on Marina’s neck and confirmed what his dreams had told him—that Strahd had visited his daughter, Marina, in the night—Lazlo felt fear strike deep in his heart. For an instant, he considered fleeing with Marina from the village—to Vallaki’s high walls, or to Krezk to the west—or even confronting the Devil himself, suicide that he knew it to be. 
 >
 > Yet the Dark Powers’ voices came to him, whispering sweetly that further struggle would be pointless. Marina was already dead, they told him, for there was nowhere in Barovia that Strahd could not pursue her. If he did, they murmured, she would be lost forever, for she would become a vampire, and her soul would surely be damned. Although Lazlo did not recognize the voices for what they were, he knew in his heart that there was only one way to save her: to carry out the deed himself, so that she could flee where Strahd could not follow.
 >
@@ -947,7 +947,7 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 
 Lazlo can share the following information with the players if asked:
 
-* In life, he was Lazlo Ulrich, last Burgomaster of Berez.
+* In life, he was Lazlo Ulrich, last Mayor of Berez.
 * He knows that the players travel with “the one that calls herself Ireena Kolyana." (If Ireena is present, Lazlo addresses her as “Marina," then greets her as described above.)
 * He believes that Ireena contains the soul of his daughter, Marina, who died long ago. He wishes to reunite with Marina’s spirit, so that her soul may finally “come home"—and so be at rest. (A player who succeeds on a DC 12 Wisdom (Insight) check identifies a cringing light in Lazlo’s eyes, and discerns that Lazlo has ulterior motives in wanting to return Marina’s spirit “home.")
 
@@ -1902,7 +1902,7 @@ If the players visit Wachterhaus after completing [[Arc S - A Sword of Sunlight]
 > [!info]+ **The Cats**
 > Strahd’s emissary has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, forcing Lady Wachter to allow her eight cats free reign of Wachterhaus. As a result, much of Haliq’s time over the past few days has been dominated by preventing the cats from damaging furniture, escaping the house, or otherwise causing trouble, leaving him several scratches along his face and arms to show for it.
 
-If he recognizes the players, Haliq is visibly uncomfortable at their presence and insists that Lady Wachter is unavailable. If asked the reason for his discomfort, Haliq merely claims that he has been “very busy" aiding Lady Wachter in her duties as Burgomaster, and that he has little time to entertain guests.
+If he recognizes the players, Haliq is visibly uncomfortable at their presence and insists that Lady Wachter is unavailable. If asked the reason for his discomfort, Haliq merely claims that he has been “very busy" aiding Lady Wachter in her duties as Mayor, and that he has little time to entertain guests.
 
 The players can convince Haliq to allow them entry or share what he knows by succeeding on a DC 20 Charisma (Persuasion or Intimidation) check. On a failure, Haliq bids them “good day" and attempts to close the door on them. On a success, Haliq can share the following information in hushed, fearful tones if asked:
 
@@ -1964,7 +1964,7 @@ The first time Lady Wachter sees the *Sunsword*, read:
 > The mists writhe beneath the radiant light—then, with barely a whisper, burn and dissipate away.
 
 > [!abstract]+ **Lady Wachter’s Faith**
-> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
+> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Mayor Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
 >
 > If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks Father Lucian’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *stone crest* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. Approaching the Crossroads]], seeking faith in the “old gods" that the Vistana Stanimir spoke of.
 >

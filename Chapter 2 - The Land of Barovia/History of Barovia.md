@@ -382,7 +382,7 @@ When the plan was complete, however, Strahd found little else to retain his atte
 ## Echoes of Evil
 Though Strahd slept in Castle Ravenloft, his children and servants remained active in Barovia. Without their master to restrain their appetites, dozens of Strahd’s surviving vampire spawn dispersed across the valley, beginning a reign of terror that made the streets run red with blood.
 
-Lugdana, a paladin of the Morninglord, took up arms to defend her people. With the aid of burgomaster Ismark Antonovich and the **wereraven** Livius Martikov, she uncovered the secret history of the long-lost *Sigil of the Sun*, an ancient artifact that could aid her in her quest.
+Lugdana, a paladin of the Morninglord, took up arms to defend her people. With the aid of mayor Ismark Antonovich and the **wereraven** Livius Martikov, she uncovered the secret history of the long-lost *Sigil of the Sun*, an ancient artifact that could aid her in her quest.
 
 It was Livius who discovered that the *Sigil of the Sun* lay in the crypts of Castle Ravenloft, and Livius who stole it while Lugdana and Ismark kept the castle’s guards distracted. With Lugdana wielding the sigil’s power, the trio began a campaign to root out and destroy nests of vampires scattered across Barovia, inspiring renewed faith in the Morninglord’s glory wherever they went. 
 
@@ -426,7 +426,7 @@ The horde killed all but one young man: Arturi Radanavich, who hid away in a tru
 
 Several weeks after Rudolph van Richten departed Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
 
-When Izek returned to his senses, however, he found that Ireena had fled, vanishing into the woods. She would later appear near the Village of Barovia with no memory of her past, where she would be adopted by Burgomaster Kolyan Indirovich. (See <span class="citation">E5f. Chapel (p. 46)</span>. 
+When Izek returned to his senses, however, he found that Ireena had fled, vanishing into the woods. She would later appear near the Village of Barovia with no memory of her past, where she would be adopted by Mayor Kolyan Indirovich. (See <span class="citation">E5f. Chapel (p. 46)</span>. 
 
 Izek soon lost his parents to grief, as described in <span class="citation">Izek Strazni (p. 231)</span>, and lashed out at those around him—eventually killing several other children. He was caught and pardoned by Vargas Vallakovich, the adult son of Baron Valentin Vallakovich. Against his father's wishes, Vargas took Izek into their home. Vargas's wife, Lydia Petrovna, was disturbed by the boy’s violent proclivities and withdrew to care obsessively for the their newborn son, Victor.
 
@@ -454,7 +454,7 @@ As Ezmerelda departed Barovia in an attempt to track down Van Richten, the young
 ## Strahd’s Return
 Three years after Nikolai Wachter’s death, Rudolph van Richten received a letter from Ezmerelda d'Avenir warning him of the vision she had foreseen, though Ezmerelda, unaware of its significance, failed to mention that the vision had been sent by the spirit of Madame Radanavich. Van Richten, determined not to allow his curse to claim any more of his friends, prepared his tools one final time and set off alone through the Mists.
 
-Six months later, Van Richten—now disguised as a traveling scholar and accompanying a caravan of Vistani—arrived in the quiet village of Barovia. The burgomaster, a man named Kolyan Indirovich, welcomed him as an honored guest, and Van Richten settled in to gather intelligence and prepare his attack.
+Six months later, Van Richten—now disguised as a traveling scholar and accompanying a caravan of Vistani—arrived in the quiet village of Barovia. The mayor, a man named Kolyan Indirovich, welcomed him as an honored guest, and Van Richten settled in to gather intelligence and prepare his attack.
 
 Two weeks after Van Richten’s arrival, however, disaster struck. A massive undead **dire wolf**—the beloved pet of Strahd’s bride Anastrasya Karelova—attacked a group of Barovian children who had strayed too far from the village. Van Richten, luckily nearby, fended off the beast and destroyed it, freeing the children with nary a scratch.
 
@@ -466,7 +466,7 @@ Van Richten attempted to dissuade him—but Doru was unconvinced. Proud and zeal
 
 Realizing that Doru’s crusade would see his companions destroyed—and risk awakening Strahd regardless—Van Richten reluctantly agreed to accompany them, if only to ensure that their lives were not spent for naught. He exacted from Doru a promise to depart in two days’ time, rather than one, giving him additional time to prepare. Doru also agreed to conceal Van Richten’s true identity, calling him by the alias “Alanik Ray” to avoid alerting Strahd’s servants.
 
-As Van Richten readied himself for the journey, Doru raised the cry of revolution. By the day of reckoning, he had gathered a mob of two-dozen hopeful young Barovians to march upon the keep, promising to restore the light of the sun to the dreary valley. Ismark Kolyanovich, a skilled swordsman and the son of Burgomaster Kolyan Indirovich, remained behind, concerned of the consequences should the village be undefended.
+As Van Richten readied himself for the journey, Doru raised the cry of revolution. By the day of reckoning, he had gathered a mob of two-dozen hopeful young Barovians to march upon the keep, promising to restore the light of the sun to the dreary valley. Ismark Kolyanovich, a skilled swordsman and the son of Mayor Kolyan Indirovich, remained behind, concerned of the consequences should the village be undefended.
 
 As Van Richten had feared, though Doru’s efforts proved worse than fruitless: Instead of killing Strahd, the mob only awoke him from his hibernation. Stirred from his slumber, Strahd massacred the Barovian invaders, sparing only two: Escher, a talented bard who confessed a fascination with Strahd and the dark power of immortality; and Doru himself. 
 

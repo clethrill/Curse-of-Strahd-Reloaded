@@ -8,9 +8,9 @@
 
 # Act I: Into the Mists
 <div class="subtitle"><em>For 2nd to 3rd-level characters.</em></div>
-In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
+In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet mayor Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
 
-The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Burgomaster Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
+The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Mayor Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
 
 Upon receiving a warning and invitation sent in a dream from the Vistani seer Madam Eva, the players depart the village of Barovia for a Vistani encampment at nearby Tser Pool. Following a brief encounter with Strahd himself, the players receive a mystical Tarokka reading from Madam Eva, who foretells the location of three mystical artifacts—and a companion—who will help them defeat Strahd.
 

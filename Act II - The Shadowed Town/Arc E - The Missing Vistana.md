@@ -243,12 +243,12 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 <p>Strahd's hunger for conquest, however, was endless. Within a year, the last of his enemies had fallen, and he had claimed the valley for his own, naming it "Barovia." We found ourselves trapped, imprisoned in the heart of our conqueror's new empire. By then, however, we had built a home here, and chose to remain—hoping, in our heart of hearts, that the Vistani's kindness would keep us safe. And so here we have remained ever since.</p>
 </div>
 
-# E3. Burgomaster’s Mansion
+# E3. Burgomaster's Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
 
-The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The mayor's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
+If the players visit the mayor’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
 If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
@@ -410,7 +410,7 @@ If the players are interested in speaking with Szoldar, Victor directs them to a
 Victor can tell the players that, while Szoldar and Yevgeni spend most mornings checking their traps for captured game, they usually return to the dressing shack by early afternoon to clean their weapons, reset their traps, and whittle and fletch fresh arrows.
 
 > [!abstract]+ **The Haunting**
-> If the players ask Victor about the haunting of the burgomaster's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Murka, his skeleton **cat**. 
+> If the players ask Victor about the haunting of the mayor's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Murka, his skeleton **cat**. 
 >  
 > Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 10 Wisdom (Insight) check reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
 > 
@@ -1035,7 +1035,7 @@ The symbols on the signet ring have been added to provide the players with the s
 
 Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
 
-***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
+***Mayor's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
 
 The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
 

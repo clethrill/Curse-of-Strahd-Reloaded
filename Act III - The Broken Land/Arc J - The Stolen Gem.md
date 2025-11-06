@@ -246,7 +246,7 @@ The last stretch of the journey to the Wizard of Wines is largely as described i
 > 
 > Centuries later, the descendants of these wereravens—the Martikov family—would use these gemstones to found the Wizard of Wines Winery, hiding their bountiful power in plain sight. Even when Strahd conquered the valley and bestowed the winery to the Krezkov family as a reward for their loyalty, few generations had passed before the Martikovs married into the Krezkov line and retook possession by means of inheritance.
 > 
-> One hundred years ago, a **wereraven** named Livius Martikov—the grandfather of Davian Martikov—defied his family’s wishes and helped Burgomaster Ismark Antonovich and the paladin Lugdana to steal the *Sigil of the Sun* (now named the *Holy Symbol of Ravenkind*) and the *Tome of Strahd* from Castle Ravenloft while Strahd slumbered. 
+> One hundred years ago, a **wereraven** named Livius Martikov—the grandfather of Davian Martikov—defied his family’s wishes and helped Mayor Ismark Antonovich and the paladin Lugdana to steal the *Sigil of the Sun* (now named the *Holy Symbol of Ravenkind*) and the *Tome of Strahd* from Castle Ravenloft while Strahd slumbered. 
 > 
 > Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
 > 
@@ -1518,7 +1518,7 @@ If asked, Davian now willingly shares the following information:
 * He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
 * Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
 * The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
+* As a younger man, Livius helped Lugdana and Mayor Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
 * It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
 
 Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
@@ -1561,7 +1561,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 
-> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
+> While visiting Krezk, the brothers mention the players' names and descriptions to Mayor Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
 
 > [!abstract]+ **News from Barovia**
 > If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:

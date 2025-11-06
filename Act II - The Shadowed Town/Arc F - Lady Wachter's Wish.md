@@ -154,7 +154,7 @@ As the conversation continues, Lady Wachter notes that she has heard of the play
 Should the players indicate an opposition to the Baron, Lady Wachter confesses that she has recently found herself with grave doubts regarding his fitness to rule. She can share the following information about Baron Vargas Vallakovich:
 
 * The Vallakovich family has ruled Vallaki ever since its first patriarch, Boris Vallakovich, founded the town nearly five-hundred years ago. The Vallakoviches claim to have royal blood in their veins, and have always believed themselves superior to all others in the valley—and the current Baron is no different.
-* Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
+* Baron Vargas Vallakovich first came to power as mayor eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
 * Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting monthly “festivals” that most have always considered to be dull affairs.
 * Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
 * Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
@@ -211,7 +211,7 @@ Should the players mention the Barovian refugees, Lady Wachter swiftly, and with
 <div class="description">
 <p>“Barovia, Vallaki, and Krezk—this land’s three lights of civilization. Did you know, however, that there was once a fourth?</p>
 <p>“It was a fishing village named Berez, built on the banks of the Luna River, not far south of here. In its prime, it was a bustling and thriving place, full of life, hope, and laughter.</p>
-<p>“And then, one day, more than three hundred years ago, the village’s burgomaster defied the will of Strahd von Zarovich.</p>
+<p>“And then, one day, more than three hundred years ago, the village’s mayor defied the will of Strahd von Zarovich.</p>
 <p>“The details are lost to time. But the histories make clear that Berez thought itself able to challenge the Devil’s rule. Whether it was pride, desperation, or mere foolishness, I cannot say. But it was, nonetheless, a grave mistake.</p>
 <p>“Zarovich did not argue. He did not negotiate. He simply commanded the river Luna to rise, and it obeyed. The waters swallowed Berez whole. No building was left standing, and few lives were spared. The survivors found themselves lost, adrift, and broken. Most found their way north, to Vallaki, where they struggled to forge new lives amongst the ruins of the old.</p>
 <p>“What did defiance earn Berez? A marsh and some broken stone. A stark, cold warning to anyone who would follow their path.</p>
@@ -253,7 +253,7 @@ When the handoff is complete, Ernst advises the players to follow Izek as he lea
 
 > [!lore]+ **Ernst’s Preparations**
 >
-> Ernst was able to learn of Izek’s daytime schedule by stalking Izek himself. However, he was unable to learn of the inner goings-on within the burgomaster’s mansion until recently, when the Baron’s butler and the Baroness’s lady-in-waiting departed the manor out of fear of its recent haunting. Ernst took advantage of the situation and bribed the two former servants to share those details with him.
+> Ernst was able to learn of Izek’s daytime schedule by stalking Izek himself. However, he was unable to learn of the inner goings-on within the mayor’s mansion until recently, when the Baron’s butler and the Baroness’s lady-in-waiting departed the manor out of fear of its recent haunting. Ernst took advantage of the situation and bribed the two former servants to share those details with him.
 >
 > The poison that Ernst added to the wine was purchased from Arrigal, one of the two leaders of the Vallakian Vistani encampment.
 
@@ -264,23 +264,23 @@ When the handoff is complete, Ernst advises the players to follow Izek as he lea
 > 
 > On the particular day that the players choose to carry out their plan, Izek follows the following schedule unless interrupted:
 > 
-> * **11:00 A.M.** Izek wakes from his drunken slumber and takes his morning meal in the kitchen of the burgomaster’s mansion, where he is met by two **guards** who deliver a morning report.
+> * **11:00 A.M.** Izek wakes from his drunken slumber and takes his morning meal in the kitchen of the mayor’s mansion, where he is met by two **guards** who deliver a morning report.
 > * **11:30 A.M.** Izek, accompanied by the two **guards**, travels to the western Sunset Gate, the northern Zarovich Gate, and the eastern Morning Gate to receive the guards’ reports and inspect the town’s defenses.
 > * **1:00 P.M.** The Baron’s cook delivers Izek a midday meal and a case of two bottles of wine in the Vallaki town square. Izek eats his lunch and begins drinking the first bottle of wine while the two **guards** patrol the surrounding area.
 > * **2:00 P.M.** Izek and the two **guards** visit three or four of Izek’s “spies” scattered across the town to receive reports of recent malicious unhappiness. 
 > * **4:00 P.M.** Izek and the two **guards** travel to the Sunset, Zarovich Gate, and Morning Gate (beginning with whichever gate is closest) to receive the guards’ reports and inspect the town’s defenses.
 > * **5:30 P.M.** Izek dismisses the two **guards** and travels alone to Lake Zarovich. He spends the remainder of the evening consuming the second bottle of wine and staring into space.
-> * **10:00 P.M.** Izek returns to the burgomaster’s mansion and takes his evening meal, as well as a third bottle of wine, in his bedroom.
+> * **10:00 P.M.** Izek returns to the mayor’s mansion and takes his evening meal, as well as a third bottle of wine, in his bedroom.
 > 
 >   Once Izek drinks the entire bottle of Lady Wachter’s poisoned wine, he suffers the **poisoned** condition for 1 hour afterward.
 
 ## F4a. Planting the Poisoned Wine
 The players can attempt to plant the poisoned bottle of wine in Izek’s case of wine in multiple ways, including (but not limited to) the following:
 
-* The players can sneak into the kitchen of the burgomaster’s manor and distract the cook, Tereska, in order to replace the second bottle with the poisoned bottle.
+* The players can sneak into the kitchen of the mayor’s manor and distract the cook, Tereska, in order to replace the second bottle with the poisoned bottle.
 * The players can follow Tereska to the Vallaki town square and distract Izek while he’s eating his lunch in order to replace the second bottle with the poisoned bottle.
 
-***Sneaking Into the Kitchen.*** If the players choose to swap the bottles in the burgomaster’s mansion, Tereska’s schedule unfolds as follows:
+***Sneaking Into the Kitchen.*** If the players choose to swap the bottles in the mayor’s mansion, Tereska’s schedule unfolds as follows:
 
 * **12:00 P.M.** Tereska retrieves two bottles of Purple Grapemash No. 3 wine from the pantry and places them on the counter in the kitchen beside an empty leather wine case.
 * **12:15 P.M.** Tereska places the two bottles of wine into the wine case, beginning with the bottle closest to the case. (If the players have replaced one of the bottles with the poisoned bottle, which is labeled Red Dragon Crush, Tereska regards it with surprise and makes a cursory Wisdom (Perception) check to discern whether anyone else is in or around the kitchen. If she sees no one, she chides herself for forgetfulness and assumes that the bottle was labeled Red Dragon Crush all along.)
@@ -337,7 +337,7 @@ Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds n
 
 While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) score as 8. 
 
-If Izek is undisturbed, he leaves Lake Zarovich and returns to the burgomaster’s mansion approximately four hours later. If Izek is attacked, he defends himself, vowing to destroy the players for their insolence. Izek always begins combat using the statistics of his **first form**. Upon realizing his poisoned state at the end of his first turn in combat, Izek roars in rage and demands to know what the players have done to him.
+If Izek is undisturbed, he leaves Lake Zarovich and returns to the mayor’s mansion approximately four hours later. If Izek is attacked, he defends himself, vowing to destroy the players for their insolence. Izek always begins combat using the statistics of his **first form**. Upon realizing his poisoned state at the end of his first turn in combat, Izek roars in rage and demands to know what the players have done to him.
 
 If the players ask the truth behind the Ireena-shaped doll, Izek snarls that the doll is none of their business.
 
@@ -490,16 +490,16 @@ If the players successfully deliver Izek’s severed head to [[Non-Player Charac
 >
 > That night, Lady Wachter, accompanied by her three **cult fanatics**, travels to the Baron’s mansion, requests an audience with the Baron, and presents him with Izek’s severed head. The Baron, assuming that he is about to be assassinated, attempts to flee. However, he is forcefully stopped by the _command_ spell of one of Lady Wachter’s cultists.
 >
-> Trapped in Lady Wachter’s clutches, the Baron spitefully agrees to relinquish his claim to the position of burgomaster. (Lady Wachter graciously permits him to retain his noble title, ensuring that he retains his family’s estate, incomes, and other trappings of status.)
+> Trapped in Lady Wachter’s clutches, the Baron spitefully agrees to relinquish his claim to the position of mayor. (Lady Wachter graciously permits him to retain his noble title, ensuring that he retains his family’s estate, incomes, and other trappings of status.)
 ## F5a. The Abdication
-The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him. 
+The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as mayor and appoints Lady Wachter to replace him. 
 
 If the players attend the announcement, Lady Wachter does not publicly acknowledge them, but offers them a knowing look and a small nod of recognition.
 
 Lady Wachter first commands the town guard to release the prisoners in the stocks, and then proclaims that the town shall have no further festivals, except those on holy days. She then delivers the following speech:
 
 <div class="description">
-<p>“Thank you, Baron Vallakovich, both for your foresight in these times of trouble, and for your family's long history of service to the good people of Vallaki. You honor me with this position, and I vow to do my utmost to carry out the responsibilities of burgomaster with wisdom and care.</p>
+<p>“Thank you, Baron Vallakovich, both for your foresight in these times of trouble, and for your family's long history of service to the good people of Vallaki. You honor me with this position, and I vow to do my utmost to carry out the responsibilities of mayor with wisdom and care.</p>
 <p>“My fellow Vallakians, we find ourselves in a period of change. Change is difficult—it can lead us into danger, or into a period of new and brighter prosperity. To navigate such murky waters, a steady hand is needed—a hand that acknowledges the world as it is, not the world as we may wish it to be.</p>
 <p>"It is neither defiance nor abdication that will lead us to prosperity and peace, but respect, homage, and a sense of proper duty.</p>
 <p>"It is through these three principles that we may secure the safety of our children, our neighbors, and ourselves—and it is through these three principles that I will work to ensure a better future for our beloved town.</p>

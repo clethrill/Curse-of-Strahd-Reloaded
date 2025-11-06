@@ -40,13 +40,13 @@ Until recently, however, the village of Barovia faced few overt troubles. While 
 
 That changed when the priest’s son, Doru—emboldened by the arrival of the vampire hunter Dr. Rudolph van Richten—incited a Barovian mob to march against Castle Ravenloft. Awoken from his long slumber, Strahd laid waste to the members of the mob, killing many of the village’s beloved sons and daughters. 
 
-Strahd then roused an undead army and sent it against the village as punishment for their insolence. The siege of Barovia decimated the village, killing dozens and wounding many more. Only when Barovia’s burgomaster, a man named Kolyan Indirovich, was slain in battle, did Strahd’s forces ultimately withdraw, judging the slaughter to be sufficient discipline. 
+Strahd then roused an undead army and sent it against the village as punishment for their insolence. The siege of Barovia decimated the village, killing dozens and wounding many more. Only when Barovia’s mayor, a man named Kolyan Indirovich, was slain in battle, did Strahd’s forces ultimately withdraw, judging the slaughter to be sufficient discipline. 
 
-The burgomaster’s children, Ismark and Ireena, took charge of the rebuilding effort. Even so, many Barovians, fearful of Strahd’s emergence and the shadow of Castle Ravenloft, left their ruined homes and broken families and fled for Vallaki to the west, hoping that its high walls could bring security. Many of those who remained in the village turned on Ismark, blaming him and his father for allowing Strahd to awaken, and for failing to do more to prevent Strahd’s counter strike. Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
+The mayor’s children, Ismark and Ireena, took charge of the rebuilding effort. Even so, many Barovians, fearful of Strahd’s emergence and the shadow of Castle Ravenloft, left their ruined homes and broken families and fled for Vallaki to the west, hoping that its high walls could bring security. Many of those who remained in the village turned on Ismark, blaming him and his father for allowing Strahd to awaken, and for failing to do more to prevent Strahd’s counter strike. Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
 
 The village has fallen into a state of paranoia, hopelessness, and despair. Neighbors mistrust neighbors, fearful that any person could be charmed by a vampire—or, worse, a vampire in disguise. Few go out of doors, whether day or night. All avoid the church, a scarred and haunted building rumored to be cursed by the Devil Strahd himself.
 ## Vallakians
-The people of Vallaki are largely as described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span> and <span class="citation">Townsfolk (p. 96)</span>. Though the town is ruled by Baron Vargas Vallakovich, the local burgomaster, few townsfolk view him with much love or respect. 
+The people of Vallaki are largely as described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span> and <span class="citation">Townsfolk (p. 96)</span>. Though the town is ruled by Baron Vargas Vallakovich, the local mayor, few townsfolk view him with much love or respect. 
 
 However, Baron Vallakovich commands the loyalty of Izek Strazni, a cruel and capricious brute who enforces the Baron’s will with an iron fist. Izek, as Captain of the Guard, commands the loyalty—and, more importantly, the salaries—of the town’s twenty-four guards, as described in <span class="citation">Town Gates (p. 95)</span>.
 
@@ -54,7 +54,7 @@ Though Vallaki is far from a police state, Izek has spies throughout the town—
 
 As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">Vallaki Lore (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
 ## Krezkians
-The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
+The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their mayor, Dmitri Krezkov, is secretly a werewolf.
 ## Vistani
 The Vistani are largely as described in <span class="citation">Vistani (p. 26)</span>, with two major semi-permanent settlements: the encampment at Tser Pool (as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>), and the encampment near Vallaki (as described in <span class="citation">N9. Vistani Camp (p. 119)</span>). 
 

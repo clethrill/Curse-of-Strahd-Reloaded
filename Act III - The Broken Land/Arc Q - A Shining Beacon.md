@@ -6,7 +6,7 @@ Depending on their means of escape, players who flee from Castle Ravenloft follo
 ## Q1a. The Teleportation Brazier
 Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
 
-***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
+***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the mayor's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
 
 ***Town of Vallaki.*** If the players teleport to the coffin-maker's shop in the town of Vallaki, they can find shelter at the Blue Water Inn, St. Andral's Church, or (if they are on friendly terms with Lady Fiona Wachter and do not disclose their assault on Castle Ravenloft) Wachterhaus.
 

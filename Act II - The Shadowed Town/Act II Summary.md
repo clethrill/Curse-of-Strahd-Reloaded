@@ -57,7 +57,7 @@ If the players accepted Lady Wachter's mission to kill Izek Strazni, Ernst Larna
 
 That night, if the players completed [[Arc E - The Missing Vistana]] and have not yet begun [[Arc H - The Lost Soul]], the spirit of Erasmus van Richten appears to the players as a **poltergeist** and invites them to meet with Victor Vallakovich.
 ## Neyavr 6
-While the players are away, if the players haven't defeated Izek Strazni in [[Arc F - Lady Wachter's Wish]], Izek kidnaps Ireena and takes her to the Burgomaster's mansion as described in [[Arc G - The Strazni Siblings]].
+While the players are away, if the players haven't defeated Izek Strazni in [[Arc F - Lady Wachter's Wish]], Izek kidnaps Ireena and takes her to the Mayor's mansion as described in [[Arc G - The Strazni Siblings]].
 ## Neyavr 7
 If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.
 

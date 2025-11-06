@@ -102,7 +102,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Act II Summary]]. A summary of the players' adventures in the town of Vallaki.
 [[Arc D - St. Andral's Feast]]. The players investigate a theft of sacred bones from Vallaki's church.
 [[Arc E - The Missing Vistana]]. The players follow the trail of a kidnapped Vistani across western Barovia. 
-[[Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's burgomaster.
+[[Arc F - Lady Wachter's Wish]]. The players are invited to join a dangerous conspiracy to overthrow Vallaki's mayor.
 [[Arc G - The Strazni Siblings]]. The players encounter the dark dreams of Vallaki's Captain of the Guard.
 [[Arc H - The Lost Soul]]. The players help the children of two feuding noble houses stage a daring ghostly rescue.
 [[Arc I - The Walls of Krezk]]. The players journey to the ruins of Berez to earn passage to the village of Krezk.

@@ -65,7 +65,7 @@ By defeating his servants and halting their schemes, the players can deny him th
 ## Reclaiming the Valley
 When Strahd awoke from his century-long slumber, he found that much had changed. 
 
-The people of Barovia had forgotten why they feared him, and their burgomasters no longer served him faithfully. His servants and consorts had dispersed across the valley in pursuit of their own schemes and whims, and the wilds themselves had somehow cleansed the stain of corruption.
+The people of Barovia had forgotten why they feared him, and their mayors no longer served him faithfully. His servants and consorts had dispersed across the valley in pursuit of their own schemes and whims, and the wilds themselves had somehow cleansed the stain of corruption.
 
 That, he knew, must be addressed.
 

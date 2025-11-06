@@ -429,7 +429,7 @@ When the two prisoners first notice the players, Ilya presses himself against th
 
 If the players introduce themselves and act kindly toward him, Ilya is willing to share the following information:
 
-* He is Ilya Krezkov, the son of Krezk’s burgomaster. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
+* He is Ilya Krezkov, the son of Krezk’s mayor. (Ezmerelda, if present, recognizes him and is horrified to see his current condition.)
 * He was kidnapped by a werewolf and taken here as a prisoner. (This is a half-truth. A player who succeeds on a DC 10 Wisdom (Insight) check sees Ilya briefly glance to the side and notices sweat beading on his forehead.)
 
 If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."

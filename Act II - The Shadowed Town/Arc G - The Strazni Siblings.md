@@ -9,9 +9,9 @@ If the players neither stop Izek nor take extraordinary measures to keep Ireena 
 > [!abstract]+ **Lady Wachter's Request**
 > If the players kill Izek without accepting Lady Wachter's mission in [[Arc F - Lady Wachter's Wish]], Lady Wachter sends Ernst Larnak the following morning to invite them to tea at Wachterhaus that afternoon "in light of their recent accomplishments." If the players decline Ernst's invitation, Lady Wachter visits the Blue Water Inn in person that evening wearing a deep blue hooded cloak and asks to speak with them in private.
 > 
-> Regardless of how she and the players meet, Lady Wachter congratulates them on freeing Vallaki of Izek's tyranny and cruelty and frankly asks their blessing to seek the position of Burgomaster from Baron Vallakovich. She is glad to accept the players' assistance in doing so if offered, but otherwise assures them that she believes that he may be persuaded to abdicate peacefully.
+> Regardless of how she and the players meet, Lady Wachter congratulates them on freeing Vallaki of Izek's tyranny and cruelty and frankly asks their blessing to seek the position of Mayor from Baron Vallakovich. She is glad to accept the players' assistance in doing so if offered, but otherwise assures them that she believes that he may be persuaded to abdicate peacefully.
 > 
-> If the players are wary of granting Lady Wachter the "power" of the position, Lady Wachter reassures them that Vallaki's burgomaster holds no intrinsic power except that granted by the townsfolk. "I confess, I am not familiar with the powers of queens and duchesses beyond the Mists," she concedes, "but in Barovia, the burgomaster is a town's administrator—not its ruler."
+> If the players are wary of granting Lady Wachter the "power" of the position, Lady Wachter reassures them that Vallaki's mayor holds no intrinsic power except that granted by the townsfolk. "I confess, I am not familiar with the powers of queens and duchesses beyond the Mists," she concedes, "but in Barovia, the mayor is a town's administrator—not its ruler."
 > 
 > "I would pay the salaries of the town's guard, yes," she says, "but they are Morninglord-fearing folk—they would not hesitate to depose me if they felt my ordinances harmful to their neighbors." She adds wryly, "I assure you: I have no wish to *rule* Vallaki. My aspirations, clerical as they are, are far more dull than that." 
 > 
@@ -75,7 +75,7 @@ Ireena, determined and stubborn, can't be convinced to remain at the inn or chur
 # G2. The Streets of Vallaki
 One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena’s description. Each poster includes a sketch that roughly matches Ireena’s appearance and offers a reward of five gold pieces for information delivered to Izek Strazni at the Baron’s mansion.
 # G3. The Kidnapping
-At dawn on the fourth day after the players arrived in Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster’s mansion regarding her current location. 
+At dawn on the fourth day after the players arrived in Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Mayor’s mansion regarding her current location. 
 
 The next time that Ireena and the players are apart that day, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
 

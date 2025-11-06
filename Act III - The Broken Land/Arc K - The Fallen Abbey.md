@@ -23,7 +23,7 @@ The players’ first journey to Krezk is as described in [[Arc I - The Walls of 
 > 
 > ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the mayor of the village of Krezk.
 
 The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
 
@@ -272,7 +272,7 @@ A player who inspects the map observes a small piece of parchment tucked away be
 <p>The sketch depicts a woman with narrowed, low-set eyes, whose lips seem to unconsciously curl into a snarl. A gray bandana ties back a set of thick, short-cropped dreadlocks behind her head, and a half-shredded black tunic lies beneath a set of worn leather armor upon her chest.</p>
 </div>
 
-The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
+The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Mayor Dmitri Krezkov.
 
 ![[Sketch of Zuleika.png]]
 <span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -646,7 +646,7 @@ Ezmerelda invites the players to explain themselves and their presence before sh
 
 If the players share that they are newcomers to Barovia (“You certainly don’t *look* like you’re from around here," Ezmerelda observes), she is willing to share the following information:
 
-* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
+* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Mayor Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
 * Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
 
 If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
@@ -664,7 +664,7 @@ If the players share that they’ve come to recruit her to their cause, Ezmereld
 ### What Ezmerelda Knows
 Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
 
-* She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
+* She has come to the Abbey because Mayor Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
 * Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
 * Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
 * After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."

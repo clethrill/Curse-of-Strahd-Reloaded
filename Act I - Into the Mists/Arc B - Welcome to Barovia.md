@@ -1,12 +1,12 @@
 *An adventure for five 3rd-level characters.*
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When the players arrive at the barricades, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When the players arrive at the barricades, they meet Ismark, the eldest child of the village’s recently wounded mayor.
 
 At the Blood of the Vine Tavern, the players learn that the village has been under attack by Strahd’s undead horde each night for the past six nights—and that the horde is expected to return at dusk. In exchange for food, shelter, and information, Ismark asks the players to take up arms alongside the Barovians and prepare to defend the village’s fortifications against the onslaught of the dead.
 
-After successfully defending the barricades, the players learn that Strahd has personally invaded the burgomaster’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s burgomaster dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
+After successfully defending the barricades, the players learn that Strahd has personally invaded the mayor’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s mayor dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
 
-The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
+The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Mayor's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
 
 > [!design]+ **Design Note: Arrival in Barovia**
 > The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
@@ -85,7 +85,7 @@ If the players follow the footpath in the direction of the arrow, they find that
 If the players then leave Dalvan's corpse and return, they find that both his and the horse's remains have vanished.
 
 > [!design]+ **Design Note: Dalvan’s Fate**
-> Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
+> Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Mayor Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
 > Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 # B4. Barovian Overlook
@@ -171,12 +171,12 @@ Add the description of the exterior of the Blood of the Vine Tavern, given in <s
 <p>A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.</p>
 </div>
 
-The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
+The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Mayor of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
 ![[Ismark the Great.png]]
 <span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 If the players ask about the statue, Ismark can share the following information:
  
-* In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
+* In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the mayor of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
 * Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
 ## B5c. The Blood of the Vine Tavern
 This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
@@ -192,7 +192,7 @@ Ismark can share the following information:
 * Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
 * Many Barovians fear that the village is doomed. The undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Mayor Kolyan Indirovich, is still alive—albeit wounded—in the mayor’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -241,7 +241,7 @@ Unless the players intervene, the following sequence then unfolds:
 
 If the players ask, Mary can share the following information:
 
-* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the town of Vallaki, believing that if she could only journey to Vallaki and speak with the Burgomaster, she could convince him to bring aid.
+* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the town of Vallaki, believing that if she could only journey to Vallaki and speak with the Mayor, she could convince him to bring aid.
 * Mary has repeatedly forbidden Gertruda from traveling away from the village. With the advent of the siege, however, Gertruda has become stubbornly convinced that help from Vallaki is the only way to end the village's suffering.
 * Last night, Mary and Gertruda had a tumultuous argument that ended with both on poor terms. This morning, Mary woke to find their old horse, Nori, missing from her stall—and Gertruda nowhere to be found. (Mary believes Gertruda took Nori in an effort to outrun the zombie horde.)
 
@@ -250,17 +250,17 @@ A few moments after Bildrath has left, if the players haven't already done so, I
 Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
 
 > [!lore]+ **Where's Gertruda?**
-> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to get aid from the Burgomaster. Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild.
+> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to get aid from the Mayor. Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild.
 > Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
 > Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. 
 ### Ismark’s Request
 After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
-If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
+If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
-## B5d. The Burgomaster’s Mansion
-This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
+## B5d. The Mayor’s Mansion
+This area is largely as described in <span class="citation">Mayor’s Mansion (p. 44)</span>. However, Mayor Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
 ### The Angry Mob
 When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
 
@@ -268,10 +268,10 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 <p>A small mob of villagers have gathered outside of the manor, brandishing pitchforks, brooms, and axes. A plain, tired-looking woman stands at their front, her wavy brown hair tied back with a wrinkled white bandana.</p>
 <p>"Give her up, Kolyan!" she calls out. “Your defenses have held the Devil at bay, but they haven’t ended his scourge. It’s time to take matters into our own hands."</p>
 <p>An older man dressed in fine clothes, his thinning gray hair receding across his scalp, leans heavily on a cane in the door. Heavy, bloodstained bandages wrap around his stomach, forehead, and left knee. Beside him stands a young woman with long, red hair and a steel breastplate over a long-sleeved gray tunic, her face ashen and tense. A rapier hangs in a sheath at her side, her right hand hovering over its glinting hilt.</p>
-<p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
+<p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am mayor, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Mayor Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
 > [!profile]+ **Profile: Ireena Kolyana**
 >
@@ -291,7 +291,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 >
 > ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the second (unknowing) reincarnation of Tatyana Federovna.
 
-> [!profile]+ **Profile: Burgomaster Kolyan Indirovich**
+> [!profile]+ **Profile: Mayor Kolyan Indirovich**
 > **Roleplaying Information**
 > ***Resonance.*** Kolyan should inspire comfort with his warmth and reassurances, endearment and sympathy for his stubbornness in the face of his disability, and flattery with his genuine interest in the players’ history and skills.
 >
@@ -306,7 +306,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 >
 > ***Morale.*** In a fight, Kolyan would attempt to negotiate a peace—but keep one hand on his blade if necessary to defend himself or his neighbors.
 >
-> ***Relationships.*** Kolyan is the burgomaster of the village of Barovia, the biological father of Ismark Kolyanovich, the adoptive father of Ireena Kolyana, and the grandson of Ismark the Great.
+> ***Relationships.*** Kolyan is the mayor of the village of Barovia, the biological father of Ismark Kolyanovich, the adoptive father of Ireena Kolyana, and the grandson of Ismark the Great.
 
 > [!lore]+ **Alenka’s Grief**
 > Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
@@ -340,10 +340,10 @@ If the players successfully disperse the mob, Kolyan and Ireena invite them into
 > [!design]- **Design Note: The Mob**
 > This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
 ### Within the Mansion
-This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
+This area is largely as described in <span class="citation">E4. Burgomaster Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
 
 If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
-#### Lunch with the Burgomaster
+#### Lunch with the Mayor
 Lunch, which is already stewing in a pot over the kitchen hearth, is a stew of turnips and rabbit meat. Ireena apologizes for the sparse meal, but the players can clearly see that the family’s pantry is nearly bare.
 
 During the meal, Kolyan and Ireena ask the players about their interests and lives outside of Barovia. Ireena especially is fascinated by tales of the world beyond the mists. 
@@ -364,7 +364,7 @@ If the players ask about Doru's rebellion, Ireena can share the following inform
 During lunch, Kolyan invites the players to help him deliberate on a dilemma he’s been trying to solve, noting that he would find it useful to have “an outside perspective" on the matter. If the players agree to do so, read:
 
 <div class="description">
-<p>The burgomaster nods toward a sheet of parchment lying across a writing desk. On its surface, you can make out a crude drawing of the area around the village, with thin lines depicting the Old Svalich Road and the Ivlis River to the southwest, and darker shapes depicting the Svalich Wood to the north, west, and south.</p>
+<p>The mayor nods toward a sheet of parchment lying across a writing desk. On its surface, you can make out a crude drawing of the area around the village, with thin lines depicting the Old Svalich Road and the Ivlis River to the southwest, and darker shapes depicting the Svalich Wood to the north, west, and south.</p>
 <p>"Each night," he rumbles, “dozens of undead lay siege to our defenses, killing some and wounding many more. Instead of attacking all at once, however, they arrive in groups, with each wave striking our defenses separately, and almost randomly throughout the night. What do you make of that?"</p>
 </div>
 
@@ -381,13 +381,13 @@ If the players provide a suitably impressive or insightful answer, Kolyan asks i
 <p>I humbly ask that you provide the bearer of this letter with what aid you can. Trust in their purpose, assist in their endeavors, and offer shelter and counsel if you are able. Please extend to them every courtesy you would afford a friend of mine.</p>
 <p>With utmost respect,</p>
 <p>Kolyan Indirovich<br>
-Burgomaster of Barovia</p>
+Mayor of Barovia</p>
 </div>
 
-The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
+The letter is sealed with the wax sigil of the mayor of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Mayor Dmitri Krezkov of Krezk.
 
 > [!item]+ **Letter of Introduction**
-> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
+> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Mayor Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
 #### Rooms at the Mansion
 If the players mention Ismark's offer to provide them with rooms, Ireena shows them to the mansion’s two guest bedrooms and provides them with basic supplies. "I can't say how much sleep you'll be able to get, or when," she says apologetically, her own eyes bearing dark circles beneath them. "But if nothing else, they should provide a quiet place to rest."
 
@@ -598,7 +598,7 @@ The players can notice that any other Barovians within ten feet of Rahadin appea
 
 Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
 
-Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
+Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the mayor’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
 
 > [!abstract]+ **The Players Challenge Rahadin**
 > Rahadin takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is Rahadin, chamberlain of Castle Ravenloft, and a humble servant of Strahd von Zarovich.
@@ -732,12 +732,12 @@ Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his su
 
 ## B5h. Return to the Mansion
 ### Strahd’s Aftermath
-If the players follow Ismark to the burgomaster’s mansion, they find its grounds abandoned and the front door ajar. Upon arriving, Ismark rushes inside, shouting for his father and Ireena.
+If the players follow Ismark to the mayor’s mansion, they find its grounds abandoned and the front door ajar. Upon arriving, Ismark rushes inside, shouting for his father and Ireena.
 
 Ismark and the players can find Kolyan and Ireena in the first-floor parlor. Read:
 
 <div class="description">
-<p>A red pool surrounds the burgomaster’s unmoving form, his glassy eyes staring unseeing toward the ceiling as blood drips from a long, elegant slash across his chest. Not far away, Ireena lies crumpled across the carpet beneath a boarded-up window, its ragged curtains drifting lazily in the cold wind.</p>
+<p>A red pool surrounds the mayor’s unmoving form, his glassy eyes staring unseeing toward the ceiling as blood drips from a long, elegant slash across his chest. Not far away, Ireena lies crumpled across the carpet beneath a boarded-up window, its ragged curtains drifting lazily in the cold wind.</p>
 </div>
 
 Upon arriving, Ismark lets out a strangled cry of anguish, and immediately descends to cradle his father’s head in his hands.
@@ -782,7 +782,7 @@ If confronted, Ismark can reluctantly share the following information:
 
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
+The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the mayors' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
 
 When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
 
@@ -808,7 +808,7 @@ The players have one round to kill the rat as it scurries toward a large hole in
 ## B5i. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+When the players arrive at the church with the mayor’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
 
 <div class="description">
 <p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
@@ -879,7 +879,7 @@ If he learns that Ismark and Ireena are with the players, Donavich acts more war
 
 As the conversation unfolds, the following exchanges might occur:
 
-* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
+* If Ismark, Ireena, or a player asks about burying the deceased mayor, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
 * If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
 * If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
 
@@ -953,7 +953,7 @@ Doru’s request is simple: to prove to himself that he can control his vampiric
 Doru can also share the following information with the players if asked:
 
 * As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Castle Ravenloft and bringing freedom to his people.
-* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
+* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the mayor's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
 * Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
 * With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
 * Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
@@ -1039,7 +1039,7 @@ Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting
 At the conclusion of Donavich’s prayer, Ismark and Ireena offer the following words in memory of their father:
 
 <div class="description">
-<p>Ismark wipes his eyes. "Kolyan Indirovich bore all the qualities of a great burgomaster: he was kind, compassionate, and just. But above all else, he was our father—the man who taught us to choose courage over fear, hope over despair, and laughter over sorrow. Even though he has left us, his lessons and memory never will. May he find rest in the Morninglord's embrace, and may his legacy be never forgotten."</p>
+<p>Ismark wipes his eyes. "Kolyan Indirovich bore all the qualities of a great mayor: he was kind, compassionate, and just. But above all else, he was our father—the man who taught us to choose courage over fear, hope over despair, and laughter over sorrow. Even though he has left us, his lessons and memory never will. May he find rest in the Morninglord's embrace, and may his legacy be never forgotten."</p>
 <p>Ireena stares at the grave for a few moments, her fingers twisting anxiously into knots. Finally, she says, quietly, "When you found me, I was a stranger—a child, lost in the woods. You and Mother took me in, cared for me, and loved me as your own. When I asked you why, you only ever said: Because I needed it." She falters, choking on the words, then says: "I can never hope to repay what you gave me. But, just as you did, I will never stop trying to help those who need it."</p>
 </div>
 
@@ -1054,14 +1054,14 @@ Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid momen
 > [!lore] **Who Knows of the Abbey?**
 > All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
 ### Return to the Mansion
-When the players return to the burgomaster’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
+When the players return to the mayor’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 
 As Ismark packs the rations, he can share the following information:
 
 * The journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
 * Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given Madam Eva's reputation.)
 ## B5j. Lugdana's Knoll
-Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.)
+Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Mayor Ismark Antonovich the Great upon that hill.)
 
 Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for Gertruda—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
 
@@ -1096,7 +1096,7 @@ Ireena gladly returns to the mansion with the players, or returns on her own sho
 
 When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
 
-**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
+**_Milestone_**. Defending the village and burying the Mayor completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
 
 > [!info]+ **Ireena Joins the Party**
 >

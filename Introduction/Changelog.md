@@ -379,7 +379,7 @@
 [[Arc H - The Lost Soul]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
 * Added NPC profile for Stella
-* Added information regarding the refugees' relocation after Lady Wachter becomes burgomaster
+* Added information regarding the refugees' relocation after Lady Wachter becomes mayor
 * Removed **gallows speaker** damage resistances and increased hit points to compensate
 * Added information regarding **phase spiders** to *Ethereal Entities*
 * Changed the hags to act on separate initiatives
@@ -565,7 +565,7 @@
 * Revised the Vallakian guards' test to "confirm" the players' freedom from lycanthropy  
 * Revised the players' first night at the Blue Water Inn, including Rictavio's story  
 * Added an additional scene with Rictavio on their first morning at the Blue Water Inn  
-* Increased the milestone XP for the burgomaster's burial and arrival in Vallaki  
+* Increased the milestone XP for the mayor's burial and arrival in Vallaki  
 
 **[[Arc D - The Tome of Strahd]]**
 * Moved the Tome of Strahd to the possession of the **gallows speaker** Leo Dilisnya in the Ethereal Plane  

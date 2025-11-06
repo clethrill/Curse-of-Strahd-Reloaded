@@ -77,7 +77,7 @@ Kasimir is glad to make small talk with the players while he prepares their tea.
 > [!abstract]+ **Kasimir’s Gratitude**
 > If he hasn’t encountered the players since meeting them [[Arc E - The Missing Vistana]] and is aware that Arabelle has been reunited with Luvash, Kasimir thanks them for their efforts in doing so. "I regret that I was unable to investigate the ring’s history myself," he adds. "Did it ultimately prove useful in finding her?" If Kasimir isn’t aware of Arabelle’s fate, he asks the players what became of their efforts to find her. (Kasimir asks these questions not out of a desire to pry, but out of a sense of kinship to the Vistani and a genuine interest in Arabelle’s safety.)
 >
-> If Lady Fiona Wachter has become the burgomaster of Vallaki following [[Arc F - Lady Wachter's Wish]] or [[Arc G - The Strazni Siblings]], Kasimir notes, as the conversation unfolds, that he is grateful that the town’s new leadership has opened its gates to the Vistani and dusk elves once again. "Even so," he muses mournfully, "it has been many years since I last visited Vallaki. I imagine none of the friends I once had there still live today. Perhaps even their children and grandchildren have passed as well."
+> If Lady Fiona Wachter has become the mayor of Vallaki following [[Arc F - Lady Wachter's Wish]] or [[Arc G - The Strazni Siblings]], Kasimir notes, as the conversation unfolds, that he is grateful that the town’s new leadership has opened its gates to the Vistani and dusk elves once again. "Even so," he muses mournfully, "it has been many years since I last visited Vallaki. I imagine none of the friends I once had there still live today. Perhaps even their children and grandchildren have passed as well."
 
 If any player asks him about the Amber Temple or his visit to Argynvostholt, however, a player with a passive Wisdom (Insight) score of 10 or greater notices Kasimir immediately stiffens. He is willing to share the following information:
 
@@ -137,7 +137,7 @@ As the players make their way from the Vistani encampment to Vallaki or the Old 
 </div>
 
 ## R2a. The Baron’s Revenge
-If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
+If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current mayor of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
 
 <div class="description">
 <p>The stillness is broken by the crunching of wet mulch beneath boots. Seven mud-stained figures emerge from the eastern trail, their faces dark and stony. Six bear spears and crossbows, their chests decorated with the familiar rusted mail of the Vallakian guard. The seventh, you recognize instantly: Baron Vargas Vallakovich.</p>
@@ -148,7 +148,7 @@ If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current burgomas
 > [!lore]+ **Vargas’s Revenge**
 > In the wake of Lady Wachter’s rise to power, Vargas Vallakovich has simmered with quiet rage toward those responsible for his ouster. Though he has not thought to blame the players for Lady Wachter’s ascent, that recently changed when two of his still-loyal **guards** learned, from a drunk Nikolai and Karl Wachter, that the players met with Lady Wachter shortly before Izek’s death.
 >
-> To satisfy his need for vengeance, Vargas directed one of his loyal guards to report back to him when the players were sighted approaching the town. Upon receiving the guard’s report, Vargas gathered a half-dozen loyal guards and set off for the Vistani encampment to "punish" the players for their treachery. (The guards, who previously received preferences and favors during Vargas’s rule, have soured at Vallaki’s new burgomaster, who has integrated her own loyalists into the town guard and done away with much of Vargas’s corruption.) 
+> To satisfy his need for vengeance, Vargas directed one of his loyal guards to report back to him when the players were sighted approaching the town. Upon receiving the guard’s report, Vargas gathered a half-dozen loyal guards and set off for the Vistani encampment to "punish" the players for their treachery. (The guards, who previously received preferences and favors during Vargas’s rule, have soured at Vallaki’s new mayor, who has integrated her own loyalists into the town guard and done away with much of Vargas’s corruption.) 
 >
 > Unfortunately, none of Vargas’s guards knew quite how to find the Vistani encampment. As a result, his group lost its way rather quickly, circling the muddy hunting trails of the Svalich Woods several times before finally encountering the party.
 >
@@ -243,7 +243,7 @@ Strahd is willing to accept any of the following penalties, as well as any other
 
 * **Blood.** Using his longsword, Strahd executes a member of the party (excepting Ireena), an NPC who helped the players invade Ravenloft, or an NPC who directly benefited from the players’ invasion of Ravenloft. (Strahd won’t accept the sacrifice of any other character, or use any other means to carry out a chosen victim’s execution.) If the chosen sacrifice isn’t present at the crossroads, Strahd finds and executes them after departing.
 * **Gold.** Strahd takes a non-consumable magic item of Rare or greater value from the party, such as the *Holy Symbol of Ravenkind* or Vladimir Horngaard’s *+2 greatsword*. (If no member of the party is currently using or attuned to the item, they must succeed on a DC 19 Charisma (Deception) check to convince Strahd of its worth.)
-* **Fire.** Strahd destroys the Blue Water Inn, the Barovian burgomaster’s mansion, or any other place in Barovia the players call "home." (Strahd destroys the chosen location after departing the crossroads. Players who subsequently visit the chosen location find the aftermath of Strahd’s attack, which has destroyed any structures and wounded any inhabitants.)
+* **Fire.** Strahd destroys the Blue Water Inn, the Barovian mayor’s mansion, or any other place in Barovia the players call "home." (Strahd destroys the chosen location after departing the crossroads. Players who subsequently visit the chosen location find the aftermath of Strahd’s attack, which has destroyed any structures and wounded any inhabitants.)
 
 If the players refuse to name a penalty, or if they fail to name penalties of sufficient severity, Strahd names his own penalties from the list above. 
 
@@ -297,7 +297,7 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 > If the scrying is successful, Strahd can immediately identify the following locations:
 > * ***Vallaki.*** The Blue Water Inn, St. Andral’s church, Wachterhaus, the Baron’s manor, and the Vistani and dusk elf encampment.
 > * ***Krezk.*** The Baron’s cottage, the Shrine of the White Sun, and the Abbey of St. Markovia
-> * ***Barovia.*** The church and the Burgomaster’s manor
+> * ***Barovia.*** The church and the Mayor’s manor
 > * ***Svalich Woods.*** Tser Falls, Old Bonegrinder, Lake Zarovich, Lake Baratok, Argynvostholt, the werewolf den, the Wizard of Wines, Yester Hill
 >
 > Even if Strahd can’t immediately identify the specific location where the players are staying, he can immediately identify the region where they can be found (e.g., the town of Vallaki) by inspecting their surroundings. If the scrying spell fails (e.g., because the players are concealed by <span class="citation">Khazan’s Spell Drain (p. 167)</span> at Van Richten’s Tower, Strahd assumes they are residing at Van Richten’s Tower.

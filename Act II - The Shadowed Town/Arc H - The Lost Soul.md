@@ -205,7 +205,7 @@ Before the players leave Franz’s tent, he grabs for the closest one and rasps,
 
 As the players depart the refugee camp, one among them receives the following *sending* spell from [[Non-Player Characters#Victor Vallakovich|Victor]]: “Did you find her? Come back to the attic. I have a plan.”
 
-When the players return to Victor’s workroom at the Burgomaster’s mansion, he provides them with the following information:
+When the players return to Victor’s workroom at the Mayor’s mansion, he provides them with the following information:
 
 * There are two possible ways to obtain a heartstone from a night hag: willingly, or by force. 
 * To obtain the heartstone willingly, the players must likely bargain something of great value in exchange for a loan of the heartstone. Hags are legendary dealmakers, and can be trusted to hew to the letter of their word—but *only* the letter.
@@ -1256,7 +1256,7 @@ This arc also serves to cement Lady Wachter's alliance with the players, strengt
 
 ***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc E - The Missing Vistana]]
 
-***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
+***Mayor's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
 
 The **gallows speaker**'s attack on Stella has been added to explicitly introduce Leo Dilisnya as an antagonist for this arc (even if his identity is currently unknown to the players). 
 

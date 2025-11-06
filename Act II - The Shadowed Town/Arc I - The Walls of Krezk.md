@@ -2,7 +2,7 @@ _An adventure for five 4th- or 5th-level characters._
 
 In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
 
-However, the village of Krezk is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their burgomaster, Baron Dmitri Krezkov.
+However, the village of Krezk is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their mayor, Baron Dmitri Krezkov.
 
 The players must travel to the ruins of Berez between Krezk and Vallaki, and there persuade the witch Baba Lysaga to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack. However, Baba Lysaga is a mad and fickle witch, and her methods of magic are twisted and dark. Can the players convince her to fulfill Baron Krezkov’s request, and so win them entry to the village of Krezk?
 # I1. The Road to Krezk
@@ -37,7 +37,7 @@ The Raven River Crossroads are largely as described in <span class="citation">R.
 
 The figure is recognizably similar to the **revenant** standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
 
-If the players tell the revenant that they are traveling to Krezk, it warns them that the burgomaster of Krezk, Baron Dmitri Krezkov, has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
+If the players tell the revenant that they are traveling to Krezk, it warns them that the mayor of Krezk, Baron Dmitri Krezkov, has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
 
 If the players tell the revenant that they are traveling to the Abbey of Saint Markovia to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
 
@@ -71,7 +71,7 @@ The gates of Krezk are largely as described in <span class="citation">S2. Gateho
 > 
 > ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the mayor of the village of Krezk.
 
 Otherwise, rather than asking the players to secure a wagonload of wine from the Wizard of Wines, Baron Krezkov asks the players to journey to the hut of the witch Baba Lysaga in the ruins of Berez to the southeast. There, he tells them, they must beseech Baba Lysaga to perform a *scrying* spell to discern the location and condition of a particular person. 
 
