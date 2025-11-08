@@ -1,1 +1,1 @@
-![[Pasted image 20251104162531.png]]
+![[Barovia.png]]

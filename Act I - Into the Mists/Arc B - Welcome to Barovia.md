@@ -30,7 +30,7 @@ This scene unfolds as described in <span class="citation">Gates of Barovia (p. 3
 The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
 
 <div class="description">
-<p>The fog spills out of the forest to swallow up the road behind you. Ahead, juitting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeks at their feet. They greet you only with silence.</p>
+<p>The fog spills out of the forest to swallow up the road behind you. Ahead, juitting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeks at their feet. As you approach the gates swing open with a slow screeching sound.</p>
 </div>
 
 The gates automatically open and close for the players screeching as the hinges move.
@@ -261,6 +261,11 @@ If the players agree to aid in the town’s defense, Ismark is deeply grateful. 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
 ## B5d. The Mayor’s Mansion
 This area is largely as described in <span class="citation">Mayor’s Mansion (p. 44)</span>. However, Mayor Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
+
+<div class="description">
+<p>A weay-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn.</p>
+</div>
+
 ### The Angry Mob
 When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
 
@@ -332,6 +337,8 @@ If the players fail to disperse the mob but refuse to allow Ireena to be taken, 
 
 If combat breaks out, Ireena joins the players in defending the mansion while Kolyan pleads for the combatants to avoid killing anyone. If two of the Barovians are knocked unconscious, or if one is killed, the remainder flee.
 
+![[Commoner.png]]
+
 > [!info]+ **Nonlethal Damage**
 > Wanton death to the Barovian commoners will alienate the villagers and the members of Ismark’s family. Players who wish to avoid killing the Barovians can incapacitate their opponents as described in <span class="citation">Knocking a Creature Out (*Player's Handbook*, p. 198)</span>. If players choose not to do so, allow unconscious members of the mob to make death saving throws as described in <span class="citation">Monsters and Death (*Player's Handbook*, p. 198)</span>. 
 
@@ -341,6 +348,10 @@ If the players successfully disperse the mob, Kolyan and Ireena invite them into
 > This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
 ### Within the Mansion
 This area is largely as described in <span class="citation">E4. Burgomaster Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
+
+<div class="description">
+<p>The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room.</p>
+</div>
 
 If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
 #### Lunch with the Mayor
@@ -429,6 +440,7 @@ If any players were kind to him in the tavern, he instead sells those players it
 During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
 
 If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
+
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
 Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Parriwimple has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
@@ -459,6 +471,7 @@ Bildrath greets the players warmly or coldly, depending on their interaction at 
 >
 > ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
 
+![[Parriwimple.png]]
 Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
 
 If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.

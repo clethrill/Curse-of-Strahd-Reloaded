@@ -1,3 +1,3 @@
-![[Pasted image 20251104135738.png]]
+![[DeathHouse.png]]
 
-![[Pasted image 20251104135627.png]]
+![[DeathHouseBasement.png]]

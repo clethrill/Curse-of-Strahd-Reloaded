@@ -1,3 +1,3 @@
-![[Pasted image 20251104162013.png]]
+![[VillageOfBarovia.png]]
 
-![[Pasted image 20251104162032.png]]
+![[BaroviaChurch.png]]
