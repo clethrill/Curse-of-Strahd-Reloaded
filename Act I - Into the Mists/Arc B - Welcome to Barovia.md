@@ -1013,6 +1013,13 @@ Doru warns the players that Strahd will likely take an active interest in newcom
 
 If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
 
+> [!abstract] **Vampire Facts**
+> **Born from Death** - Vampire victims become vampire spawn under countrol of the vampire that created them. If the true vampire allows the spawn to draw blood from its own body the spawn transforms into a true vampire no longer under control of the master. Vampire spawn become free willed when their creator dies.
+> **Chained to the Grave** - Every vampire remains bound to its coffin, crypt, or grave site, where it must rest by day. If no proper burial is given, they must lie under a foot of earth at the place they transitioned. A vampire can move its place of burial by transporting its coffin or a significant amount of grave dirt to another location.
+> Shapechanger - Can switch between a Bat, cloud of mist and it's true form as long as it isn't in sunlight or running water.
+> **Regeneration** - Regenerate wounds as long as they are not in sunlight, in running water or recently damaged by radiant damage or holy water.
+> **Vampire Weaknesses** - *Forbiddance*: Cannot enter residences without an invitation from an occupant; *Harmed by Running Water*; *Stake to the Heart*: If a piercing weapon made of wood is driven into the vampire's heart while they rest in their resting place they become immobilised; *Sunlight Hypersnsitivity*: Damaged by sunlight and weakened in combat.
+
 Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
 ### The Burial
 If the players return to Father Donavich with his holy symbol in hand, he accepts it with gratitude.
@@ -1036,6 +1043,9 @@ Otherwise, if the players spared Doru and relay his final message, read:
 Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
 
 The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
+
+<div class="description">
+<p>A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.</p></div>
 
 Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
 
