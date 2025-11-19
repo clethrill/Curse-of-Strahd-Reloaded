@@ -177,6 +177,14 @@ Whether Ireena is with the party or not, add:
 ## C2b. The Conversation Begins
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
+<div class="description">
+<p>Ester, pleased to finally meet a follower of Kelemvor, will you give a warm "Hello" to him from me</p>
+<p>A Firbolg that must make you Log, you were a real thorn in some of my servants side in Barovia</p>
+<p> Arbitrage, it's such a shame that my loyal subjects won't take so kindly to your remarkable humour</p>
+<p>And the ever so loud Kewpie you make quite a racket for such a small package, gave my ravens quite a scare.</p>
+<p>So then you must be Snook, I say for some of the tales I've heard I was expecting someone a bit taller, nevertheless you've proven yourself a worthy warrior.</p>
+</div>
+
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
 
 (He does not, however, deny his attack on the village of Barovia, noting only that the people of the village defied him in an act of utmost treason. "I am sure that you can agree that my response was a measured one," he says. "After all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.")

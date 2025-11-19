@@ -1,0 +1,6 @@
+![[Parriwimple.png]]
+![[Bildrath.png]]
+![[Ghoul.png]]
+![[Zombie.png]]
+![[Zombie Plague Spreader.png]]
+![[Wight.png]]
