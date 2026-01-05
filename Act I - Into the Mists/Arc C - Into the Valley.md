@@ -178,12 +178,28 @@ Whether Ireena is with the party or not, add:
 If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
 <div class="description">
-<p>Ester, pleased to finally meet a follower of Kelemvor, will you give a warm "Hello" to him from me</p>
-<p>A Firbolg that must make you Log, you were a real thorn in some of my servants side in Barovia</p>
-<p> Arbitrage, it's such a shame that my loyal subjects won't take so kindly to your remarkable humour</p>
-<p>And the ever so loud Kewpie you make quite a racket for such a small package, gave my ravens quite a scare.</p>
-<p>So then you must be Snook, I say for some of the tales I've heard I was expecting someone a bit taller, nevertheless you've proven yourself a worthy warrior.</p>
+<p>Ester, pleased to finally meet a follower of Kelemvor, will you give him my greetings, if you can reach him in this dreary realm.</p>
+<p>A Firbolg, that must make you Log, you were a real thorn in my servants side in the Village of Barovia.</p>
+<p> Arbitrage, it's such a shame that my loyal subjects won't take so kindly to your remarkable humour.</p>
+<p>Kewpie, even smaller than I was told, you've given my ravens quite a scare with all the thunderous noise you make.</p>
+<p>And so then you must be Snook, I say for some of the tales I've heard I was expecting someone a bit taller, nevertheless you've proven yourself a worthy warrior.</p>
+<p>Lady Kolyana, I hope you have introduced our new friends to my domain properly. I apologise for any folktales some of my subjects like to share about me. No doubt you have plenty of questions, maybe you want to hear the otherside of the coin? Hmm?</p>
 </div>
+
+**On Village of Barovia** 
+* Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?
+* I am sure that you can agree that my response was a measured one, after all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.
+**On Death House**
+* Immediately prior to your entry to my lands, you caused great damage to a group of my servants—the occupants of a particular house on the borders of my domain. I had relied upon those servants to bring me specimens of interest, but your activities have left them indefinitely indisposed. Why should I not punish you for your crimes against them?
+* The souls of the damned are tragically twisted things. Do not linger upon their madness.
+**On Escher**
+* This is Escher my coachman and cupbearer. (Ireena gives out a muffled gasp)
+**On Ireena**
+* I have claimed Ireena Kolyana, and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?
+**On Barovia**
+* You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, to prevent you from doing the same?
+
+If players struggle or worry in any way about answering the questions say "I am not an unreasonable man. If there is some reason or rationale that I might have missed, then by all means do enlighten me."
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
 
@@ -232,6 +248,13 @@ When the players have answered all of Strahd's questions to his satisfaction, he
 As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
 ## C2e. Departing the Crossroads
 As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter <span class="citation">The Hanged One (p. 35)</span>. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
+
+<div class="description">
+<p>An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam. The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser pool to the northwest, and Ravenloft / Vallaki to the southwest. The northwest fork slants down and disappears into the trees, while the southwest fork clings to an upward slope. Across from the gallows, a low wall, crumbling in places, partially encloses a small plot of graves shrouded in fog.</p>
+<p>You hear a creaking noise behind you, coming from the gallows. Where there was nothing before now hangs a lifeless, gray body. The breeze turns the hanged figure slowly, so that it can fix its dead eyes upon you. <strong>Rudest to Strahd / probably Arbitrage</strong> you see your own lifeless face staring back at you, everyone else sees some unfamiliar Barovian. </p>
+<p><strong>If touched</strong> The dank, rotting smell of a real corpse drifts over before the corpse rapidly melts away into nothing.</p>
+</div>
+
 # C3. The Strix
 Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, the players hear the sound of a distressed bird cawing from above. A raven with blue-tipped wings—recognizably the same raven that met them in the village of Barovia—then crashes into the road at the players’ feet, visibly wounded. This is, again, the **wereraven** Muriel, in disguise with 1 hit point. Her wings and torso have been penetrated by several dozen silver barbs, leaving her unable to fly, regenerate, or transform until removed.
 
@@ -243,7 +266,7 @@ The raven’s arrival is followed soon after by a terrible, grating shriek and t
 
 The **greater strix** uses the statistics of a **manticore**, but is a Medium construct and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 
-![[Greater Strix.png]]
+![[images/Greater Strix.png]]
 <span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
@@ -344,15 +367,30 @@ The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-a
 ## C4a. Arrival at Tser Pool
 This area is largely as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
 
+<div class="description">
+<p>The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and going of wagons.</p>
+<p>The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Give colourful round tents, each ten feet in diameter, are pitched outside a ring of four barrel topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.</p>
+<p>The mournful strains of an accordion clash with the singing of several brightly clad figures around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.</p>
+</div>
+
 As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
+
+<div class="description">
+<p>A tall colourful old man with a twinkle in his eye meets you and introduces himself a Stanimir</p>
+</div>
 
 Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
 
 However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
 
 If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
+![[TserPoolEncampment.png]]
 ## C4b. Madam Eva's Tent
 This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
+
+<div class="description">
+<p>Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. "At last you have arrived!" Cackling laughter bursts like mad lightning form her withered lips.</p>
+</div>
 
 > [!profile]+ **Profile: Madam Eva**
 >
@@ -486,6 +524,16 @@ Give the players a few minutes away from the table to plan out their stories bef
 ### Stanimir’s Tale
 Stanimir goes first, delivering the same tale as described in <span class="citation">The Dancing Fire (p. 20)</span>. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
 
+<div class="description">
+<p>Stanimir fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.</p>
+<p>"We come from an ancient land whose name is long forgotten - a land of kings. Our enemies forced us from our homes, and now we wander the lost roads."</p>
+<p>The dark shape in the fire takes the form of a man being knocked from his horse, a spear piercing his side.</p>
+<p>Stanimir continues. "One night, a wounded soldier staggered into our camp and collapsed. We nursed his terrible injury and quenched his thirst with wine. He survived. When we asked him who he was, he wouldn't say. All he wanted was to return home, but we were deep in the land of his enemies. We took him as one of our own and followed him back toward his homeland. His enemies hunted him. They said he was a prince, yet we didn't give him up, even when their assassins fell upon us like wolves."</p>
+<p>Deep in the bonfire, you see the dark figure standing with sword drawn, fighting off a host of shadowy shapes.</p>
+<p>"This man of royal blood fought to protect us, as we protected him. We bore him safely to his home, and he thanked us. He said, 'I owe you my life. Stay as long as you wish, leave when you choose, and know that you will always be safe here.'"</p>
+<p>The figure in the dancing fire vanquishes its final foe, the disperses in a cloud of smoke and embers.</p>
+</div>
+
 When his tale has ended and all participants have made their guesses—Eliza and Arturi going last, with Eliza voting “True” and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was Strahd von Zarovich in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
 ### Eliza’s Tale
 After one of the players has gone, Eliza then shares the following tale:
@@ -600,6 +648,10 @@ The silhouette is Madam Eva. She does not answer if called out to, and waits for
 > If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
 
 If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter.
+
+<div class="description">
+<p>An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting great swords, wood wise men with slender bows, dwarves with glittering axes, and archaically dressed mages with beards and strange, pointed hats - all these and more march forth from the graveyard, their numbers growing by the second.</p>
+</div>
 
 Once the March has begun, Madam Eva informs the players: "Each spirit in this march shares a common trait. Can you suppose what that might be?" If the players answer correctly, she then asks, "Where do you suppose they might be headed?"
 
