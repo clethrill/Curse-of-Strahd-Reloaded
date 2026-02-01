@@ -369,7 +369,7 @@ This area is largely as described in <span class="citation">G. Tser Pool Encampm
 
 <div class="description">
 <p>The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and going of wagons.</p>
-<p>The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Give colourful round tents, each ten feet in diameter, are pitched outside a ring of four barrel topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.</p>
+<p>The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Five colourful round tents, each ten feet in diameter, are pitched outside a ring of four barrel topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.</p>
 <p>The mournful strains of an accordion clash with the singing of several brightly clad figures around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.</p>
 </div>
 
@@ -667,6 +667,7 @@ Madam Eva begins the Tarokka reading by seating herself upon the cemetery earth,
 
 <div class="description">
 <p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
+<p>You notice a velvet pouch upon the ground beside her that wasn't present a moment before.</p>
 </div>
 
 As she shuffles the deck, the players notice a velvet pouch upon the ground beside her that wasn't present a moment before. Madam Eva meets their eyes, then cackles quietly. "The task you seek of me is no small boon," she murmurs. "In exchange, I would ask a boon of my own."
@@ -677,7 +678,17 @@ Madam Eva asks the players to use the funds in the pouch to purchase a toy for A
 
 Eva adds, with a cryptic smile, that the players may enjoy speaking with Arabelle, as she is “a most interesting child”—and that the players may find befriending her family a gift in itself. (If the players ask, Eva shares only that Arabelle's father, Luvash, is the leader of the Vallakian Vistani encampment, and his brother Arrigal a "perceptive and intelligent man.")
 
-If the players accept Madam Eva's task, she nods approvingly. She then begins the Tarokka reading. Read:
+<div class="description">
+<p><strong>If enquiring about the pouch, or afterwards force the quest upon the players.</strong> The task you seek of me is no small boon. In exchange, I would ask a boon of my own</p>
+<p>The pouch contains ten gold pieces, my great-grand-niece, Arabelle, will celebrate her tent nameday in two days' time. For this momentous occassion, I wish to provide her a gift - but in my old age, I am quite unable to make the journey myself. Use the funds to purchase a toy for Arabelle at Blinsky Toys in Vallaki, Blinsky's are her favorites.</p>
+<p>You'll find Arabelle at the Vistani encampment to the southwest of Vallaki, get it to her by noon on her nameday.</p>
+<p>You may find befriending her family a gift in itself. Her father is the leader of the Vallakian encampment and his brother is a ... very perceptive and intelligent man.</p>
+</div>
+
+If the players accept Madam Eva's task, she nods approvingly. She then begins the Tarokka reading.  At the top of the main deck in order should be (The Traitor, The Myrmidon, Bishop) Read:
+   2
+1  5  3
+   4
 
 <div class="description">
 <p>Madam Eva sets both decks upon the earth before her. Closing her eyes, she places her right hand over the surface of the larger deck. The crimson flames dim and swirl in eldritch patterns as her lips move silently, a distant tension spreading through the air. The sound of the rustling trees begins to dim, the external world growing mute and insubstantial as the space within grows more solid—more real.</p>
@@ -686,23 +697,23 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>The crone then moves her wrinkled hand to the left-most card—the first. She closes her eyes and tilts her head, as if listening to an unspoken word. The arcane lights swirl and then shift, their colors changing to a deep, piercing blue.</p>
 <p>"This card tells of history. Knowledge of the ancient will help you better understand your enemy."</p>
 <p>She flips the card.</p>
-<p>The cerulean light dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him."</p>
+<p>The cerulean light dances across its surface, revealing “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him."</p>
 <p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
 <p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
-<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See <span class="citation">Swords (Spades), p. 12</span>, for this card’s foretelling.)</p>
+<p>This time, the light reveals “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. "Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night."</p>
 <p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
 <p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
 <p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
-<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in an amber prison, where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
+<p>The light reveals “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in an amber prison, where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
 <p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
 <p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
 <p>She flips the card.</p>
-<p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (See <span class="citation">Strahd’s Enemy, p. 15</span>, for this card’s foretelling.)</p>
+<p>"The Mists." Madam Eva leans forward. "A Vistana wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out at Saint Markovia's abbey near the mists."</p>
 <p>Finally, she moves her hand to the fifth card—and nearly recoils, her brow furrowing until the wrinkles split her forehead like a trench. Behind her, shadows encircle the candlelight until the light is very nearly swallowed by the creeping dark. When next she speaks, Madam Eva's rasping voice is scarce above a whisper.</p>
 <p>"Your enemy is a creature of darkness, whose powers are beyond mortality. When the hour of judgment arrives, this card will lead you to him!"</p>
 <p>Her hand trembles above the card for a silent moment—and then deft, ancient fingers reveal its opposite side.</p>
-<p>In the darkness, the fifth and final illustration is only barely visible through the smoke and unnatural murk. Upon the card's surface dwells a depiction of a crowned, grinning emperor clad in royal finery and reaching for a goblet of wine—though his limbs are wooden puppet’s limbs, lashed to corded strings that disappear into the darkness overhead.</p>
-<p>Madam Eva slowly exhales. "The Marionette." (See <span class="citation">Strahd’s Location in the Castle, p. 17</span>, for this card’s foretelling.)</p>
+<p>In the darkness, the fifth and final card is only barely visible through the smoke and unnatural murk.</p>
+<p>Madam Eva slowly exhales. "The Marionette." "Look to great heights. Find the beating heart of the castle. He waits nearby."</p>
 <p>As the last syllable passes her lips, the old woman freezes—and then rocks backwards, her eyes rolling until their whites gleam like pearls in the darkness—and then she snaps back, the candlelight burning down to its ordinary crimson glow.</p>
 <p>The sound of the natural world returns—the whispering of the wind through the trees, the distant hooting of an owl, and the faraway lapping of the Ivlis River against its banks. Silver moonlight once again pierces the cemetery's edge, and you feel yourselves breathe for the first time since the reading began.</p>
 <p>Madam Eva says nothing. She only regards you silently with dark, heavy eyes.</p></div>
@@ -729,6 +740,10 @@ If the players attempt to speak with Madam Eva again before departing, Stanimir 
 # C5. The Skeletal Rider
 When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
 
+<div class="description">
+<p>Through the mist comes a skeletal warhorse and rider, both clad in ruined chainmail. The skeltal rider holds up a rusted lantern that sheds no light. It approaches from the west and continues towards the village of Barovia.</p>
+</div>
+
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
 # C6. The Watchtower
@@ -750,7 +765,18 @@ The ruined watchtower was built as a lookout post by the Order of the Silver Dra
 
 If the players explore the watchtower, they find a broken silver pendant carved to resemble a dragon lying on the ground of the first floor, close to the entrance. The pendant is always cold to the touch.
 
+<div class="description">
+<p>The tower door has been half-pulled off its hinges and gapes open. Inside a cold hearth stands across form the door, a stone staircase is on the southern wall.</p>
+<p><strong>If they search around</strong>You find lying under some rumble close to the entrance a broken silver pendant carved to resemble a dragon. It's cold to the touch.</p>
+</div>
+
 From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and Tser Pool to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, gray fog.
+
+<div class="description">
+<p>The upper level has windows set in almost every wall. A rusted iron ladder bolted to the floor and ceiling leads up to a wooden trapdoor.</p>
+<p>The rooftop gives panoramic views of the region. You see Tser Falls to the northwest and Tser Pool to the northeast. To the south, the slopes of a large mountain, above and beyond which is only an impenetrable wall of thick, gray fog.</p>
+</div>
+
 ## The Graves
 The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 12 Wisdom (Survival) check reveals that the graves are no more than a few weeks old.
 
@@ -762,7 +788,7 @@ The journey from the River Ivlis Crossroads to Tser Falls is seven-and-a-half mi
 ## C7a. The Ravine
 As the players continue down the road, read:
 
-<div class="description"><p>You continue down the winding mountain road, the jagged peaks looming ominously through the fog far above. </p>
+<div class="description"><p>You continue up the winding mountain road, the jagged peaks looming ominously through the fog far above. </p>
 <p>The air grows colder as the road passes through a dark evergreen forest, the thick canopy once more blocking out much of the sky's dim light. Here, the road grows narrow, its edges passing above steep, craggy slopes as it winds around a mountain spur. The only sounds that follow you are the crunching of fallen leaves and an occasional rustling in the underbrush.</p></div>
 
 If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
@@ -810,6 +836,8 @@ Replace the wolves' ***bite*** attack with the following action options:
 
 The **wolves** start on the mountainside, with the players between them and the ravine. In combat, the **wolves** target a single player at a time with their ***claws*** attacks, using their ***pack tactics*** to gain advantage on attack rolls and hoping to knock that player into the gully.
 
+![[WolfModded.png]]
+
 A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The two wolves at the bottom use their ***maul*** to attack any creature that falls into the ravine, then drag them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
 
 Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if six of the eight wolves are killed.
@@ -825,6 +853,10 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 <span class="citation"><em>This scene takes place in Chapter 2: Area H.</em></span>
 
 This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
+
+<div class="description">
+<p>You follow the dirt road as it clings to the side of a mountain and ends before an arching bridge of mold-encrusted stone that spans a natural chasm. Gargoyles cloaked in black moss perch on the corners of the bridge, their frowns weatherworn. On the mountainous side of the bridge, a waterfall spills into a misty pool nearly a thousand feet below. The pool feeds a river that meanders into the fog-shrouded pines that blanket the valley.</p>
+</div>
 
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -843,7 +875,7 @@ If the players claim to serve Strahd, the revenant visibly stiffens, but stands 
 
 If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life. 
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
+If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt (ar-gin-vost-holt) to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
 
 If the players inquire about the Order of the Silver Dragon, the revenant shares only that the knights of the Order opposed the lord of Ravenloft in life and suggests that the players speak with Sir Godfrey to obtain further information. If the players obtained the silver pendant in the watchtower by the River Ivlis Crossroad, the revenant recognizes it, but refuses to comment further on its significance.
 
@@ -881,7 +913,15 @@ The journey from Tser Falls to the <span class="citation">Black Carriage (p. 37)
 
 This area is as described in <span class="citation">Black Carriage (p. 37)</span>. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
 
+<div class="description">
+<p>Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an important thoroughfare</p>
+</div>
+
 The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 33)</span>, but seen from the opposite side.
+
+<div class="description">
+<p>Ahead, jutting up from the ground are huge iron gates hanging between two high stone buttresses flanking the road. You recognise the same design as the gates you passed through when first entering Barovia</p>
+</div>
 
 > [!abstract]+ **Visiting Castle Ravenloft**
 > If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
@@ -901,7 +941,15 @@ If the players remain silent or continue ahead, read:
 
 The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
 
+<div class="description">
+<p>The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley. In the heart of the valley you see a walled town near the shores of a great mountain lake, its waters dark and still. A branch in the road leads west to a promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.</p>
+</div>
+
 As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
+
+<div class="description">
+<p>You hear the sound of small, wooden wheels rolling acorss damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pusing a rickety wooden art through the fog.</p>
+</div>
 
 This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
@@ -956,6 +1004,10 @@ The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-qu
 
 This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
 
+<div class="description">
+<p>More ravens begin to take an interest in you. Before long, their numbers swell, and soon dozens of them are watching you. Blue takes flight and joins the flock, they continue to fly overhead watching from a safe distance.</p>
+</div>
+
 As the players proceed down the road, read:
 
 <div class="description"><p>Ahead, the trees to the north break, revealing a grassy field. The tall grasses sway in the chill air, the field stretching until it reaches the shores of a dark, distant lake. Fog clings to the shoreline. Even from a distance, you can hear the faint sound of water lapping against the rocks.</p></div>
@@ -963,6 +1015,12 @@ As the players proceed down the road, read:
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
 
 Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible. 
+
+<div class="description">
+<p>Ireena freezes like she's just had de ja vu. <strong>When someone reacts</strong> She says "Do you mind if we do a quick detour to the lake edge, the lake seems, strangely familiar."</p>
+<p>It's the lake from my dreams, I can remember it so vividly yet, I've never been this far west before in my life.</p>
+<p>As you continue back on along the back, Ireena, not watching where she's going stumbling on the occasional pot hole or rock, she seems distant, lost in her on thoughts.</p>
+</div>
 
 Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
 
@@ -1085,7 +1143,7 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 ## C12a. The Vallakian Gates
 The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
 
-<div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
+<div class="description"><p>The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber.</p><p>The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.</p><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
 
 If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
 
@@ -1118,6 +1176,8 @@ The guards then demand each player pay 1 gold piece as a toll in order to enter 
 If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
 
 If asked about lodging, the guards can share information about the Blue Water Inn, as described in <span class="citation">Vallaki Lore (p. 96)</span>. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
+* The Blue Water Inn offers food, wine, and shelter to visitors. 
+* A stranger with pointed ears is staying there. He came to Barovia from a distant land, riding into town on a carnival wagon.
 
 Each time the players pass through the gates, including the first, the guards nod at them and intone the Baron's favored phrase: "All will be well."
 
@@ -1133,17 +1193,29 @@ As the players pass down Vallaki's main avenue, read:
 
 The cloaked figure is Willemina Rikalova, as described in <span class="citation">St. Andral's Church (p. 97)</span>. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
 
+> [!abstract]+ **Willemina**
+> Sad old women, her son, the shoemaker Udo Lukovich has been imprisoned for speaking out against the burgomaster.
+
 As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
+
+![[Vallaki.png]]
 ## C12b. The Blue Water Inn
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
 This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
 
+<div class="description">
+<p>Gray smoke issues from the chimney of this large, two storey wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.</p>
+<p>Blue let's out a trill and a slight bow before it flies over to the other ravens perched on the roof.</p>
+</div>
+
+![[BlueWaterInn.png]]
+
 When the players first arrive, the inn contains the following notable NPCs:
 
 * Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**; 
 * Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
-* Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
+* Brom and Bray Martikov, who are playing with toys in **N2o. Boys' Bedroom**; and
 * Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
 
 ![[Vallaki_Martikovs.png]]
@@ -1189,6 +1261,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</span>. However, add the following text to the end of this area's description:
 
 <div class="description">
+<p>Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden stairscase that hugs the north wall. Another balcony overhands an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.</p>
 <p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
 </div>
 
@@ -1198,9 +1271,11 @@ The man is the ringmaster Rictavio, who is largely as described in <span class="
 
 When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin (Wolf Hunters) are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
 
 Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+
+#### Banter Danika and Urwin
 
 Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
 
@@ -1211,9 +1286,17 @@ Before Urwin can reply to the players, Danika returns and apologizes to the play
 
 Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry. 
 
+<table>
+<thead><tr><th>Item</th><th>Price</th></tr></thead>
+<tbody><tr><td>Bed for the night</td><td>1 ep</td></tr><tr><td>Pint of Purple Grapemash No. 3 wine</td><td>3 cp</td></tr><tr><td>Pint of the superior Red Dragon Crush wine</td><td>1 sp</td></tr><tr><td>Soup and Bread</td><td>No Charge</td></tr><tr><td>Cooked Wolf Steak</td><td>1 ep</td></tr></tbody>
+</table>
+
 The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>. 
 
-Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
+> [!abstract]+ **Festival of the Blazing Sun**
+> Mayor Baron Vargas Vallakovich, has decreed that the festival of the blazing sun will be held in the town square in 5 days at noon. The previous festival, the Wolf's Head Jamboree was less than a week ago.
+
+Both Urwin and Danika Martikov can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
 
 The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
@@ -1257,10 +1340,8 @@ After clearing his throat, Rictavio shares the following story:
 <p>He had forgotten that Olivenka's cataract-ridden eyes couldn't quite see his fangs.</p>
 <p>"You disgusting man!" Olivenka screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Olivenka staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
 <p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
-<p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
+<p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p><p>"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.</p>
 </div>
-
-"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
 
 If spoken with, Rictavio is willing to share the following information over drinks:
 
@@ -1278,11 +1359,12 @@ If the players don't intervene, the following sequence of events then occurs:
 * Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
 * Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>. 
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray Martikova, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl Wachter drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
 ### The Brothers Wachter
 If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
 
 - the Festival of the Blazing Sun,
+	- Speaking ill of the festivals are arrested, declared to be in league with strahd, some are put in the stocks, others are taken to the mansion to be "purged" of evil
 - Vallaki's recent history of festivals,
 - the Baron's response to those who speak ill of the festivals, and
 - the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
@@ -1298,11 +1380,11 @@ At some point during the conversation, Danika approaches the table to clear away
 - Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+If the players ask Urwin or Danika Martikov about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 ### Eating Dinner
 Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
 
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks (A mean scowl) as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair (A frightened expression), is cowering behind one of the chairs of the nearest table.)
 
 If the players do not interrupt, Danika scolds the boys as follows:
 

@@ -17,6 +17,13 @@ Can the players defeat Volenta's plan and restore the church's protection? Or wi
 
 The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
 
+<div class="description">
+<p>This slouching, centuries-old stone church has a bulging
+steeple in the back and walls lined with cracked, stained
+glass windows depicting pious saints. A fence of wrought
+iron encloses a garden of gravestones next to the church.
+A thin mist creeps among the graves.</p></div>
+
 The church's occupants follow the following schedule unless interrupted:
 
 * At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
@@ -246,6 +253,11 @@ If the players suggest reporting the theft of the bones to the mayor, Father Luc
 
 Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
+<div class="description"><p>This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek
+Stockyard."</p><p>
+Parked at the south end of the stockyard is a sturdy
+carnival wagon, its colorful paint peeling off and faded. However a brand new and freshly painted sign hangs off the side spelling out "Rictavio's Carnival of Wonders." A heavy padlock secures the back door.</p></div>
+
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
 If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
@@ -253,6 +265,11 @@ If a player nonetheless attempts to unlock or force open the door to the wagon, 
 If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc E - The Missing Vistana]].)
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
+
+![[CoffinMakersShop.png]]
+
+<div class="description"><p>This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the win-
+dow shutters are closed up tight, and a deathly silence surrounds the establishment.</p></div>
 
 The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
@@ -268,6 +285,8 @@ Henrik van der Voort, the coffin maker, follows the following schedule:
 * At night, he sleeps in **N6e. Henrik's Bedroom.**
 ## D4a. Entering the Shop
 The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
+* "We're closed go away"
+* "Go away, leave me alone"
 
 Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
 
@@ -285,6 +304,9 @@ The bones have been concealed as described in <span class="citation">N6e. Henrik
 
 * a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
 * a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
+
+> [!abstract]+ **Poison Needle**
+> When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour.
 
 The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
 
@@ -470,6 +492,7 @@ Volenta flees from combat if her first form is reduced to 0 hit points, using he
 
 When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
 ### 2. Father Lucian
+![[Father Lucian.png]]
 [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
 
 * ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
@@ -490,6 +513,7 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 >
 > However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. The Vampire Spawn
+![[Vampire Spawn.png]]
 The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
 # D5. Retrieving the Bones
 If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
