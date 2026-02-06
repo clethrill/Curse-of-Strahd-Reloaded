@@ -82,11 +82,31 @@ After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into t
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
+<div class="description">
+<p>This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky".</p></div>
+
 If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+
+* "Welcome, friends, to the House of Blinsky, where happiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"
+* "I am Gadof Blinsky, a wizard of tiny wonders"
+* Monkey named Piccolo from traveling scholar named Alanik Ray over 3 months ago, Piccolo wears a ballerina tutu
+* Inspired to make toys by the legendary toymaker Fritz von Weerg, his greated invention was a living clockwork man, some say it still lies somewhere in Castle Ravenloft
+* Creepy Toys
+	* A headless doll that comes with a sack of attachable heads, including one with its eyes and mouth sitched shut (9 cp)
+	* A miniature gallows, complete with trapdoor and a weighted "hanged man" (9 cp)
+	* A set of wooden nesting dolls; the smaller each one gets, the older it gets, until the innermost doll is a mummified corpse (9cp)
+	* A wood-and-string mobile of hanging bats with flapping wings (9cp)
+	* A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (9sp)
+	* A ventriloquist's dummy that looks like Strahd von Zarovich (9sp)
+	* A doll that looks remarkably like Ireen Kolyana (not for sale)
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
 As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
+
+<div class="description">
+<p>As you exit the town square you notice Izek and two town guards. Izek orders the guards to tear down posted proclamations for The Wolf's Head Jamboree, and replace them with proclamations for The Festival of the Blazing Sun</p>
+</div>
 
 ![[Jamboree_Poster_Distressed.png]]
 
@@ -96,6 +116,10 @@ As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards*
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
 
 The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>. The journey is one-half mile long and takes approximately ten minutes.
+
+![[VistaniCamp.png]]
+
+<div class="description"><p>The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surroud a large tent with a column of smoke pouring out through a whole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area</p></div>
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
@@ -216,7 +240,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 > [!info]+ **What Kasimir Knows**
 > If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
 > * ***The Forest Folk.*** "Their ancestors first discovered this valley thousands of years ago. They are a reclusive people, however, and today serve the Devil and his servants."
-> * ***Argynvostholt.*** Kasimir shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
+> * ***Argynvostholt.*** Kasimir shares the information in <span class="citation">Vallaki Lore (p. 96)</span>. Legend has it a dragon died there long, long ago, it spawned followers that call themselves the Order of the Silver Dragon.
 > * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
 > * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
 
@@ -245,8 +269,10 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 
 # E3. Burgomaster's Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
-
+![[MayorsMansion.png]]
 The mayor's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+
+<div class="description"><p>This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors.</p></div>
 
 If the players visit the mayor’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
@@ -374,12 +400,32 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 
 Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
+Attic Room (r)
+<div class="description"><p>
+This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.</p></div>
+
+Attic Storage (s)
+<div class="description"><p>
+This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.</p></div>
+
+Victor's Workroom (t)
+<div class="description"><p>
+Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!"</p></div>
+The door has the fear spell:
+> [!abstract] **Fear Spell**
+> You project a phantasmal image of a creature’s worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become [frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) for the duration.
+> 
+> While [frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) by this spell, a creature must take the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature.
+
 > [!Warning]+ Counterspell 2024
 > 
 > This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
 
 
 Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
+
+<div class="description"><p>
+Someone has taken old, mismatched furniture and created a study in this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, a freestanding bookshelf holds an assortment of junk and a full length mirror sits in the corner. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. </p></div>
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
 
@@ -494,6 +540,9 @@ If Szoldar is accompanying the players, he warns them that the saplings and scar
 
 If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
 
+| ![[Scarecrow.png]] | ![[Twig Blight.png]] |
+| ------------------ | -------------------- |
+
 > [!combat]- **Balancing the Blights**
 > This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
@@ -504,6 +553,9 @@ If the players approach the snapped signpost or move to leave the intersection, 
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
 
 Lake Baratok is as described in <span class="citation">Approaching the Tower (p. 167)</span>. The tower itself is largely as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
+
+<div class="description"><p>
+You come to a cold mountain lake enclosed by misty woods and rocky bluggs. Thick fog creeps across teh dark, still waters. The trail ends at a grass-covered causeway that stretches a hungred yards across the lake to a flat, marshy island with a stone tower on it. The tower is old and decrepit, with collapsing scaffolds clinging to one side where a large gash has split the wall. Timeworn griffon statues, their wings and flanks covered with miss, perch atop buttresses that support the walls.</p><p>Parked near the base of the tower, within sight of the entrance, is a barrel-topped wagon spattered with mud.</p></div>
 ## E6a. Ezmerelda’s Wagon
 <span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
 
@@ -511,6 +563,9 @@ Lake Baratok is as described in <span class="citation">Approaching the Tower (p.
 Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
+
+<div class="description"><p>
+Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover tombestone-shaped window on each side. A steel padlock secures the door.</p><p>Haphazardly arranged across the door are three signs that read in order "Keep out!", "Home & Property of Ezmerelda d'Avenir" and "Trespassers will be immediately incinerated". Under the text of the last sign is a drawing of a small frowning face with crossed-out eyes surrounded by stylized flames. You only now notice the faint scent of sulfur.</p></div>
 
 A player who approaches the wagon detects a faint scent of sulfur, and notices that the grass around it appears to have been tramped down by many feet. A player who makes a successful DC 14 Wisdom (Survival) check learns that the tracks were left by a pack of wolves the previous night, which evidently inspected the wagon before leaving it alone. (If he is with the players, Szoldar points this out after a brief investigation, and advises them against interfering with the wagon.) The player also learns that the wagon has been parked here for no more than forty-eight hours.
 

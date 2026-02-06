@@ -268,8 +268,7 @@ If the players successfully break the door to the wagon or pick its padlock, the
 
 ![[CoffinMakersShop.png]]
 
-<div class="description"><p>This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the win-
-dow shutters are closed up tight, and a deathly silence surrounds the establishment.</p></div>
+<div class="description"><p>This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.</p></div>
 
 The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
