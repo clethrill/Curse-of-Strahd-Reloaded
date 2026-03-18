@@ -540,6 +540,8 @@ If Szoldar is accompanying the players, he warns them that the saplings and scar
 
 If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
 
+![[Szoldar.png]]
+
 | ![[Scarecrow.png]] | ![[Twig Blight.png]] |
 | ------------------ | -------------------- |
 
@@ -594,7 +596,7 @@ If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they r
 * The wooden box containing the Tarokka cards
 * The sets of manacles
 * The wooden chest containing the holy symbol, holy water, perfume, antitoxin, rope, tinderbox, steel mirror, wooden stake, and spyglass
-* The spell scrolls
+* The spell scrolls (major image, remove curse)
 * The map of Barovia (which shows only the roads and settlements of Barovia, and no longer shows all the locations marked on the adventure's map of Barovia)
 
 If the players enter the wagon by means of the door instead of the trapdoor, Ezmerelda's chicken squawks angrily at them until they depart.
@@ -606,6 +608,8 @@ If the players enter the wagon by means of the door instead of the trapdoor, Ezm
 ## E6b. The Tower
 ### 1. The Tower Door
 <span class="citation"><em>This scene takes place in Chapter 11: Area V2.</em></span>
+
+![[VanRichtensTower.png]]
 
 The tower door is largely as described in <span class="citation">V2. Tower Door (p. 169)</span>. However, modify the descriptive text as follows:
 
@@ -640,6 +644,8 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
 The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
+
+<div class="description"><p>Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.</p></div>
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -700,12 +706,26 @@ If able, a gargoyle that has grappled a player flies 15 feet up on its turn and 
 
 The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. 
 
+**The First Floor.** 
+
+<div class="description"><p>The flagstone floor is strewn with drebris, and a few old crates stand near the east wall. A torn curatin to the south partially obscures the tower vestibule.</p><p>A five-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized hole in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.</p></div>
+
+Clay statues are clay golems that operate the elevator.
+
+**The Second Floor.**
+
+<div class="description"><p>Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed</p></div>
+
 **The Third Floor.** The third floor also contains an old, rotted crib.
+
+<div class="description"><p>Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black milder on the walls. An old rotted crib barely stand disheveled on the wall opposite an opening to some scaffolding on the outside. The wooden floor is completely rotted and has begun to fall away in places.</p></div>
 
 > [!lore]+ **The Crib**
 > The old crib is the last memento of Khazan's infant child, who died with its mother in childbirth two years after Barovia was trapped in the Mists.
 
 **The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
+
+<div class="description"><p>Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mould and milder, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrows slits as well as through dirt-caked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower rood, which has somehow remained in tact. Mounted to the rafters are pulleys around which hang iron chains that support the towers' elevator platform.</p></div>
 
 A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
 

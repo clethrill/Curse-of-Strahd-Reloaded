@@ -333,8 +333,15 @@ Dmitri apologizes to the players for concealing this information from them, and 
 > Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
 # K2. The Abbey of Saint Markovia
 The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
+
+<div class="description">
+<p>The switchback road that hugs the cliff is ten feet wide and covered with loose gravel and chunks of broken rock. The ascent is slow and somewhat treacherous, and the air grows colder as on nears the top.</p></div>
+
 ## K2a. Entering the Abbey
 The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+
+<div class="description"><p>
+The road from the village climbs above the mist to the wide ledge on which the abbey is perched. A light dusting of snow covers the trees and the rocky earth.</p><p>The gravel road passes between two small, stone outbuildings, to either side of which stretches a five foot high, threfoot thick wall of jumbled stones held together with mortar. Blocking the road are iron gates attached to the outbuildings by rust hinges. They appear to be unlocked. Viewed through the gates, the stone abbey stands quet. Its two wings are joined by fifteen foot high curtain wall. A belfry protrudes form the rooftop of the closer north wing, which also sports a chimney billowing gray smoke.</p></div>
 
 > [!profile]+ **Profile: Otto & Zygfrek**
 > ***Roleplaying Information***
