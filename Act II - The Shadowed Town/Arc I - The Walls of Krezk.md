@@ -194,6 +194,7 @@ U5
 
 ![[BabaLysagaHut.png]]
 
+![[BabaLysaga.png]]
 Baba Lysaga’s Hut is as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>. However, the sound of a soft lullaby can be heard emanating from the hut’s open doorframe, muffled by the sound of the ravens’ squawks. Additionally, if the **greater strix** warned Baba Lysaga of the players’ arrival, it is perched atop the hut, silently watching the players as they approach.
 
 <div class="description"><p>Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider. The crafted burlap bird from earlier is perched  atop the hunt, silently watching you approach.</p><p>An open doorway is visible on one side of the hut, beneath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut's doorway are two iron cages that dangle like hideous ornaments from the eaves. Scores of raves are trapped in each one. They squawk and flutter their wings excitedly as you approach.</p><p>A soft lullaby can be heard emanating from the hut's open doorframe, muffled by the sound of the raven's squawks.</p></div>
