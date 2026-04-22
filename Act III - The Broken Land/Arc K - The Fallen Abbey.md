@@ -337,11 +337,18 @@ The road to the Abbey of Saint Markovia is as described in <span class="citation
 <div class="description">
 <p>The switchback road that hugs the cliff is ten feet wide and covered with loose gravel and chunks of broken rock. The ascent is slow and somewhat treacherous, and the air grows colder as on nears the top.</p></div>
 
+![[AbbeyOfSaintMarkovia.png]]
 ## K2a. Entering the Abbey
 The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
 
 <div class="description"><p>
-The road from the village climbs above the mist to the wide ledge on which the abbey is perched. A light dusting of snow covers the trees and the rocky earth.</p><p>The gravel road passes between two small, stone outbuildings, to either side of which stretches a five foot high, threfoot thick wall of jumbled stones held together with mortar. Blocking the road are iron gates attached to the outbuildings by rust hinges. They appear to be unlocked. Viewed through the gates, the stone abbey stands quet. Its two wings are joined by fifteen foot high curtain wall. A belfry protrudes form the rooftop of the closer north wing, which also sports a chimney billowing gray smoke.</p></div>
+The road from the village climbs above the mist to the wide ledge on which the abbey is perched. A light dusting of snow covers the trees and the rocky earth.</p><p>The gravel road passes between two small, stone outbuildings, to either side of which stretches a five foot high, threfoot thick wall of jumbled stones held together with mortar. Blocking the road are iron gates attached to the outbuildings by rust hinges. They appear to be unlocked. Viewed through the gates, the stone abbey stands quet. Its two wings are joined by fifteen foot high curtain wall. A belfry protrudes from the rooftop of the closer north wing, which also sports a chimney billowing gray smoke.</p></div>
+
+Otto
+Standing just below 5 foot tall, he squats instead of standing upright. His skin is covered with patches of donkey flesh. He has one human ear and one wolfs ear and a protruding wolf's snout and fangs. His arms and hands are human but his legs and feet are leonine and he has a donkey's tail.
+Zygfrek
+Stands about as tall as Otto, the left side of her face is covered with lizard scales, the right with tufts of gray wolf fur. Between these tufts is pale human skin. One of her eyes is feline, and her fingers and hands resembles cats paws. 
+![[OttoAndZygfrek.png]]
 
 > [!profile]+ **Profile: Otto & Zygfrek**
 > ***Roleplaying Information***
@@ -370,7 +377,15 @@ If told that the players are seeking a Vistana who’s staying at the Abbey, Zyg
 
 After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
 
+S7
+<div class="description"><p>Stunted pine trees grow out of the rocky earth in the graveyard near the foundation of the abbey's north wing. The windows of the structure are cracked panes of leaded glass. Ancient gravestones burst from a thin crust of snow in the yard. Beyond the low wall that surrounds the graveyard, the ground falls away. The village lies four hundred feet below, and the view is breathtaking.</p></div>
+S10
+<div class="description"><p>A fifteen-foot-high curtain wall joins the abbey's two wings. Behind its battlements, two guards stand at attention, their features obscured by fog. Below them, set into the wall, is a pair of ten-foot-tall, wooden doors reinforced with bands of steel. To the right of these doors, mounted on the wall, is a tarnished copper plaque.</p></div>
+
 If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
+
+Colin
+![[Colin.png]]
 
 Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
 
@@ -399,6 +414,8 @@ If the players appear disturbed or amused by the Belviews’ condition, Clovin a
 If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
 ## K2b. Main Hall
 This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+
+<div class="description"><p>The ground floor is on large, fifty-foot-square room with arched, leaded glass windows. A cauldron sits on an iron rack above a fire in a hearth, while above the fireplace mantel hangs a golden disk engraved with the symbol of the sun. In one corner, a wooden staircase climbs to the upper level, while in another corner a stone staircase descends into darkness.</p><p>Several chairs surround a wooden table that stretches nearly the length of the room. Wooden dishware and gold candelabras are neatly arranged on the table, standing behind which is a young woman with alabaster skin dresed in a torn and soiled red gown. Her auburn hair is neatly budnled so as not to touch her soft shoulders. She seems lost in her own thoughts.</p></div>
 
 > [!profile]+ **Profile: The Abbot**
 > **Roleplaying Information**
@@ -538,6 +555,8 @@ The Abbot guides the players to the doorway of the foyer of the East Wing, which
 </div>
 
 The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
+
+![[AbberyOfSaintMarkovia2.png]]
 
 The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
 

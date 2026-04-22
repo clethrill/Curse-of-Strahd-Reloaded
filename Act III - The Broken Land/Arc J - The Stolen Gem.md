@@ -218,6 +218,10 @@ As the players enter this area, Muriel whispers that something isn’t right, no
 
 The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
 
+> [!lore]+ **Spiked Pit**. 
+> This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (2d10) [piercing](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_50) [damage](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_46) from the spikes, in addition to any [falling](https://roll20.net/compendium/dnd5e/Rules:The%20Environment?expansion=34047#toc_1) damage. 
+
+![[VineBlight.png|500]]
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
 In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.

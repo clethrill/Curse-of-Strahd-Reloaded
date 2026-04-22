@@ -41,16 +41,33 @@ The revenant can inform the players that Sir Godfrey awaits visitors in the Chap
 Should the players request directions to the chapel, the revenant advises them to enter the foyer through the main entrance, then proceed eastward into the dining hall. There, the revenant tells them, “the doors to the chapel stand ever-open to those who seek a brighter dawn."
 
 If the players ask the revenant to escort them to the mansion, it declines, noting gravely that it has been banished from its grounds and estate “for raising my voice against my commander, Vladimir Horngaard, when my oath could suppress my conscience no longer." It declines to explain further, advising the players to speak with Sir Godfrey instead.
+
+![[ArgynvostholtGround.png]]
 # M2. Approaching the Mansion
 This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
+
+<div class="description">
+<p>High above the river valley juts a quiet promontory upon which looms a sepulchral mansion, its turrets capped with fairytale cones, its towers lined with sculpted battlements. A third of the structure has collapsed, as has part of the roof, but the rest appears intact. A dark, octagonal tower rises above the surrounding architecture.</p><p>Out of the fog comes a distant peal of thunder, quickly accompanied by the howling of wolves in the woods below, but the house stands silent, seeming like the fossilized remains of some long-dead thing smote upon the mountainside.
+</p></div>
+
 ## M2a. Dragon Statue
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
 
 This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
+
+<div class="description">
+<p>Perched atop a ten-foot-wide, ten-foot-high cube of
+granite is a moss-covered statue of a dragon, its wings
+tucked close to its body. The statue looks west, out across the valley.</p>
+</div>
+
+The statue resembles a silver dragon to anyone with proficiency in Nature.
 ## M2b. Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
 
 This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
+
+<div class="description"><p>Flagstone steps flanked by stone railings climb to a landing in front of a pair of tall, wooden doors with rusted iron bands and knockers shaped like small dragons. Carved into the lintel above the entrance is the word ARGYNVOSTHOLT.</p></div>
 
 > [!info]+ **Scale of the Map**
 > If you’re running the players’ exploration of Argynvostholt on a battlemap, remember that each square on the official map is 10 feet across, rather than 5 feet.
@@ -59,16 +76,25 @@ This area is largely as described in <span class="citation">Q2. Main Entrance (p
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
 This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
+
+<div class="description">
+<p>This room feels like a king's tomb. A grand staircase leads up to stone balconies held aloft by stone pillars and arches. A tall, faded tapestry depicting a nobleman in silver armor hangs from an iron rod above the staircase landing.</p>
+<p>Six sets of double doors lead from this foyer. Along the walls, displayed on marble pedestals, are three alabaster busts of handsome men. A fourth bust and its pedestal have been knocked over, and their shattered remains lie strewn across the mosaic floor. Two chandeliers of wrought iron hang from the ceiling like monstrous black spiders.</p>
+<p><strong>First time:</strong></p>A great shadow with wings moves across the walls towards the the room to the east behind the staircase and disappears. You hear the soft bestial hiss in the darkness.</div>
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
 This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
+
+<div class="description"><p>A twenty-foot-long table with sculpted dragons for legs stands in the center of this hall. The chairs that surround the table have backs carved to resemble folded dragon wings, and several of the chairs have been overturned or smashed to pieces. Suspended above the table is a crystal chandelier that glows with a soft white light. Standing in windowed alcoves are two life-sized statues depicting knights with dragon-winged helms and shields.</p><p>Rainwater trickles through cracks in the ceiling, flowing down the west wall and adding to a large puddle on the floor.</p><p>Five sets of wooden doors lead to this hall. The doors in the northeast corner hang open. A pair of leaded glass doors, their panes cracked and broken, stand open between panels of stained glass set into the east wall. These panels depict silver dragons in flight. Beyond the glass doors lies a dark, misty room that appears to be a chapel.</p></div>
+
 ## M3c. Chapel of Morning
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
 
 This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
 
 <div class="description">
+<p>Cracked wooden pillars support a wooden, U-shaped balcony that overhangs this stone-walled chapel. Narrow archways lead to spiral staircases that curl up to the balcony, and a door set into the north wall has a wooden beam barring it. At the east end of the chapel rests a stone altar flanked by iron candelabras. The altar is carved with a rising sun bas-relief. Tall, arching windows set with panels of stained glass decorate the walls behind the altar. One of the windows has been shattered, covering the chapel floor with shards of colored glass and allowing thick fog to enter and fill the room.</p>
 <p>A rusted, wrought-iron lantern hangs from each of the six pillars, each lantern’s glass panels fogged with age. Cold, ethereal lights flicker and writhe within them, and faint whispers seem to emanate from their depths.</p>
 <p>A knight stands between two of the furthest pillars, his arms outstretched like a haunting mockery of a scarecrow. Strands of black wire ensnare his chest in a macabre web, with additional strands looping down and around his biceps and rusted gauntlets before stretching across to the stone pillars on either side.</p>
 <p>The knight's chain-mail shirt is dulled and corroded with age, his silver helm cracked and blackened. Beneath it, strands of silver-gray hair fall limply across his gaunt and ashen face. His flesh is gray and pallid, skin stretched taut over sharp, skeletal cheekbones, and his head slumps forward toward the ground.</p>
@@ -98,7 +124,7 @@ This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class=
 >
 > The players can release a spirit from its lantern by opening the lantern’s glass door. A spirit released from its lantern thanks the players for their mercy before dissipating into mist.
 
-Godfrey introduces himself as Sir Godfrey Gwilym, knight of the Order of the Silver Dragon. If told the reason for the players’ arrival, he can confirm that the revenants at Tser Falls and the Raven River Crossroads invited the players to Argynvostholt on his orders, “for the hour is dire, and I have need of your aid."
+Godfrey introduces himself as **Sir Godfrey Gwilym, knight of the Order of the Silver Dragon**. If told the reason for the players’ arrival, he can confirm that the revenants at Tser Falls and the Raven River Crossroads invited the players to Argynvostholt on his orders, **“for the hour is dire, and I have need of your aid."**
 ### What Godfrey Knows
 At the players’ request, Godfrey can share the following information regarding the Order of the Silver Dragon and his current predicament.
 
@@ -136,15 +162,15 @@ Godfrey is willing to continue dealing with the players if he is assured that th
 * A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
 * A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Charisma (Persuasion) check (depending on whether or not they’re telling the truth).
 
-If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
+**If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards**, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
 
-If a player possessing a shard fails to reassure Godfrey, he asks them gravely why they feel they *need* its power. "There is no shame in confessing fear or uncertainty," he says, his expression softening. "It is only when we allow those demons to cloud our judgment that we step wrongly."
+**If a player possessing a shard fails to reassure Godfrey**, he asks them gravely why they feel they *need* its power. "There is no shame in confessing fear or uncertainty," he says, his expression softening. "It is only when we allow those demons to cloud our judgment that we step wrongly."
 
-If the player admits to desiring the shard's power for understandable—if not sympathetic—reasons, Godfrey assures them that they are no lesser for their struggles. "You are stronger than you know," he insists. "Embrace the power within you—not the lies and illusions these shards may promise. There is always a chance to turn away from the darkness, no matter how far we may feel we have fallen."
+**If the player admits to desiring the shard's power for understandable—if not sympathetic—reasons**, Godfrey assures them that they are no lesser for their struggles. "You are stronger than you know," he insists. "Embrace the power within you—not the lies and illusions these shards may promise. There is always a chance to turn away from the darkness, no matter how far we may feel we have fallen."
 
-If a player possessing a shard stands steadfast by their decision to seek out its power or otherwise fails to reassure Godfrey, he demands that the players promise to cast the shard away—whether into Lake Zarovich, Lake Baratok, or elsewhere—upon departing Argynvostholt. Godfrey refuses to speak with the players further unless they make a promise to do so. (If the players are lying, they must also succeed on a group DC 14 Charisma (Deception) check to convince him.)
+**If a player possessing a shard stands steadfast by their decision to seek out its power or otherwise fails to reassure Godfrey**, he demands that the players promise to cast the shard away—whether into Lake Zarovich, Lake Baratok, or elsewhere—upon departing Argynvostholt. Godfrey refuses to speak with the players further unless they make a promise to do so. (If the players are lying, they must also succeed on a group DC 14 Charisma (Deception) check to convince him.)
 
-If asked about the Amber Temple, Godfrey is willing to share that the Amber Temple is a place of corruption and evil—and that the Order of the Silver Dragon’s first and secret purpose was to defend the Amber Temple from those who would seek out its power.
+**If asked about the Amber Temple**, Godfrey is willing to share that the Amber Temple is a place of corruption and evil—and that the Order of the Silver Dragon’s first and secret purpose was to defend the Amber Temple from those who would seek out its power.
 
 Godfrey is willing to share no more information than that. However, should the players express an interest in visiting the Amber Temple—such as to obtain the *Sunsword* or decode the mysteries of the *Tome of Strahd*—he laughs quietly and promises that he shall tell them of the Amber Temple if they first prove their character and will by uncovering and carrying out Argynvost’s final mission.
 ### Godfrey’s Request
@@ -244,6 +270,8 @@ If the players allow the figure to approach, read:
 
 The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
 
+|![[Wensencia.png|400]]|![[UndeadDireWolf.png|400]]|
+
 > [!info]+ **Wensencia and Her Steed**
 > Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
 > 
@@ -304,6 +332,8 @@ When the players have uncovered—but not yet retrieved—the final piece of gea
 
 A player with a passive Wisdom (Perception) score of 13 or greater also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
 
+|![[Ghoul.png|400]]|![[Turul.png|400]]|
+
 The stench and silhouettes belong to a pack of five **ghouls**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
 
 <div class="description">
@@ -341,7 +371,18 @@ If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanish
 
 The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
 
+Q15
 <div class="description">
+<p>Tucked behind the mansion is a fog-shrouded cemetery enclosed by a seven-foot-tall fence of wrought iron. In the northeast corner stands a mausoleum.</p>
+<p>You suddenly feel like someone or something is watching you. Looking up, you spot a well-dressed man with a thick mane of thistledown hair observing you from a high tower window. He draws the curtain and disappears from view.</p>
+</div>
+Q16
+<div class="description">
+<p>Tarnished, silver-plated gargoyles shaped like dragon wyrmlings cling to the stone-tiled roof of this mausoleum. An eight-foot-tall, four-foot-wide white marble door set into the southwest wall is engraved with a name: ARGYNVOST.</p>
+<p><strong>On Entry: </strong>The interior of the mausoleum is dark and dusty. You see four empty alcoves with raised floors. Etched into the far wall is a verse written in Draconic.</p>
+<p>Here lie the bones and treasures of
+Argynvost, lord of Argynvostholt and
+founder of the Order of the Silver Dragon.</p>
 <p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
 </div>
 
@@ -350,6 +391,8 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
 This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+
+<div class="description"><p>This kitchen has been plundered, its tables overturned. The floor is littered with rusted utensils and smashed crockery. Narrow windows flanking a hearth look out over a cemetery. The room is noticeably colder than the surrounding rooms. An iron pot hangs from a hook inside the blackened fireplace. It rattles on its hook and bobs up and down, as though something is inside it.</p></div>
 
 If a player approaches or crosses in front of the fireplace, read:
 
@@ -384,9 +427,14 @@ This area is as described in <span class="citation">Q9. Servants’ Quarters (p.
 
 If the players have previously encountered Zorya in the [[#Kitchen]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding beneath the frame of the northeastern bed.
 
-If a player moves within reach of Zorya’s bed, a player with a passive Wisdom (Perception) score of 15 or greater notices the motheaten bed skirts beneath its frame begin to leap and tremble excitedly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s bed notices the moving bed skirts automatically.)
+If a player moves within reach of Zorya’s bed, a player with a passive Wisdom (Perception) score of 15 or greater notices the moth-eaten bed skirts beneath its frame begin to leap and tremble excitedly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s bed notices the moving bed skirts automatically.)
 
 If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Parlor]]. When she does, the players feel a diminished sense of longing and a small sense of satisfaction in addition to any other emotions.
+
+<div class="description">
+<p>Tattered brown drapes cover the windows of this circular room, and a heavy curtain hangs across an archway to the south. Strewn about the floor is the wreckage of half a dozen beds and other pieces of furniture.<strong>If Zorya found in Kitchen:</strong>The air is noticeably colder in this room than the surrounding rooms.</p>
+</div>
+
 ### Parlor
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q7.</em></span>
 
@@ -397,6 +445,9 @@ If the players have previously encountered Zorya in the [[#Servants’ Quarters]
 If a player moves within reach of Zorya’s window, a player with a passive Wisdom (Perception) score of 15 or greater notices the tattered drapes shift and rustle quietly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s window notices the moving drapes automatically.)
 
 If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Dragon’s Den]]. When she does, the players feel a swelling sense of satisfaction in addition to any other emotions.
+
+<div class="description">
+<p>Tattered velvet drapes cover the tall, slender windows that encircle this parlor. The furnishings are covered with dust and cobwebs, and lie in disarray. A damaged brass chandelier hangs from the ceiling, which is covered with a faded mural that depicts metallic dragons and colorful birds flying beneath white clouds. <strong>If Zorya found in Servants Quarters: </strong>The air is noticeably colder in this room than the surrounding rooms.</p></div>
 ### Dragon’s Den
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
 
@@ -405,6 +456,9 @@ This area is largely as described in <span class="citation">Q6. Dragon’s Den (
 If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
 
 If a player moves within reach of Zorya’s decanter, a player with a passive Wisdom (Perception) score of 15 or greater notices a small, winged shadow fidgeting impatiently behind the glass, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s decanter notices the moving shadow automatically.)
+
+<div class="description">
+<p>This wood-paneled den has been ransacked, its furnishings tossed about. A cold, dark hearth dominates the west wall between two narrow windows. Standing upright against the north wall is a sarcophagus made of black wood with a queen's effigy carved into its lid. <strong>If Zorya found in Parlor</strong> The air is noticeably colder in this room than the surrounding rooms.</p></div>
 
 If a player unstops the decanter to reveal Zorya’s hiding place, she bursts forth with a trill of delight and plunges into the fireplace. Read:
 
@@ -482,7 +536,7 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 This area is largely as described in <span class="citation">Q11. Wine Storage (p. 133).</span> However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
 
 <div class="description">
-<p>An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
+<p>Five barrels lie in wooden braces along the walls of this dark, mouldy storage room. An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
 </div> 
 
 A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
@@ -497,6 +551,10 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+
+<div class="description"><p>Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!</p></div>
+
+|![[GiantSpider.png|500]]|![[PhaseSpider.png|500]]|
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
 > This two-wave encounter includes a bruising combat encounter followed by a mild combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), the first of which will consume approximately 30% of their total maximum hit points and the second of which will consume approximately 7% of their total maximum hit points (for a total of 37% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -531,7 +589,18 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
 
 These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
+
+Q5
+<div class="description"><p>Here lie the blackened beams of a wooden stable, burned to its stone foundation. Looming above the wreckage is the partially collapsed south end of the mansion, all three of its floors exposed to the elements.</p></div>
+Q8
+<div class="description"><p>An iron gate, chained shut, closes off a 10-foot-tall arch-
+way on the north wall of the mansion.</p></div>
+
+ The key to the chain's padlock was lost long ago, but the lock can be picked by someone who uses thieves' tools and makes a successful DC 20 Dexterity check. The old lock can be smashed by a character who uses a bludgeoning or slashing weapon on it and makes a successful DC 15 Strength check.
+Ten-foot-high flights of stone steps to the west and east of the archway lead up to landings and doors that provide access to areas Q7 and Q9.
 # M5. Second Floor
+
+![[ArgynvostholtSecondFloor.png]]
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
 
@@ -548,9 +617,14 @@ These areas are largely as described in <span class="citation">Q26. Northeast Gu
 
 This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
 
+Q25
+<div class="description"><p>This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.</p></div>
+
 Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
-* Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
+![[PhantomWarrior.png|600]]
+![[ArgynvostholtSpectre.png|600]]
+* Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).f
 * Each **phantom warrior** gains a fly (hover) speed of 30 feet.
 * Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
 * Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
@@ -645,6 +719,7 @@ A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvan
 
 These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
 # M6. Third Floor
+![[ArgynvostholtThirdFloor.png]]
 ## M6a. Halls of the Order
 #### Knights of the Order
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
@@ -855,6 +930,7 @@ Each torch can be easily removed from its mount. If the players return to the [[
 
 These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
 # M7. Fourth Floor
+![[ArgynvostholtFourthFloor.png]]
 ## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
 
