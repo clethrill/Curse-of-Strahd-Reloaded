@@ -1,6 +1,6 @@
 *An adventure for five 9th-level characters.*
 
-In this arc, upon claiming the broken hilt of the *Sunsword* from the depths of the Amber Temple, the players must return to the Shrine of the Rozana at Soldav to commune with the Ladies of the Fanes. To cleanse the Fanes of Strahd’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: Urwin and Davian Martikov at the Swamp Fane; Dr. Rudolph van Richten and Arturi Radanavich at the Forest Fane; and Lady Fiona Wachter at the Mountain Fane. And when Exethanter decodes the *Tome of Strahd*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the Grand Conjunction, Strahd’s will finally escape the Mists—while killing every creature in Barovian in the process.
+In this arc, upon claiming the broken hilt of the *Sunsword* from the depths of the Amber Temple, the players must return to the Shrine of the Rozana at Soldav to commune with the Ladies of the Fanes. To cleanse the Fanes of Strahd’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: Urwin and Davian Martikov at the Swamp Fane; Dr. Rudolph van Richten and Arturi Radanavich at the Forest Fane; and Lady Fiona Wachter at the Mountain Fane. And when Exethanter decodes the *Tome of Strahd*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the Grand Conjunction, Strahd will finally escape the Mists—while killing every creature in Barovian in the process.
 
 For the reconsecrations to work, however, the players must first help Urwin and Davian Martikov end their feud, help Dr. Rudolph van Richten and Arturi Radanavich lift their curses, and help Lady Fiona Wachter find the courage and hope to defy Strahd’s rule. To make matters worse, the swamp witch Baba Lysaga has captured the Martikovs of the winery and imprisoned them in Berez, Strahd’s forces are hunting for Arturi and Van Richten both, and an emissary from Castle Ravenloft has seized power in Vallaki by taking Lady Wachter’s children as hostages. Can the players reignite the *Sunsword*, rescue the Martikovs, free Vallaki from Strahd’s rule, and reconsecrate the Fanes before the zenith of the Grand Conjunction arrives?
 
@@ -137,7 +137,7 @@ If the players ask Chief Diegia’s family how to reach the peak of Mt. Ghakis, 
 The journey from Soldav to the peak of Mt. Ghakis is four-and-a-half miles long and takes approximately three hours. As the players make the journey, read:
 
 <div class="description">
-<p>For the first mile, the journey follows the same path that ends at the Amber Temple—until Como turns onto a side, barely visible side trail that climbs higher amidst the cliffs. The trail becomes a switchback, zig-zagging and hugging the steepest slopes of the mountain as the valley falls away before you.</p>
+<p>For the first mile, the journey follows the same path that ends at the Amber Temple—until Como turns onto barely visible side trail that climbs higher amidst the cliffs. The trail becomes a switchback, zig-zagging and hugging the steepest slopes of the mountain as the valley falls away before you.</p>
 <p>After climbing three hundred feet, the trail evens out, then turns south, as it climbs the curved plateau just beneath the mountain’s highest peak. The air is thin here, as low-hanging clouds roll like ordinary fog across the frigid slopes. Ahead, a sharp cliff rises to the mountain’s snow-capped peak, forcing you to climb, hand-over-hand, on your final ascent to the top.</p>
 <p>As you climb the cliff’s final ridge, the crags fall away to reveal a bowl-shaped indentation the size of Vallaki’s town square. Great pine trees, thirty feet or taller, have been uprooted and laid around the bowl’s edges, with the basin’s floor covered with great boughs of frozen oak branches and leaves. The entire array has been pressed down, as if by a great weight, and enormous black feathers the height of a man litter the floor.</p>
 <p>At the basin’s center, a small, pale green light shimmers faintly from its place nestled amidst two oak boughs.</p>
@@ -151,6 +151,9 @@ If the players approach or attempt to retrieve the gem, the **roc** of Mt. Ghaki
 <p>The wind roars with a sudden gale, and the skies above boil beneath the weight of an immense, avian shadow. A pair of enormous claws breaks through the clouds, followed by a span of gargantuan black wings, and—finally—a ravenlike head whose beak could devour a horse whole.</p>
 <p>The mountain shudders as the roc of Mt. Ghakis slams onto the earth below, stones and branches crunching beneath its talons. Its throat feathers rustle as it lowers its great head in warning, a low, guttural croak emanating from its throat.</p>
 </div>
+
+![[The_Roc_of_Mt._Ghakis_no_Strahd_hires.jpg]]
+<span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The roc won’t let the players take the gem unless they prove themselves worthy of doing so. The players can prove themselves worthy using the following methods, or in any other reasonable way:
 
@@ -238,12 +241,18 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
-> [!combat]+ **Balancing the Wizard of Wines** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Wizard of Wines**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 18%
 > 
-> - _**Three Players.**_ Reduce the number of **scarecrows** to five.
-> - _**Four Players.**_ Reduce the number of **scarecrows** to six.
-> - _**Six Players.**_ Increase the number of **scarecrows** to eight.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Scarecrow | 5 | 6 | 7 | 8 |
+
 
 If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation">W19. Sleeping Quarters (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
 ## T2b. The Town of Vallaki
@@ -264,7 +273,7 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 >
 > That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
 >
-> The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
+> The following morning, the emissary presented Lady Wachter with a list of edicts to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
 > Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that Father Lucian Petrovich be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
 >
@@ -328,7 +337,7 @@ A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika sayi
 * The Blue Water Inn is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
 * Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft." In addition to closing the inn, she’s imprisoned the priest of St. Andral’s Church, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Blinsky) thrown the local toymaker, Gadof Blinsky into the stocks.
 * Two nights ago, a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts. None returned.
-* Dozens of swarms of bats have taken up residence in Wachterhaus’s basement, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through.
+* Dozens of swarms of bats have taken up residence in Arasek Stockyard, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through.
 
 Danika can also share concerning news regarding the Wizard of Wines winery:
 
@@ -362,7 +371,7 @@ Urwin is grimly pleased to see the players, but clearly frustrated. He can share
 
 Urwin is upset at his family’s capture by Baba Lysaga, and frustrated with himself for his inability to help them from Vallaki. “A spymaster with no spies," he growls quietly. “I’m useless to them here—but what more can I do?"
 
-Urwin apologizes for asking the players to aid his familyonce again, but asks them to rescue them from Baba Lysaga’s clutches. If the players depart for Berez, proceed to [[#T3. The Witch of Berez]].
+Urwin apologizes for asking the players to aid his family once again, but asks them to rescue them from Baba Lysaga’s clutches. If the players depart for Berez, proceed to [[#T3. The Witch of Berez]].
 
 > [!abstract]+ **Urwin Joins the Party**
 Urwin is surprised if the players invite him to travel to Berez with them, and asks to confer with Danika before doing so. Following a brief, private conversation, he agrees to join the players to rescue his family, then retrieves a shortsword, a heavy crossbow and bolts, and a set of studded leather armor from a chest beneath the bed in <span class="citation">N2p. Master Bedroom (p. 103)</span>.
@@ -461,7 +470,7 @@ Each proclamation reads “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO 
 
 The two **guards** watching the stocks have no personal enmity toward Blinsky and Bluto, and no great loyalty to Lady Wachter. However, both are reluctant to be disciplined or removed from the guard. More significantly, both fear the rumors they’ve heard of Lady Wachter’s newest guest, who is said amongst the town guard to be an emissary sent from Castle Ravenloft itself.
 
-If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEORUS." 
+If the players attempt to openly free Blinsky or Bluto from the stocks, the guards protest and ready their arms. The players can convince the guards to stand down on a successful DC 15 Charisma (Persuasion) check or a DC 10 Charisma (Intimidation) check, made with advantage if the players reference Lady Wachter’s proclamations that they are “ARMED AND DANGEROUS." 
 
 Otherwise, if the players disregard their orders to stand down, the guards attack any character who attempts to free either man from the stocks, seeking to knock them unconscious and bring them to Wachterhaus for questioning. If one guard is knocked unconscious or killed, the surviving guard surrenders or flees, respectively.
 ### Wachterhaus
@@ -536,10 +545,10 @@ Baba Lysaga has also placed a _programmed illusion_ spell covering the thirty-fo
 <p>Another cackle rings through the air, seeming to come from every direction at once. “Your time begins—<em>now</em>.
 </div>
 
-Beyond the entrance, the hedge maze splits into two corridors: one that runs east, and one that runs south.
+Beyond the entrance, the hedge maze splits into two corridors: one that runs westward, and one that runs southward.
 
-* The eastern passage leads to [[#T3b. Northern Cottages]]
-* The southern passage leads to [[#T3c. Southern Cottages]].)
+* The westward passage leads to [[#T3b. Northern Cottages]]
+* The southward passage leads to [[#T3c. Southern Cottages]].)
 
 ![[Berez_Dungeon.png]]
 
@@ -566,10 +575,18 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 ## T3b. Northern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
-> [!combat]+ **Balancing the Northern Cottages** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 4% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Northern Cottages**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 4%
 > 
-> - _**Three Players.**_ Reduce the number of **greater strix** to one.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Greater Strix | 1 | 2 | 2 | 2 |
+
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -579,12 +596,21 @@ Three ten-foot-wide passages lead from this chamber:
 ## T3c. Southern Cottages
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 
-> [!combat]+ **Balancing the Southern Cottages** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 8% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Southern Cottages**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 8%
 > 
-> - _**Three Players.**_ Remove the **hexwitches**.
-> - _**Four Players.**_ Reduce the number of **hexwitches** to one.
-> - _**Six Players.**_ Increase the number of **bogwitches** to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Barovian Bogwitch | 2 | 2 | 2 | 3 |
+> | Barovian Hexwitch | 0 | 1 | 2 | 2 |
+> | Dire Wolf | 1 | 1 | 1 | 1 |
+> | Wensencia | 1 | 1 | 1 | 1 |
+
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -621,12 +647,17 @@ A walking corpse rises from the mire and attacks if touched, or if the players a
 
 The sounds of combat awaken any other walking corpses within the room. Once awakened, each walking corpse arises and lurches toward the players, converging on the players’ location by sound five rounds later. When they do, read the text described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>.
 
-> [!combat]+ **Balancing the Town Green** 
-> Due to the phase mechanic, this is a series of a consecutive **mild** and **bruising** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Town Green**  
+> **Combat Level**: Mild (first phase), Bruising (second phase)
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 30%
 > 
-> - _**Three Players.**_ Reduce the number of **walking corpses** to five.
-> - _**Four Players.**_ Reduce the number of **walking corpses** to six.
-> - _**Six Players.**_ Increase the number of **walking corpses** to eight.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Walking Corpses | 5 | 6 | 7 | 8 |
 
 Two ten-foot-wide passages lead from this chamber:
 
@@ -643,11 +674,17 @@ The three lights are **will-o’-wisps**. A player who scrutinizes the lights fr
 
 If the wisps detect the players, they turn invisible using their ***invisibility*** feature, take the Hide action, and attack when the players seem most vulnerable (but before the players depart this area). The players can attempt to sneak past the wisps, succeeding with a successful group DC 13 Dexterity (Stealth) check.
 
-> [!combat]+ **Balancing the Churchyard** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Churchyard**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 6%
 > 
-> - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.
-> - _**Six Players.**_ Increase the number of **will-o'-wisps** to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Will-o'-Wisp | 2 | 3 | 3 | 4 |
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -840,11 +877,17 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
-> [!combat]+ **Balancing the Manor's Cellar** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Manor's Cellar**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 3%
 > 
-> - _**Three Players.**_ Reduce the number of **carrionettes** to two.
-> - _**Four Players.**_ Reduce the number of **carrionettes** to two.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Carrionette | 2 | 2 | 3 | 3 |
 
 > [!info]+ **Roleplaying a Carrionette**
 > If a carrionette successfully gains control of a player’s body, provide that player the following information:
@@ -865,12 +908,17 @@ A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence 
 ## T3h. Goat Pen
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
-> [!combat]+ **Balancing the Goatpen** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Goat Pen**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 29%
 > 
-> - _**Three Players.**_ Reduce the number of mutated **goats** to six.
-> - _**Four Players.**_ Reduce the number of mutated **goats** to seven.
-> - _**Six Players.**_ Increase the number of mutated **goats** to ten.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Goat | 6 | 7 | 9 | 10 |
 
 Two ten-foot-wide passages lead from this chamber, whose walls are flush with the edges of the goat pen:
 
@@ -879,12 +927,18 @@ Two ten-foot-wide passages lead from this chamber, whose walls are flush with th
 ## T3i. Garden
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
 
-> [!combat]+ **Balancing the Garden** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 22% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Garden**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 22%
 > 
-> - _**Three Players.**_ Reduce the number of **scarecrows** to four. Reduce the number of **giant poisonous snakes** to three.
-> - _**Four Players.**_ Reduce the number of **scarecrows** to five. Reduce the number of **giant poisonous snakes** to three.
-> - _**Six Players.**_ Increase the number of **scarecrows** to seven.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Giant Poisonous Snake | 3 | 3 | 4 | 4 |
+> | Scarecrow | 4 | 5 | 6 | 7 |
 
 Three ten-foot-wide passages lead from this chamber:
 
@@ -1028,12 +1082,20 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
 </div>
 <br>
 
-> [!combat]+ **Balancing Ulrich Manor** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 31% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Ulrich Manor**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 31%
 > 
-> - _**Three Players.**_ Reduce the number of **animated minor objects** to one.
-> - _**Four Players.**_ Reduce the number of **animated minor objects** to two.
-> - _**Six Players.**_ Increase the number of **animated minor objects** to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Animated Minor Object | 1 | 2 | 3 | 4 |
+> | Flying Sword | 2 | 2 | 2 | 2 |
+> | Ghost | 1 | 1 | 1 | 1 |
+> | Swarm of Insects | 1 | 1 | 1 | 1 |
 
 If the players continue to defy Lazlo, or attack him, he and the animated objects attack.
 ## T3k. Baba Lysaga’s Hut
@@ -1095,12 +1157,20 @@ Baba Lysaga then attacks.
 >
 > A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
 
-> [!combat]+ **Balancing the Witch** 
-> Due to the phase mechanic, this is a series of consecutive **brutal** and **mild** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 72% of their total maximum hit points, then approximately 11% of their total maximum hit points (for a total of 83% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Witch**  
+> **Combat Level**: Bruising (phase one), Mild (phase two)
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 72% (phase one), 11% (phase two), for a total of 83%
 > 
-> - _**Three Players.**_ Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2.
-> - _**Four Players.**_ Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round.
-> - _**Six Players.**_ Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round.
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2. |
+> | 4 | Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round. |
+> | 6 | Increase **Baba Lysaga's** hit points to 151 in each phase. Increase her number of reactions in each phase to 6. Increase the **Creeping Hut's** hit points to 295. Increase its number of reactions to 4, but limit its ***root*** reaction to 3/round. |
 
 <div class="statblock">
 <h2>Baba Lysaga, Witch Mother</h2>
@@ -1300,7 +1370,7 @@ The players can convince Davian and Urwin to reconcile as follows.
 
 * **Davian.** To convince Davian, the players must make a reasonable argument that (a) Urwin wasn’t to blame for the gem’s theft, or (b) their feud has hurt them and their family more than the gem’s theft itself. The players can automatically convince Davian that Urwin wasn’t to blame for the gem’s theft by showing him the Seeker’s ash-green gem from [[#T1d. The Roc’s Nest]], and explaining the Roc and Seeker’s roles in stealing it.
 * **Urwin.** To convince Urwin, the players must either (a) convince Davian to apologize to him for blaming him for the gem’s theft, or (b) make a reasonable argument that Davian is worth reconciling with.
-## T3mj. The Swamp Fane
+## T3m. The Swamp Fane
 As the players approach <span class="citation">U6. Standing Stones (p. 165)</span>, read:
 
 <div class="description">
@@ -1462,7 +1532,7 @@ A player can convince Arturi to share the cause of his “ailment" or the reason
 * Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, haunting him like a curse. “Undead take you," Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast," a word that can also be more directly translated as “living dead." No village gave Arturi sanctuary, and no town’s walls would protect him; no matter where he slept, the dead would rise and find him.
 * For eighteen years, Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, three months ago, he returned to Barovia to seek the counsel of the Vistana seer Madam Eva. "The past must burn," she told him. “Find the man who forged your fetters. His final breath will set you free."
 * Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache hidden in a hollow near Lake Baratok, which contained a half-written manuscript on werewolves and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
-* Two days ago, Strahd kidnapped Arturi and brought him to Castle Ravenloft. Strahd appeared intrigued by the nature of Arturi’s curse, studying its magic and extracting his blood for his own experimentation. Strahd appears to believe that Arturi's curse, which bonds him to Dr. Van Richten, will allow him to finally hunt Van Richten down—and so end the tale that began with Barovia’s recent rebellion. “Should that happen," Arturi says, “I fear I will never be rid of this curse—or that it shall eventually grow to consume and swallow me, leaving nothing left." He adds: “But if my curse is lifted, I shall be useless to him—and he will have no means to track Doctor Van Richten through me."
+* Two days ago, Strahd kidnapped Arturi and brought him to Castle Ravenloft. Strahd appeared intrigued by the nature of Arturi’s curse, studying its magic and extracting his blood for his own experimentation. Strahd appears to believe that Arturi's curse, which binds him to Dr. Van Richten, will allow him to finally hunt Van Richten down—and so end the tale that began with Barovia’s recent rebellion. “Should that happen," Arturi says, “I fear I will never be rid of this curse—or that it shall eventually grow to consume and swallow me, leaving nothing left." He adds: “But if my curse is lifted, I shall be useless to him—and he will have no means to track Doctor Van Richten through me."
 
 Arturi believes it clear that Madam Eva’s first words —the “man who forged his fetters"—refer to Dr. Van Richten. He isn’t sure how to interpret “His final breath will set you free," but—although he conceals this from the players—grimly believes that he may need to personally kill Van Richten to free himself of his curse.
 
@@ -1543,7 +1613,7 @@ If approached, Ezmerelda can share or recount the following information:
 Ezmerelda is grateful for any counsel the players might provide.
 
 > [!abstract]+ **Van Richten’s Response**
-> If Ezmerelda departs his presence, Van Richten approaches the players to ask their counsel after speaking with Arturi. “I’ve hurt her," he says, his eyes tired. “I never meant to lie to her, but a lie by omission is a lie all the same. I could not blame her if she never trusted me again; I do not need her forgiveness, nor do I deserve it. But please—you’ve come to know her as a friend. Is there anything I can do to make this right?"
+> If Ezmerelda departs from his presence, Van Richten approaches the players to ask their counsel after speaking with Arturi. “I’ve hurt her," he says, his eyes tired. “I never meant to lie to her, but a lie by omission is a lie all the same. I could not blame her if she never trusted me again; I do not need her forgiveness, nor do I deserve it. But please—you’ve come to know her as a friend. Is there anything I can do to make this right?"
 >
 > Van Richten is grateful for any counsel the players might provide.
 
@@ -1553,10 +1623,10 @@ Ezmerelda is grateful for any counsel the players might provide.
 > * When he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Six years later, their son, Erasmus, was born. “Erasmus was a sweet and gentle boy," Van Richten recalls, his voice ragged with memories.
 > * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him. 
 > * When Radovan died, Madame Radanavich kidnapped Erasmus, then sold him to the vampire Baron Metus.
-> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See Ezmerelda d'Avenir (p. 231) and Rictavio (p. 238).) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
+> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
 > * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
 > * The cave proved to be a portal to Barovia, leading to an underground catacomb beneath Mount Baratok built by the long-dead wizard. There, Rudolph used the wizard’s platinum ring to rouse the undead army to aid him in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!"
-> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in Journal of Rudolph van Richten (p. 254). His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.
+> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.
 
 > [!abstract]+ **Mist Talismans**
 > If asked, Van Richten can share that a *mist talisman* is a special item from another world that, when carried, allows its carrier to traverse the Mists to the world where that item originated. (“Such an item is separate and apart from the power of the Vistani," Van Richten adds, clearing his throat, “who hold Strahd’s own blessing to come and go as they please.")
@@ -1586,7 +1656,7 @@ Soon after arriving, Arturi softly shares that he “still remembers" the camp a
 >
 > To be “willing," a participant in the blood rite must be wholly willing—mind, heart, and soul—to undergo the rite. In particular, the Vistani participant must be wholly willing to adopt the recipient into their clan, while the non-Vistani participant must be wholly willing to adopt the clan’s name as their own. If a participant is unwilling, the blood rite fails. When this happens, the participants’ cut palms burn and cauterize when they come into contact, rather than heal. This process is painful, and produces black smoke.
 >
-> ***Arturi.*** Arturi is not a willing participant in the blood rite. Even though he wants to complete the blood rite in order to lift his curse, he has not yet forgiven Van Richten for his crimes against the Radanaviches. The players can convince Arturi to convince Van Richten by succeeding on a DC 20 Charisma (Persuasion) check, succeeding automatically if they provide helpful words of guidance and comfort to help him do so.
+> ***Arturi.*** Arturi is not a willing participant in the blood rite. Even though he wants to complete the blood rite in order to lift his curse, he has not yet forgiven Van Richten for his crimes against the Radanaviches. The players can convince Arturi to forgive Van Richten by succeeding on a DC 20 Charisma (Persuasion) check, succeeding automatically if they provide helpful words of guidance and comfort to help him do so.
 >
 > ***Van Richten.*** Van Richten is, similarly, an unwilling participant in the blood rite. Even though he wants to complete the blood rite in order to lift Arturi’s curse, he has not forgiven himself for his crimes against the Radanaviches, his failure to tell Ezmerelda of those crimes, or his failures to defend others from his curse. As such, he does not believe he deserves to join the Radanavich clan, or for his own curse to be lifted.
 >
@@ -1662,7 +1732,7 @@ The wagons readily ignite if lit aflame, and soon blaze fiercely, with inky plum
 <p>"The dead are coming," he says. "We must hold them off until we are done."</p>
 </div>
 
-The wagons burn for one minute, or ten rounds. At the beginning of the third round, the first of the undead arrive. Read:
+It takes one minute, or ten rounds, for the wagons to be fully consumed in flame. At the beginning of the third round, the first of the undead arrive. Read:
 
 <div class="description">
 <p>The woods rustle with approaching footsteps. Slowly, hunched, shambling shapes emerge from the darkness.</p>
@@ -1795,9 +1865,9 @@ The undead focus their attacks on Arturi and Van Richten, attacking the players 
 At initiative count 0 of the tenth round of combat, read:
 
 <div class="description">
-<p>The final wagon collapses into ruin, sending cinders swirling into the sky above. Around it, the wreckage begins to cool, each wagon falling into gray, smoldering ashes.</p>
+<p>Consumed by fire, the final wagon of the caravan collapses, their burning debris sending smoke and embers into the air.</p>
 <p>“Go back!" Van Richten shouts at the dead, his voice hoarse. “There is nothing here for you anymore! <em>Go back!</em>"</p>
-<p>The forest seems to wait with baited breast—and then, the horde stills. One by one, the undead halt their advance, turn, and shuffle back to the cover of the deep forest beyond, where they vanish into the darkness and mist.</p>
+<p>The forest seems to wait with bated breath—and then, the horde stills. One by one, the undead halt their advance, turn, and shuffle back to the cover of the deep forest beyond, where they vanish into the darkness and mist.</p>
 </div>
 
 Shortly after the fight ends, read:
@@ -1921,7 +1991,7 @@ When the players first enter Wachterhaus after completing [[Arc S - A Sword of S
 </div>
 
 > [!info]+ **Lady Wachter’s Medallion**
-> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists (p. 64)</span>.
+> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists (Van Richten's Guide to Ravenloft, p. 64)</span>.
 
 Lady Wachter is deep in prayer, and doesn’t notice the players’ entry unless they speak to her, approach her, or make significant amounts of noise. If the players don’t disturb her, and if any player has a passive Wisdom (Perception) score of 13 or greater, add:
 
@@ -2042,12 +2112,21 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
 
-> [!combat]+ **Balancing Rahadin's Vengeance** 
-> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+
+> [!combat]- **Combat - Rahadin's Vengeance**  
+> **Combat Level**: Bloody (phase one), Bloody (phase two)
+> **Expected Character Level**: 9
+> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Expected HP Consumption:** 51% (phase one), 51% (phase two), for a total of 102%
 > 
-> - _**Three Players.**_ Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
-> - _**Four Players.**_ Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.
-> - _**Six Players.**_ Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks.
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3. |
+> | 4 | Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack. |
+> | 6 | Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks. |
 
 <div class="statblock">
 <h2>Rahadin, Amber-Touched</h2>
@@ -2161,7 +2240,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
 <p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
 <p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
 <h3>Reactions</h3>

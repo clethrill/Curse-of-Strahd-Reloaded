@@ -63,6 +63,27 @@
 .markdown-preview-view .internal-link {
   font-weight: bold !important;
 }
+  .cm-s-obsidian .cm-header.cm-header-1,
+  .cm-s-obsidian .cm-header.cm-header-2,
+  .cm-s-obsidian .cm-header.cm-header-3,
+  .cm-s-obsidian .cm-header.cm-header-4,
+  .cm-s-obsidian .cm-header.cm-header-5 {
+    color: var(--highlight-primary);
+  }
+
+  .page-header {
+    margin-bottom: 8px !important;
+  }
+  
+  .markdown-preview-view strong {
+    color: var(--highlight-primary);
+  }
+  
+  .citation,
+  .citation em {
+    color: var(--highlight-secondary);
+    font-weight: bold;
+  }
 
 .site-body-left-column-site-name,
 .page-header,
@@ -381,11 +402,20 @@ details[open] > summary h3 {
   --highlight: var(--highlight-combat);
   --background: var(--custom-background-combat);
 }
+  .callout[data-callout="combat"] .callout-content table tbody tr:nth-child(odd) {
+    background: var(--custom-background-combat-alt);
+  }
 
-.callout[data-callout="warning"] {
-  --highlight: var(--highlight-warning);
-  --background: var(--custom-background-warning);
-}
+  .callout[data-callout="combat"] table th,
+  .callout[data-callout="combat"] table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .callout[data-callout="warning"] {
+    --highlight: var(--highlight-warning);
+    --background: var(--custom-background-warning);
+  }
 
 .callout[data-callout="abstract"] {
   --highlight: var(--highlight-bright);

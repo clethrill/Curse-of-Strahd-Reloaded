@@ -196,6 +196,7 @@
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
 <p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <div class="break"></div>
@@ -253,11 +254,11 @@
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
@@ -317,6 +318,7 @@
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>thunderstone</em></strong> or <strong><em>froststar</em></strong>.</p>
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage plus 7 (2d6) poison damage.</p>
@@ -376,10 +378,11 @@
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
@@ -417,7 +420,7 @@
     <hr>
     <strong>Armor Class</strong> 16 (natural armor)
     <br>
-    <strong>Hit Points</strong> 120 (16d8 + 48)
+    <strong>Hit Points</strong> 82 (11d8 + 33)
     <br>
     <strong>Speed</strong> 30 ft.
     <hr>
@@ -455,6 +458,7 @@
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
     <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
     <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+    <p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
     <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
     <h3>Actions</h3>
     <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
@@ -518,6 +522,7 @@
 <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Mistfiend form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ludmilla makes two Shocking Grasp attacks.</p>
@@ -581,6 +586,7 @@
 <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Cold Sensitivity.</em></strong> When Ludmilla takes cold damage, she freezes into a corporeal form until the start of her next turn. While frozen in this way, she loses the attributes of her Mistform feature, loses her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons, gains vulnerability to bludgeoning and thunder damage, loses her immunity to the grappled, prone, and restrained conditions, and loses her fly speed.</p>
 <p><strong><em>Mistsight.</em></strong> While within fog, Ludmilla has blindsight that extends to the edge of the fog, out to a maximum of 60 feet.
 <p><strong><em>Mistform.</em></strong> Ludmilla can enter and occupy the space of another creature, and can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. She can't fall, and remains hovering in the air even when stunned or otherwise incapacitated. However, while making a melee attack or grappling a target, Ludmilla loses these attributes, as well as her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons and loses her immunity to the grappled, prone, and restrained conditions.</p>
@@ -588,7 +594,7 @@
 <p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
 <p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Ludmilla, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.).</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Ludmilla, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
 <p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
@@ -660,11 +666,12 @@
 <p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Anastrasya does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Skinchange.</em></strong> When Anastrasya is reduced to 0 hit points, her skin sloughs off, revealing a giant, bloated, grotesque bat. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn’t change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks with her flying sword, or two with her claws.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).</p>
-<p><strong><em>Flying Sword.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 30 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage.</p>
+<p><strong><em>Flying Sword.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 30 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Charm.</em></strong> One creature within 10 feet must make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failure, the target is magically charmed for 1 minute or until Anastrasya loses her concentration (as if concentrating on a spell). A target that can't see Anastrasya automatically succeeds. While charmed, the target regards Anastrasya as a trusted friend to be heeded and protected; it isn't under Anastrasya's control, but takes her requests and actions in the most favorable way and lets Anastrasya bite it. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
 <p><strong><em>Telekinetic Thrust.</em></strong> Anastrasya chooses one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried. The object flies in a straight line up to 30 feet in a direction Anastrasya chooses before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.</p>
@@ -718,9 +725,10 @@
 <p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Anastrasya does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">8 (2d4 + 3) slashing damage</span>. Instead of dealing damage, Anastrasya can grapple the target (escape <span class="highlight">DC 13</span>).</p>
 <p><strong><em>Vomit Blood.</em></strong> Anastrasya spews blood in a <span class="highlight">15-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 14 Dexterity saving throw</span>, taking <span class="highlight">7 (2d6) bludgeoning damage and 3 (1d6) necrotic damage</span> on a failed save, or half as much damage on a successful one.</p>
 <h3>Bonus Actions</h3>
@@ -740,7 +748,7 @@
 
 ***Motivations.*** Escher wants to please Strahd and avoid falling from his favor.
 
-***Inspirations.*** When roleplaying Escher, channel Asterion (*Baldur's Gate 3*), Crowley (*Good Omens*), and Renly Baratheon (*Game of Thrones*).
+***Inspirations.*** When roleplaying Escher, channel Astarion (*Baldur's Gate 3*), Crowley (*Good Omens*), and Renly Baratheon (*Game of Thrones*).
 
 **Character Information**
 ***Persona.*** To the world, Escher is a flamboyant and self-assured member of Strahd's court, with a love for preening, luxuries, and attention. Only Escher knows that he is a guilt-ridden, self-loathing, broken man who longs desperately for Strahd's approval and has long since resigned himself to the cage his choices have trapped him in.
@@ -1023,7 +1031,7 @@
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
 <p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
 <p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
 <h3>Reactions</h3>
@@ -1265,7 +1273,7 @@
 <p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
+<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
 <h3>Reactions</h3>
 <p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
 <p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
@@ -1500,7 +1508,7 @@
 <strong>Challenge</strong> 5 (1,800 XP)<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
+<p><strong><em>Special Equipment.</em></strong> Van Richten carries an <em>amulet of proof against detection and location</em>, a <em>charm bracelet</em>, a <em>hat of disguise</em>, a <em>lucid lens</em>, and a<em>ring of mind shielding</em>.</p>
 <p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
@@ -1582,7 +1590,7 @@
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
     <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
+    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
     <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
     <h3>Bonus Actions</h3>
     <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
@@ -1703,7 +1711,7 @@
 <p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
+<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
 <p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
@@ -1760,8 +1768,8 @@
 <hr>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
-<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
+<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
 <p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
@@ -1994,7 +2002,7 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 <p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it. The gallows speaker doesn't gain disadvantage on an attack roll made with this attack due to being within 5 feet of a hostile creature.</p>
+<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it.</p>
 <p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
@@ -2090,7 +2098,7 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
     <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
     <li>2nd level (2 slots): darkvision, cordon of arrows</li>
     </ul>
-    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
+    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell with only a verbal component. (The spell retains its usual casting time.)</p>
     <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
@@ -2159,7 +2167,7 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 <strong>Skills</strong> Insight +10, Perception +10<br>
 <strong>Damage Resistances</strong> radiant<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 21<br>
+<strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
 <strong>Languages</strong> all, telepathy 120 ft.<br>
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency Bonus</strong> +5<br>
@@ -2169,13 +2177,13 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 At will: detect evil and good<br>
 1/day each: commune, raise dead</p>
 <p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Fallen Grace.</em></strong> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
+<p><strong><em>Fallen Grace.</em></strong> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form. He then immediately uses his <strong><em>frightful presence</em></strong> reaction.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
 <p><strong><em>Mace.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 4 (1d8) radiant damage.</p>
 <p><strong><em>Palm.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and Ithuriel can force the target to make a DC 18 Strength saving throw. On a failure, the target is pushed up to 10 feet away or grappled (escape DC 18).</p>
 <p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.</p>
-<p><strong><em>Healing Touch (3/Day).</em></strong> Ithuriel touches another creature. The target magically regains 24 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
+<p><strong><em>Healing Touch (5/Day).</em></strong> Ithuriel touches another creature. The target magically regains 23 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
 <p><strong><em>Change Shape.</em></strong> Ithuriel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than his own, or back into its true form. He reverts to his true form if he is reduced to 0 hit points. Any equipment he is wearing or carrying is absorbed or borne by the new form (Ithuriel's choice). In a new form, Ithuriel retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and he gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that he lacks.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
@@ -2223,11 +2231,11 @@ At will: detect evil and good<br>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Wis +11, Cha +11<br>
-<strong>Skills</strong> Insight +11, Perception +11<br>
+<strong>Saving Throws</strong> Wis +10, Cha +10<br>
+<strong>Skills</strong> Insight +10, Perception +10<br>
 <strong>Damage Resistances</strong> radiant<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 21<br>
+<strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
 <strong>Languages</strong> all, telepathy 120 ft.<br>
 <strong>Challenge</strong> 16<br>
 <strong>Proficiency Bonus</strong> +5<br>
@@ -2237,8 +2245,8 @@ At will: detect evil and good<br>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
 <p><strong><em>Bite.</em></strong> Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
-<p><strong><em>Claw.</em></strong> +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> +10 to hit, reach 5 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage.</p>
+<p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
+<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, range 30 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage.</p>
 <p></p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
@@ -2358,7 +2366,6 @@ When roleplaying the Martikov family, keep the following information in mind:
 <strong>Challenge</strong> 18, or 16 without his regeneration<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<strong>
 <p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
 <p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
 <p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
@@ -2495,6 +2502,24 @@ When roleplaying the Martikov family, keep the following information in mind:
 
 ## Brother Marek
 In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of Argynvostholt. Brother Marek’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
+
+## Sir Godfrey Gwilym
+**Roleplaying Information**
+***Resonance.*** Godfrey should inspire pity over his imprisonment, and sympathy for his desire to redeem Vladimir.
+
+***Emotions.*** Godfrey most often feels sadness and remorse for what has befallen Vladimir, hope that someone will arrive to restore Argynvost's power, and distrust for those who seek the Amber Temple.
+
+***Motivations.*** Godfrey wants to meet heroes who will seek out the whispers of Argynvost's spirit.
+
+***Inspirations.*** When playing Godfrey, channel Theoden (*The Lord of the Rings*), Aragorn (*The Lord of the Rings*), and Ned Stark (*A Game of Thrones*).
+
+**Character Information**
+***Persona.*** To the world, Godfrey is a tortured revenant bound by his oath to Vladimir. To those he trusts, he is a faithful husband who believes that love can conquer vengeance.
+
+***Morale.*** In a fight, Godfrey would gladly take up arms against those who he sees as evil, or preying on the weak.
+
+***Relationships.*** Godfrey is a member of the Order of the Silver Dragon (to whom he has sworn an oath), and the husband of Vladimir Horngaard (whose relationship Vladimir has forgotten).
+
 ## Commander Vladimir Horngaard
 **Roleplaying Information**
 ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
@@ -2775,7 +2800,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <h3>Reactions</h3>
 <p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot of 1st level or higher and add the spell slot’s level to the level of the spell it cast. If the result is <span class="highlight">4 or more</span>, the creature can make a <span class="highlight">DC 19 saving throw</span> using its spellcasting ability, gaining a bonus to its saving throw equal to the result. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
+<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot and make a DC19 saving throw using its spellcasting ability modifier. Reduce the DC by 1 for each level of spell slot spent for the casting and as part of this reaction. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
 <p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
 <p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
 </div>

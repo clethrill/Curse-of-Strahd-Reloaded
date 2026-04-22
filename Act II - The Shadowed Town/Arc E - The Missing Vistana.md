@@ -26,7 +26,7 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 >
 > Alexei, a Vistana youth and Arabelle’s older cousin, was ordinarily tasked with watching her while her father, Luvash, worked. While Arabelle played in the woods near the encampment, Yan approached Alexei and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once Alexei was asleep, Yan grabbed Arabelle, gagged her, and stuffed her into a sack.
 >
-> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
+> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Escher, having taken the teleportation circle to Berez, transformed into a bat and flew to the meeting point, where he met Yan. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
 >
 > Dr. Rudolph van Richten, the vampire hunter who had fled Castle Ravenloft after Strahd’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, Van Richten was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed Yan and Escher’s clandestine meeting.
 >
@@ -260,7 +260,7 @@ If the players ask Kasimir about his injuries, he claims that he had been hiking
 If the players ask Kasimir about the history of the dusk elves, Kasimir shares the following tale:
 
 <div class="description">
-<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
+<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was scarcely eighty years old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
 <p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
 <p>Barov's conquest was swift and brutal. His forces, joined by Rahadin, my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw Rahadin shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
 <p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
@@ -482,7 +482,7 @@ As the players journey west toward Szoldar’s shack, read:
 <div class="description">
 <p>The path ahead is uneven, littered with pebbles and overgrown in parts by moss and wild grass. To the left, the trees of the Svalich Wood stand tall and foreboding; to the right, a chill breeze sweeps in from the lake, tinged with a faint, brackish scent and the damp earthiness of old silt. Other than the mournful croak of a distant raven, the only sound that breaks the eerie silence is the squelching of mud beneath your feet and the quiet lapping of the waves against the shore.</p>
 <p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods.</p>
-<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away lies an old stone slab, resting on a cracked, mossy stone circle.</p>
+<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away, an old stone stele stands atop a circular foundation tightly packed with moss-covered stones.</p>
 </div>
 
 If the players arrive between the hours of noon and dusk, Szoldar and Yevgeni can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
@@ -545,12 +545,19 @@ If the players approach the snapped signpost or move to leave the intersection, 
 | ![[Scarecrow.png]] | ![[Twig Blight.png]] |
 | ------------------ | -------------------- |
 
-> [!combat]- **Balancing the Blights**
-> This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Blights**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 4
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
+> **Expected HP Consumption:** 18%
 > 
-> * ***Three Players.*** Reduce the number of scarecrows to 1.
-> * ***Four Players.*** Reduce the number of twig blights to 2.
-> * ***Six Players.*** Increase the number of scarecrows to 3.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Scarecrows | 1 | 2 | 2 | 3 |
+> | Twig Blights | 4 | 2 | 4 | 4 |
+
 # E6. Lake Baratok
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
 
@@ -634,12 +641,28 @@ A creature that touches any part of the door other than buttons without first un
 
 If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
 
-> [!combat]- **Balancing the Gargoyles**
-> This combat encounter is a **oppressive** combat encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovich), and will consume approximately 85% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Gargoyles**  
+> **Combat Level**: Oppressive
+> **Expected Character Level**: 4
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
+> **Expected HP Consumption:** 85%
 > 
-> * ***Three Players.*** Two of the gargoyles are damaged and cannot animate or fight.
-> * ***Four Players.*** One of the gargoyles is damaged and cannot animate or fight.
-> * ***Six Players.*** Add a fifth gargoyle.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Gargoyle | 2 | 3 | 4 | 5 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Two of the gargoyles are damaged and cannot animate or fight. |
+> | 4 | One of the gargoyles is damaged and cannot animate or fight. |
+> | 6 | Add a fifth gargoyle. |
+
+
 ### 2. The Scaffolding
 <span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
 
@@ -777,12 +800,26 @@ If at least two characters show that they’re carrying silvered weapons or ammu
 
 Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
 
-> [!combat]- **Balancing the Werewolves**
-> This combat encounter is a **bruising** encounter against a party of five 4th-level players and a CR 1/2 ally (Szoldar Szoldarovoch) and will consume approximately 38% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Werewolves**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 4
+> **Allies:** Szoldar Szoldarovich (CR 1/2)
+> **Expected HP Consumption:** 38%
 > 
-> * ***Three Players.*** Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Four Players.*** Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Six Players.*** Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Werewolf | 2 | 2 | 2 | 2 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
+> | 4 | Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
+> | 6 | Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
 
 Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
@@ -922,7 +959,7 @@ Once he and the players are alone in his guest suite, Rictavio draws his sword-c
 <strong>Challenge</strong> 5 (1,800 XP)<br>
 <strong>Proficiency Bonus</strong> +3
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
+<p><strong><em>Special Equipment.</em></strong> Van Richten carries an <em>amulet of proof against detection and location</em>, a <em>charm bracelet</em>, a <em>hat of disguise</em>, a <em>lucid lens</em>, and a<em>ring of mind shielding</em>.</p>
 <p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
@@ -1017,7 +1054,7 @@ If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, 
 
 <span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Five sample answers a players might receive are given below:
+Five sample answers a player might receive are given below:
 
 * What is your name? *Yan.*
 * What lord did you serve in life? *The vampire, Strahd von Zarovich.*

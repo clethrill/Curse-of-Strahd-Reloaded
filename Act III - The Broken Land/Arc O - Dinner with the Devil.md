@@ -533,6 +533,9 @@ Sasha then enters the open door leading to the <span class="citation">K65. Kitch
 <p>Sasha clears her throat. “We require a pair of mops, Master Belview," she says politely. “There’s been a bit of a spill."</p>
 </div>
 
+![[Cyrus.png]]
+<span class="credit">"Cyrus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
 
 > [!profile]+ **Profile: Cyrus Belview**
@@ -1264,6 +1267,9 @@ At the time the players first arrive, this chamber is currently inhabited by a m
 <p>A tall, bloody figure stands amidst the carnage—Strahd. His once-pristine attire is marred with bloody stains, splatters of viscera painting a gruesome tableau across his clothes and skin. His pale, near-translucent flesh contrasts sharply with the dark, dripping red that stains his trembling hands, each finger tipped with a long, bloodied claw. Beneath his blood-matted hair, his red eyes burn with a feral glow, his batlike nostrils twitching madly.</p>
 <p>A wounded guard spasms in Strahd’s grasp, then abruptly goes limp as the vampire’s fangs sink deep into his bare, crimson neck. Blood spills from the man’s throat as Strahd drinks greedily, rivulets of blood running down his chest and clothes.</p>
 </div>
+
+> [!warning]+ **Vladimir's Oath**
+> If players have been subjected to Vladimir's *oathbind* feature in [[Arc M - The Dragon's Manor]], it will still be in effect with the memory of Strahd in this scene.
 
 > [!info]+ **Memory of Strahd**
 > This memory of Strahd has the statistics described in <span class="citation">Strahd von Zarovich (p. 240)</span>, but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:

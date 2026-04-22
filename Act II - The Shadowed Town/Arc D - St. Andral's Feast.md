@@ -7,11 +7,20 @@ The players have until the night of their fifth day after arriving in Vallaki to
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
 > [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Wilemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Wilemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
 > 
 > If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
 > 
 > The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+
+> [!info]+ **Want a Hand?** 
+> Want access to a Discord community of _Reloaded_ DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") 
+> for: 
+> * Discord access (Bronze+) 
+> * Developer commentary blogs (Silver+) 
+> * Personal campaign help (Gold+) 
+> * One-on-one live mentorship and session prep (Platinum+)
+
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
@@ -352,12 +361,21 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
-> [!combat]- **Balancing the First Bride**
-> Due to the phase mechanic and chokepoint, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 48% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The First Bride**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 4
+> **Allies:** Father Lucian (CR 3)
+> **Expected HP Consumption:** 24% (first phase), and 24% (second phase) for a total of 48%
 > 
-> * ***Three Players.*** Remove the vampire spawn.
-> * ***Four Players.*** Decrease the number of vampire spawn to one. 
-> * ***Six Players.*** Increase the number of vampire spawn to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Vampire Spawn | 0 | 1 | 2 | 3 |
+> | Volenta Popofsky | 1 | 1 | 1 | 1 |
+
+> [!warning]+ **Vampire Spawn and Grappling** 
+> To avoid vampire spawn getting trapped in place due to player abilities that slow movement, all vampire spawn in Barovia have the following ability: **Fast Grappler**. The vampire spawn does not have to spend extra movement to move a creature grappled by it if the grappled creature is the same size or smaller.
 
 > [!warning]+ **Sunlight in Barovia**
 > Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
@@ -410,6 +428,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
 <p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
@@ -466,11 +485,11 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<div class="break"></div>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
@@ -517,7 +536,7 @@ The two **vampire spawn** fight by using their ***claws*** to grapple enemies, w
 # D5. Retrieving the Bones
 If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
-**_Milestone_**. Restoring the bones of St. Andral completes a story milestone. If the church is successfully reconsecrated, award each player 1,250 XP.
+**_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
 # D6. Rahadin's Visit
 At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
 ## D6a. The Invitation
