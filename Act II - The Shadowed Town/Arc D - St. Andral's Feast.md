@@ -537,6 +537,22 @@ The two **vampire spawn** fight by using their ***claws*** to grapple enemies, w
 If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
 **_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
+
+The Feast of St Andrals
+
+<div class="description"><p>The dawn will come. We say that often—so often it becomes reflex. We speak as if it is guaranteed, as if we are guaranteed to see it. But we are not. Even so, it comes.</p>
+<p>The sun still rises somewhere, though not in our sky. We live and die in darkness, and this is central to our faith. The Morninglord, in sacred texts, appears as a figure of golden light, his face smeared with blood. Even the greatest good carries some stain, and even the worst evil holds a spark of good. None of us are wholly one or the other. The best we may hope for is honesty.</p>
+<p>So we are asked to love shamelessly, to be ourselves, and to treat one another with kindness. The Morninglord asks little of us—only that we hold hope in our hearts and show kindness, even here in Barovia. For darkness lives in all of us. It is patient. It twists justice into cruelty, compassion into contempt, love into doubt.</p>
+<p>The dark is everywhere. It waits beyond every dusk, beneath every step, within every shadow. The brightest light casts the darkest shadow. And still, the dawn comes.</p>
+<p>So the Morninglord asks us to carry his light within us. To endure, even when we falter—because we will falter. You may suffer. You may lose. Your dreams may fail. But if you continue—if you fight and endure—the dawn will come. The pain will pass, one way or another.</p>
+<p>Life is fleeting. Savor it. I have known pain—I have lost friends to the woods, buried loved ones, suffered more than I thought I could bear. And yet, I endured. So will you.</p>
+<p>Never lose that light. Hope is not the belief that all will be well. It is something greater—a necessary lie, more important than truth itself. It must not die.</p>
+<p>Seek companions. No one endures alone. Those who stand beside you—who face the dark with you—are your family. They will teach you love.</p>
+<p>And love is not harsh. It is not fragile. Because it cannot be destroyed, it is gentle. It is kind.</p>
+<p>Yes, the dark is patient, and it is everywhere, and it always wins. But in that truth lies its weakness: a single candle can hold it back.</p>
+<p>Love is more than a candle. Love can reignite the stars and call back the sun</p>
+<p>No matter how deep the night, no matter how bleak the path—the dawn will come.</p>
+<p>So mote it be.</p></div>
 # D6. Rahadin's Visit
 At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
 ## D6a. The Invitation

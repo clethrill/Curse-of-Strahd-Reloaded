@@ -250,6 +250,8 @@ If the players choose to investigate the slab, they find that it bears a carving
 # J3. The Wizard of Wines
 The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
+<div class="description"><p>After a half mile, the road becomes a muddy trail that meanders through the woods, descending gradually until the trees part, revealing a mist-shrouded meadow. The trail splits. One branch heads west into the valley, and the other leads south into dark woods. A wooden signpost at the intersection points west and reads, "Vineyard."</p><p>A light drizzle begins to fall. Unpainted fences blindly follow the trail, which skirts north of a sprawling vineyard before bending south toward a stately building. The fog takes on ghostly forms as it swirls between the neatly tended rows of grapevines. Here and there, you see rope-handled half-barrels used for hauling grapes. North of the trail is a large stand of trees. A man wearing a dark cloak and cowl stands at the edge of the trees, hiding ominously in the shadows, he beckons you closer.</p></div>
+
 > [!lore]+ **History of the Winery**
 > Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
 > 

@@ -966,6 +966,8 @@ The specters drift through the air toward Stella, reaching out to seize her as t
 
 Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
 
+![[Specter.png|600]] ![[Priest.png|600]]
+
 > [!combat]- **Combat - The Specters**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5

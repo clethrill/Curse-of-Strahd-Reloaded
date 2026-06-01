@@ -645,12 +645,54 @@ Ten-foot-high flights of stone steps to the west and east of the archway lead up
 
 The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
 
+Q17
+Narrow windows illuminate this dusty 5-foot-wide spiral staircase
+Q18
+Two stone balconies flank the main foyer. Balusters
+carved to resemble knights in shining armor support
+their elegantly carved stone railings. Weapons and
+shields festoon the walls along each of these walkways,
+while alabaster busts of handsome men flank hallways
+that lead north and south away from the foyer. At the
+west end of each balcony is an archway that leads to a
+spiral staircase going up.
+Q19
+The south end of this room has collapsed, exposing the
+chamber to the elements. A few furnishings lie broken
+under fallen debris from the level above.
+Q22
+The room contains an iron tub and has wood paneling
+on the walls that rises to a height of three feet. Above the
+paneling, the walls are painted with a continuous, faded
+mural of a mountainscape.
+Q23
+Rainwater seeps through cracks in the ceiling and flows
+into a pool on the sagging wooden floor. The pool fills
+about half the room. Bare stone shelves line the walls.
+
 However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135)</span>. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
 ## M5b. Northern Chambers
 ### Guest Rooms
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
 
 These areas are largely as described in <span class="citation">Q26. Northeast Guest Room (p. 136)</span> and <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. However, no dragon appears in the fireplace when the players approach.
+
+Q26
+Two beds with torn canopies stand against opposite
+walls with a tattered rug lying on the floor between them.
+Set into the far wall is a fireplace black with soot. 
+Q29
+The contents of this room are draped in cobwebs. Be-
+tween curtained windows stands a black marble hearth
+with a sculpted mantelpiece, above which hangs a
+framed portrait of a handsome, well-dressed man with a
+wry smile and a thick mane of thistledown hair. Opposite
+the fireplace is a large bed with a rotting mattress and
+wooden posts carved to resemble dragons. Across from
+the double doors stands a tall wardrobe, its doors hang-
+ing open, revealing a dark and empty cavity. The only 
+other piece of furniture is an overstuffed leather chair
+that faces the hearth.
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
@@ -763,6 +805,14 @@ A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvan
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
 These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
+
+Q24
+This wooden balcony overhangs the mansion's chapel.
+An exquisitely carved wooden throne rests at the west
+end between two doors, and narrow archways lead to spi-
+ral staircases going up and down. Hanging from the high
+ceiling is an iron chandelier with candle holders shaped
+like tiny silver dragons.
 # M6. Third Floor
 ![[ArgynvostholtThirdFloor.png]]
 ## M6a. Halls of the Order
@@ -771,7 +821,14 @@ These areas are as described in <span class="citation">Q14. Chapel Staircases (p
 
 These areas are largely as described in <span class="citation">Q37 Knights of the Order (p. 139)</span> and <span class="citation">Q38. Closet (p. 139)</span>. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
 
+Q37
 <div class="description">
+<p>Through the dust and cobwebs, you see faded war banners adorning the walls of a spacious chamber, in the
+
+center of which stands a heavy wooden table. An iron
+chandelier hangs above the table, which is surrounded
+by six high-backed chairs with wood-carved dragons
+perched atop them. </p>
 <p>An inscription appears to be carved into the wood around the circumference of the table.</p>
 </div>
 
@@ -789,6 +846,9 @@ The inscription is written in elegant calligraphy and interwoven with aged, intr
 This area is largely as described in <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
 
 <div class="description">
+<p>Light enters this circular room through five cracked windows. The light falls on a large, dust-covered bed in the
+center of the room, its posts topped with wood-carved
+dragons. </p>
 <p>An old portrait hangs on the wall above the bed.</p>
 </div>
 
@@ -806,6 +866,27 @@ A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) ch
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
 
 These areas are largely as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span> and <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
+
+Q40
+This room is a haven for dust and cobwebs. Three nar-
+row windows allow slivers of light to illuminate bare oak
+shelves along the walls and a torn, padded chair lying
+on its side near a cavernous hearth. A picture above the
+mantel has been slashed, its lower half hanging down
+below the frame like a torn piece of flesh. An iron door
+set in the south corner of the west wall hangs open on
+one hinge.
+
+AS THEY CROSS THE ROOM
+You hear the soft flapping sound of wings, but can't
+discern its origin. A single piece of parchment blows off
+the top of a bookshelf, spirals lazily in the air, and lands
+gently at your feet.
+
+Q41
+The walls of this room are lined with lead. Emptied
+chests and shattered vases lie strewn upon the floor,
+their contents plundered.
 
 Revise Argynvost’s journal page to read as follows:
 
@@ -832,6 +913,11 @@ The space behind the image of the chapel in the picture radiates three magical a
 Removing the picture from the wall reveals a hidden stone shelf containing a parchment scroll, a silver bracelet, a small block of white stone, a silver tablet, and a banner.  In addition, the silver hilt of a rapier is nestled against a small hole in the mortar at the back of the compartment, though the blade appears to be concealed within the wall.
 
 The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
+
+> [!item]+ **Moon-touched rapier**
+> *Weapon rapier (silvered), common*
+>
+> In darkness, the unsheathed blade of this rapier sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet..
 
 > [!item]+ **Bracelet of Warding**
 > *Wondrous item, rare*
@@ -881,6 +967,8 @@ The scroll is a letter and reads as follows:
 This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
 
 <div class="description">
+<p>Rich drapes, faded by time and neglect, hide the win-
+dows of this otherwise empty room.</p>
 <p>Several empty stone shelves dot the walls between the windows.</p>
 </div>
 
@@ -890,11 +978,38 @@ This area is largely as described in <span class="citation">Q42. Argynvost’s B
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
 These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
+
+Q33
+The roof over this part of the mansion has collapsed,
+creating a twenty-foot-diameter gaping hole with broken
+rafters bisecting it. Dark storm clouds roll across the sky
+
+overhead. The floor is piled with rocks, broken tiles, shat-
+tered beams, and other debris. Beneath the rubble lie a
+
+sagging floor and puddles of rainwater.
+Q36
+The west wall of this fifty-foot-long, thirty-foot-wide audi-
+ence hall has crumbled, leaving a gaping hole and a pile
+
+of rubble. Weapons and shields that once hung from the
+walls have fallen to the floor and succumbed to rust. A
+large, wooden throne carved to resemble a dragon with
+unfolding wings faces three tall windows to the west.
+
+LATER IF VLAD RETURNS
+Slumped in the throne is a gaunt, armored figure with
+one gauntlet wrapped around the hilt of a greatsword.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
 
 This area is as described in <span class="citation">Q31. East Staircases.</span>
+
+Q31
+A round-topped wooden door opens to reveal a spiral
+staircase with narrow windows set into its walls. The
+stair connects the third floor and the mansion's roof.
 ### Ruined Antechamber
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
 
@@ -910,6 +1025,15 @@ This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. 
 This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
 
 <div class="description">
+<p>This room has dark wood paneling on the walls that rises
+to a height of three feet. Above the paneling, the walls are
+painted with murals of religious figures performing holy
+rites. In the center of the west wall is a tattered curtain
+
+hanging in an open doorway. Three tall, slender stained-
+glass windows set into the opposite wall depict figures in
+
+white robes with orange sunrises behind their heads.</p>
 <p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
 </div>
 
@@ -963,6 +1087,17 @@ If convinced by the players to aid them in speaking with Argynvost, Brother Mare
 #### Marek is Unconvinced
 If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
 
+<div class="description">
+<p>
+Tarnished, silver-plated gargoyles shaped like dragon wyrmlings cling to the stone-tiled roof of this mausoleum. An eight-foot-tall, four-foot-wide white marble door set into the southwest wall is engraved with a name: ARGYNVOST.</p>
+<p>
+**On Entry:** The interior of the mausoleum is dark and dusty. You see four empty alcoves with raised floors. Etched into the far wall is a verse written in Draconic.</p>
+
+<p>Here lie the bones and treasures of Argynvost, lord of Argynvostholt and founder of the Order of the Silver Dragon.</p>
+
+<p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
+</div>
+
 If the players subsequently descend to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
 
 * **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
@@ -1008,6 +1143,11 @@ As they fight in melee, the phantom warriors shout: “Begone, soldiers of the D
 This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
 
 <div class="description">
+<p>Wooden stairs climb to the tower's peak, which has a
+stone floor and a thirty-foot-high pitched roof. Ten-foot-high, five-foot-wide
+arched windows are evenly spaced around the walls. Each
+window consists of a lead latticework titted with small
+panes of transparent glass.</p>
 <p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
 </div>
 
@@ -1257,6 +1397,11 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 </div>
 
 The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
+
+When the dragon dreams its dream
+Within its rightful tomb,
+The light of Argynvost will beam
+And rid this land of gloom.
 
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 

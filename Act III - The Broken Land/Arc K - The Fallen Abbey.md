@@ -5,6 +5,56 @@ In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey o
 Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
 
 If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
+
+## Arc K — The Fallen Abbey: Main Events in Order
+
+### Backstory Events (Before the Players Arrive)
+
+1. **The Abbot manipulates Ilya** — The Abbot disguises himself as Ilya's aunt Zuleika and tells the 13-year-old boy to secretly discard his wolfsbane potion so he'll transform uncontrolled. _Trigger: The Abbot's plan to acquire Baroness Anna's heart for his flesh golem Vasilka._
+    
+2. **Ilya transforms and rampages** — On the night of the full moon, Ilya transforms into a feral werewolf, breaks free of his restraints in the hidden basement, kills his sister Kala, and flees into the Svalich Wood. _Trigger: Ilya secretly pouring out his potion, as the Abbot instructed._
+    
+3. **The Abbot makes his bargain** — The morning after, the Abbot sends Otto and Zygfrek to invite the grieving Krezkovs to the Abbey. He offers to resurrect Kala in exchange for Anna willingly giving her heart to complete Vasilka. Anna accepts. Kala is resurrected immediately. _Trigger: The Krezkovs' devastation over Kala's death, which the Abbot engineered._
+    
+4. **The Abbot gives Anna one month** — He grants Anna one month to say her goodbyes, warning that if she doesn't return, he will come himself and the entire village will suffer. _Trigger: His claimed act of "mercy."_
+    
+5. **Ezmerelda arrives in Krezk** — Returning to Barovia to search for her mentor Dr. Van Richten, Ezmerelda reconnects with the Krezkovs, learns of Ilya's fate and Anna's bargain, and vows to help. She begins searching the woods for Ilya. _Trigger: Her prior debt to the Krezkovs, who once saved her life._
+    
+
+---
+
+### Events During Play
+
+6. **Players enter Krezk and meet the Krezkovs** — Baron Dmitri invites the players to stay. If they do, they discover hints of the family's secret through the cottage (wolfsbane in the kitchen, claw marks in the cellar, the broken hidden basement door). _Trigger: Players gaining entry to Krezk._
+    
+7. **The Abbot visits the cottage at dinner** — He appears at the door disguised as a neighbor woman, then reveals himself. Through veiled, ominous questions directed at the players, he delivers a thinly coded threat to the Krezkovs about the consequences of breaking their bargain. He then transforms into an eagle and leaves. _Trigger: The Abbot spying on the Krezkovs (disguised as a robin earlier in the kitchen). He arrives to remind them — and intimidate them in front of witnesses._
+    
+8. **The Krezkovs break down and confess** — After the Abbot leaves, the Krezkovs collapse and, if comforted, reveal the full truth: the werewolf bloodline, Ilya's disappearance, Kala's death and resurrection, and Anna's bargain with the Abbot. _Trigger: The Abbot's departure and the players' compassion._
+    
+9. **Kala leads players to the wine cellar** (optional) — If a player privately promises to help her, Kala sneaks them into the wine cellar and hidden basement at night to confront her fears about the monster. _Trigger: Kala's haunted trauma; she wants to confirm the monster is gone._
+    
+10. **Players ascend to the Abbey** — They arrive at the North Gate and are met by Otto and Zygfrek, who escort them inside. _Trigger: Players seeking the foretold ally (Ezmerelda), as revealed by Madam Eva's reading._
+    
+11. **Meeting the Abbot and Vasilka in the Main Hall** — The Abbot greets the players. If Ezmerelda has returned, he asks the players to help with Vasilka's lesson on mortal love before he'll take them to her. _Trigger: Players asking to find the Vistana ally._
+    
+12. **Vasilka's Lesson — and Marzena escapes** — During the lesson, the bat-winged Belview Marzena breaks free of her post. The Abbot leaves to recapture her, giving Vasilka a private moment with the players. _Trigger: Clovin bursting in to report Marzena's escape._
+    
+13. **Vasilka secretly asks the players a favor** — Alone with the players, Vasilka reveals a flower garland she made for the mindless flesh golem in the east wing, asking the players to deliver it on her behalf. She is afraid the Abbot would disapprove. _Trigger: The Abbot's absence during Marzena's pursuit._
+    
+14. **Marzena crashes back in; the Abbot returns** — Marzena bursts through the window, and the Abbot re-enters, calmly subdues her, and hands her off to Clovin for confinement. He then leads the players to the east wing. _Trigger: The Abbot's return from pursuit._
+    
+15. **Meeting the flesh golem / delivering Vasilka's garland** (optional) — The golem silently escorts the players through the east wing to Ezmerelda's room. Players can choose to put Vasilka's garland around the golem's neck. _Trigger: Players following the golem; player choice._
+    
+16. **Meeting Ezmerelda** — The players find her in the barracks preparing a chalk seance circle. She sizes them up, trades information, and agrees to join their fight against Strahd — on two conditions: they conduct a seance immediately, and they help her raid the werewolf den the following night. _Trigger: Players introducing themselves and proving trustworthiness._
+    
+17. **The Seance with Saint Markovia's spirit** — Ezmerelda leads a seance using her Tarokka deck. The spirit of Saint Markovia communicates through the cards, revealing: the Abbot is a fallen divine being (an angel), corrupted by dark powers; he can only be restored using a holy artifact (the _Icon of Dawn's Grace_); and that artifact is hidden in Castle Ravenloft's catacombs. Players receive visions of Markovia's history and the artifact's location. _Trigger: Players agreeing to the seance._
+    
+18. **The Belviews are caught eavesdropping** — After the seance, Clovin, Otto, and Zygfrek are discovered in a tangled pile outside the door. They ask the players to find their patriarch Cyrus at Castle Ravenloft and report on his fate, offering a hidden Abbey treasure in exchange. _Trigger: Otto's clumsiness giving them away mid-eavesdrop._
+    
+
+---
+
+The arc then flows into **Arc L (The Den of Wolves)** — the werewolf den raid to rescue Ilya — and eventually **Arc P (Ravenloft Heist)** — retrieving the _Icon of Dawn's Grace_ to cure the Abbot and save Anna Krezkov.s
 # K1. The Village of Krezk
 The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
 

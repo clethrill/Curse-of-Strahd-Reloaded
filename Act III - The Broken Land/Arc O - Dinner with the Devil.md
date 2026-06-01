@@ -38,9 +38,9 @@ Rahadin greets the players and informs them that he has come to deliver them an 
 If opened, the envelope reads as follows, beginning with a list of the players' names and filling in the blank with the number of days until the night before the next new moon. (Due to Barovia's shortened lunar calendar, the next new moon takes place seven days after the players' first full moon in Barovia.)
 
 <div class="description">
-<p>To [Player Names],</p> 
+<p>To Arbitrage, Ester, Kewpie, Log, and Snook,</p> 
 <p>I have heard tell of your recent exploits in my domain, and wish to better know those who have arrived in my beloved land of Barovia. As such, I bid you dine at my castle so that we may meet in civilized surroundings.</p>
-<p>I expect your attendance at dusk on the night of the moon's last light, in ___ days' time. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.</p>
+<p>I expect your attendance at dusk on the night of the moon's last light, in 7 days' time. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.</p>
 <p>My carriage shall meet you at the crossroads of Ravenloft, beyond the western gate. I await your arrival.</p>
 <p>Your host,<br>
 Strahd von Zarovich</p>
