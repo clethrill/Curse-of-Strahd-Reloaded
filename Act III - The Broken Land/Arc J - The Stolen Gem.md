@@ -1138,9 +1138,11 @@ As in his first encounter with the players, Strahd is glad to accept any reasona
 
 If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
 # J5. Yester Hill
+![[YesterHill.png]]
 The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
 
 <div class="description">
+<p>The trail through the thick woods leads to a hill covered with dead grass and cairns of black rock. Dark, ominous clouds gather high above, and a single bolt of lightning strikes the hilltop. West of the hill, the land, the woods, and the sky vanish behind a towering wall of fog.</p>
 <p>A flash of brilliant viridian light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
 </div>
 
@@ -1156,6 +1158,8 @@ The players can climb the trail straight to <span class="citation">Y3. Druids Ci
 The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
 
 <div class="description">
+<p>As you walk up the hill you go pass dirt trails that run along two concentric rings of cairns that encircle the hillside. Each cairn is a ten-foot-high mound of slimy black rocks.</p>
+<p>Atop the hill is a wide ring of black boulders and smaller rocks that collectively form a makeshift wall enclosing a field of dead grass. Lightning strikes the edge of the ring from time to time, illuminating a ghastly, fifty-foot-tall statue made of tightly woven twigs and packed with black earth. The statue resembles a towering, cloaked man with fangs.</p>
 <p>A deep viridian light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
 <p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
 </div>
@@ -1366,7 +1370,7 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
     <h3>Bonus Actions</h3>
     <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to bludgeoning, piercing, and slashing damage dealt by magical and nonmagical melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</em></p>
+    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla has cast the <em>grease</em> spell, she casts <em>web</em> (DC 15), targeting the same 20-foot-square area as the <em>grease</em> spell.</p>
     <h3>Reactions</h3>
     <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
     <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>

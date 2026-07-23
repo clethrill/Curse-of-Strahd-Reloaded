@@ -234,6 +234,7 @@ One hour after nightfall, the majority of the werewolf pack departs the den. Rea
 As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
 
 <div class="description">
+<p>Above the tree line, carved into the side of a rocky mountain spur, is a wide, torchlit cave that looks like the gaping maw of a great wolf.</p>
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
 </div>
 
@@ -242,6 +243,7 @@ A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was tor
 > [!info]+ **Interior Lighting**
 > No torches line the walls of the cave. Instead, small clusters of glowing yellow fungus line the walls in their place, each cluster providing dim light in a 5-foot-radius.
 ## L4a. Cave Mouth & Guard Post
+![[WerewolfDen.png]]
 <span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
 
 This area is largely as described in <span class="citation">Z1. Cave Mouth (p. 203)</span> and <span class="citation">Z2. Guard Post (p. 203)</span>. However, revise the description of this area to read as follows:
@@ -270,6 +272,10 @@ Replace the wolves' ***bite*** attack with the following action options:
 
 This area is largely as described in <span class="citation">Z4. Underground Spring (p. 203)</span>. However, the area is lit by yellow clumps of fungus, not torches.
 
+<div class="description">
+<p>A gash in the rocky ceiling allows the gray light and cold drizzle of the outdoors to seep into this dank, fungus lit cave, where an underground spring forms a pool of water roughly forty feet across and ten feet deep. A five-foot-high ledge to the north overlooks the pool. A similar ledge spans the eastern wall, with a rough-hewn staircase leading up to it. A few crates sit atop the eastern ledge.</p>
+</div>
+
 Additionally, if the players linger or delve deeper into this chamber, read:
 
 <div class="description">
@@ -286,6 +292,7 @@ A creature that approaches the pool sees its reflection distorted. Instead of it
 This area is largely as described in <span class="citation">Z3. Wolf Den (p. 203)</span>. However, add the following text to the end of the area’s description:
 
 <div class="description">
+<p>A five-foot-high stone ledge overlooks this large cave, which has a smoldering campfire at the far west end. The floor is covered with gnawed bones.</p>
 <p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
 </div>
 
@@ -317,6 +324,10 @@ If the players remain in Skennis’s cave without feeding, healing, pacifying, i
 Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], the two **werewolf brawlers** and six **wolves** in [[#L4d. Deep Caves]], Bianca in **Z8. Ring of Stone**, and Azianka and Davanka (if still alive and within earshot of the den). The werewolf brawlers and wolves arrive after one round, Azianka and Davanka arriving at least two rounds later.
 ## L4d. Deep Caves
 <span class="citation"><em>This area corresponds to Z5. Deep Caves (p. 203).</em></span>
+
+<div class="description">
+<p>A maze of yellow-lit tunnels and caves expands in front of you. Bones lie strewn upon the floor.</p>
+</div>
 
 This area is largely as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>.
 

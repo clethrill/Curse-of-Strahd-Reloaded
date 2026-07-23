@@ -265,6 +265,9 @@
     <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
 </div>
 
+Svarog
+* ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
+* ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.*
 ### Elder Twig Blight
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
@@ -531,7 +534,6 @@
 </div>
 
 ### Werewolf
-
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -587,7 +589,6 @@
 </div>
 
 ### Werewolf Brawler
-
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">

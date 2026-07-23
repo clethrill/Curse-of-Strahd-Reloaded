@@ -18,10 +18,10 @@ The players begin this act at 5th level and should end it at 8th level, gaining 
 
 * defeat the druids occupying the Wizard of Wines winery (2,000 XP)
 * retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,000 XP)
+* ~~recruit Ezmerelda d’Avenir at the Abbey of St. Markovia~~ (1,000 XP)
 * bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
 * free Ilya and Zuleika from the den (250 XP)
-* receive Argynvost’s mission at Argynvostholt (2,500 XP)
+* ~~receive Argynvost’s mission at Argynvostholt~~ (2,500 XP)
 * put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (500 XP)
 * return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
 * steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (4000 XP)
